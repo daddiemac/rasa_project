@@ -1,0 +1,5028 @@
+version: "3.1"
+
+intents:
+  - ask_banana_401
+  - ask_banana_402
+  - ask_banana_403
+  - ask_banana_404
+  - ask_banana_405
+  - ask_banana_406
+  - ask_banana_407
+  - ask_banana_408
+  - ask_banana_409
+  - ask_banana_410
+  - ask_banana_411
+  - ask_banana_412
+  - ask_banana_413
+  - ask_banana_414
+  - ask_banana_415
+  - ask_banana_416
+  - ask_banana_417
+  - ask_banana_418
+  - ask_banana_419
+  - ask_banana_420
+  - ask_banana_421
+  - ask_banana_422
+  - ask_banana_423
+  - ask_banana_424
+  - ask_banana_425
+  - ask_banana_426
+  - ask_banana_427
+  - ask_banana_428
+  - ask_banana_429
+  - ask_banana_430
+  - ask_banana_431
+  - ask_banana_432
+  - ask_banana_433
+  - ask_banana_434
+  - ask_banana_435
+  - ask_banana_436
+  - ask_banana_437
+  - ask_banana_438
+  - ask_banana_439
+  - ask_banana_440
+  - ask_banana_441
+  - ask_banana_442
+  - ask_banana_443
+  - ask_banana_444
+  - ask_banana_445
+  - ask_banana_446
+  - ask_banana_447
+  - ask_banana_448
+  - ask_banana_449
+  - ask_banana_450
+  - ask_banana_451
+  - ask_banana_452
+  - ask_banana_453
+  - ask_banana_454
+  - ask_banana_455
+  - ask_banana_456
+  - ask_banana_457
+  - ask_banana_458
+  - ask_banana_459
+  - ask_banana_460
+  - ask_banana_461
+  - ask_banana_462
+  - ask_banana_463
+  - ask_banana_464
+  - ask_banana_465
+  - ask_banana_466
+  - ask_banana_467
+  - ask_banana_468
+  - ask_banana_469
+  - ask_banana_470
+  - ask_banana_471
+  - ask_banana_472
+  - ask_banana_473
+  - ask_banana_474
+  - ask_banana_475
+  - ask_banana_476
+  - ask_banana_477
+  - ask_banana_478
+  - ask_banana_479
+  - ask_banana_480
+  - ask_banana_481
+  - ask_banana_482
+  - ask_banana_483
+  - ask_banana_484
+  - ask_banana_485
+  - ask_banana_486
+  - ask_banana_487
+  - ask_banana_488
+  - ask_banana_489
+  - ask_banana_490
+  - ask_banana_491
+  - ask_banana_492
+  - ask_banana_493
+  - ask_banana_494
+  - ask_banana_495
+  - ask_banana_496
+  - ask_banana_497
+  - ask_banana_498
+  - ask_banana_499
+  - ask_banana_500
+  - ask_beans_601
+  - ask_beans_602
+  - ask_beans_603
+  - ask_beans_604
+  - ask_beans_605
+  - ask_beans_606
+  - ask_beans_607
+  - ask_beans_608
+  - ask_beans_609
+  - ask_beans_610
+  - ask_beans_611
+  - ask_beans_612
+  - ask_beans_613
+  - ask_beans_614
+  - ask_beans_615
+  - ask_beans_616
+  - ask_beans_617
+  - ask_beans_618
+  - ask_beans_619
+  - ask_beans_620
+  - ask_beans_621
+  - ask_beans_622
+  - ask_beans_623
+  - ask_beans_624
+  - ask_beans_625
+  - ask_beans_626
+  - ask_beans_627
+  - ask_beans_628
+  - ask_beans_629
+  - ask_beans_630
+  - ask_beans_631
+  - ask_beans_632
+  - ask_beans_633
+  - ask_beans_634
+  - ask_beans_635
+  - ask_beans_636
+  - ask_beans_637
+  - ask_beans_638
+  - ask_beans_639
+  - ask_beans_640
+  - ask_beans_641
+  - ask_beans_642
+  - ask_beans_643
+  - ask_beans_644
+  - ask_beans_645
+  - ask_beans_646
+  - ask_beans_647
+  - ask_beans_648
+  - ask_beans_649
+  - ask_beans_650
+  - ask_beans_651
+  - ask_beans_652
+  - ask_beans_653
+  - ask_beans_654
+  - ask_beans_655
+  - ask_beans_656
+  - ask_beans_657
+  - ask_beans_658
+  - ask_beans_659
+  - ask_beans_660
+  - ask_beans_661
+  - ask_beans_662
+  - ask_beans_663
+  - ask_beans_664
+  - ask_beans_665
+  - ask_beans_666
+  - ask_beans_667
+  - ask_beans_668
+  - ask_beans_669
+  - ask_beans_670
+  - ask_beans_671
+  - ask_beans_672
+  - ask_beans_673
+  - ask_beans_674
+  - ask_beans_675
+  - ask_beans_676
+  - ask_beans_677
+  - ask_beans_678
+  - ask_beans_679
+  - ask_beans_680
+  - ask_beans_681
+  - ask_beans_682
+  - ask_beans_683
+  - ask_beans_684
+  - ask_beans_685
+  - ask_beans_686
+  - ask_beans_687
+  - ask_beans_688
+  - ask_beans_689
+  - ask_beans_690
+  - ask_beans_691
+  - ask_beans_692
+  - ask_beans_693
+  - ask_beans_694
+  - ask_beans_695
+  - ask_beans_696
+  - ask_beans_697
+  - ask_beans_698
+  - ask_beans_699
+  - ask_beans_700
+  - ask_cassava_1081
+  - ask_cassava_1082
+  - ask_cassava_1083
+  - ask_cassava_1084
+  - ask_cassava_1085
+  - ask_cassava_1086
+  - ask_cassava_1087
+  - ask_cassava_1088
+  - ask_cassava_1089
+  - ask_cassava_1090
+  - ask_cassava_1091
+  - ask_cassava_1092
+  - ask_cassava_1093
+  - ask_cassava_1094
+  - ask_cassava_1095
+  - ask_cassava_1096
+  - ask_cassava_1097
+  - ask_cassava_1098
+  - ask_cassava_1099
+  - ask_cassava_1100
+  - ask_cassava_1101
+  - ask_cassava_1102
+  - ask_cassava_1103
+  - ask_cassava_1104
+  - ask_cassava_1105
+  - ask_cassava_1106
+  - ask_cassava_1107
+  - ask_cassava_1108
+  - ask_cassava_1109
+  - ask_cassava_1110
+  - ask_cassava_1111
+  - ask_cassava_1112
+  - ask_cassava_1113
+  - ask_cassava_1114
+  - ask_cassava_1115
+  - ask_cassava_1116
+  - ask_cassava_1117
+  - ask_cassava_1118
+  - ask_cassava_1119
+  - ask_cassava_1120
+  - ask_cassava_1121
+  - ask_cassava_1122
+  - ask_cassava_1123
+  - ask_cassava_1124
+  - ask_cassava_1125
+  - ask_cassava_1126
+  - ask_cassava_1127
+  - ask_cassava_1128
+  - ask_cassava_1129
+  - ask_cassava_1130
+  - ask_cassava_1131
+  - ask_cassava_1132
+  - ask_cassava_1133
+  - ask_cassava_1134
+  - ask_cassava_1135
+  - ask_cassava_1136
+  - ask_cassava_1137
+  - ask_cassava_1138
+  - ask_cassava_1139
+  - ask_cassava_1140
+  - ask_cassava_1141
+  - ask_cassava_1142
+  - ask_cassava_1143
+  - ask_cassava_1144
+  - ask_cassava_1145
+  - ask_cassava_1146
+  - ask_cassava_1147
+  - ask_cassava_1148
+  - ask_cassava_1149
+  - ask_cassava_1150
+  - ask_cassava_1151
+  - ask_cassava_1152
+  - ask_cassava_1153
+  - ask_cassava_1154
+  - ask_cassava_1155
+  - ask_cassava_1156
+  - ask_cassava_1157
+  - ask_cassava_1158
+  - ask_cassava_1159
+  - ask_cassava_1160
+  - ask_cassava_1161
+  - ask_cassava_1162
+  - ask_cassava_1163
+  - ask_cassava_1164
+  - ask_cassava_1165
+  - ask_cassava_1166
+  - ask_cassava_1167
+  - ask_cassava_1168
+  - ask_cassava_1169
+  - ask_cassava_1170
+  - ask_cassava_1171
+  - ask_cassava_1172
+  - ask_cassava_1173
+  - ask_cassava_1174
+  - ask_cassava_1175
+  - ask_cassava_1176
+  - ask_cassava_1177
+  - ask_cassava_1178
+  - ask_cassava_1179
+  - ask_cassava_1180
+  - ask_cassava_1181
+  - ask_cassava_1182
+  - ask_cassava_1183
+  - ask_cassava_1184
+  - ask_cassava_1185
+  - ask_cassava_1186
+  - ask_cassava_1187
+  - ask_cassava_1188
+  - ask_cassava_1189
+  - ask_cassava_1190
+  - ask_cassava_1191
+  - ask_cassava_1192
+  - ask_cassava_1193
+  - ask_cassava_1194
+  - ask_cassava_1195
+  - ask_cassava_1196
+  - ask_cassava_1197
+  - ask_cassava_1198
+  - ask_cassava_1199
+  - ask_cassava_1200
+  - ask_cassava_1201
+  - ask_cassava_1202
+  - ask_cassava_1203
+  - ask_cassava_1204
+  - ask_cassava_1205
+  - ask_cassava_1206
+  - ask_cassava_1207
+  - ask_cassava_1208
+  - ask_cassava_1209
+  - ask_cassava_1210
+  - ask_cassava_1211
+  - ask_cassava_1212
+  - ask_cassava_1213
+  - ask_cassava_1214
+  - ask_cassava_1215
+  - ask_cassava_1216
+  - ask_cassava_1217
+  - ask_cassava_1218
+  - ask_cassava_1219
+  - ask_cassava_1220
+  - ask_cassava_1221
+  - ask_cassava_1222
+  - ask_cassava_1223
+  - ask_cassava_1224
+  - ask_cassava_1225
+  - ask_cassava_1226
+  - ask_cassava_1227
+  - ask_cassava_1228
+  - ask_cassava_1229
+  - ask_cassava_1230
+  - ask_cassava_1231
+  - ask_cassava_1232
+  - ask_cassava_1233
+  - ask_cassava_1234
+  - ask_cassava_1235
+  - ask_cassava_1236
+  - ask_cassava_1237
+  - ask_cassava_1238
+  - ask_cassava_1239
+  - ask_cassava_1240
+  - ask_cassava_1241
+  - ask_cassava_1242
+  - ask_cassava_1243
+  - ask_cassava_1244
+  - ask_cassava_1245
+  - ask_cassava_1246
+  - ask_cassava_1247
+  - ask_cassava_1248
+  - ask_cassava_1249
+  - ask_cassava_1250
+  - ask_cassava_1251
+  - ask_cassava_1252
+  - ask_cassava_1253
+  - ask_cassava_1254
+  - ask_cassava_1255
+  - ask_cassava_1256
+  - ask_cassava_1257
+  - ask_cassava_1258
+  - ask_cassava_1259
+  - ask_cassava_1260
+  - ask_cassava_1261
+  - ask_cassava_1262
+  - ask_cassava_1263
+  - ask_cassava_1264
+  - ask_cassava_1265
+  - ask_cassava_1266
+  - ask_cassava_1267
+  - ask_cassava_1268
+  - ask_cassava_1269
+  - ask_cassava_1270
+  - ask_cassava_1271
+  - ask_cassava_1272
+  - ask_cassava_1273
+  - ask_cassava_1274
+  - ask_cassava_1275
+  - ask_cassava_1276
+  - ask_cassava_1277
+  - ask_cassava_1278
+  - ask_cassava_1279
+  - ask_cassava_1280
+  - ask_cassava_1281
+  - ask_cassava_1282
+  - ask_cassava_1283
+  - ask_cassava_1284
+  - ask_cassava_1285
+  - ask_cassava_1286
+  - ask_cassava_1287
+  - ask_cassava_1288
+  - ask_cassava_1289
+  - ask_cassava_1290
+  - ask_cassava_1291
+  - ask_cassava_1292
+  - ask_cassava_1293
+  - ask_cassava_1294
+  - ask_cassava_1295
+  - ask_cassava_1296
+  - ask_cassava_1297
+  - ask_cassava_878
+  - ask_cassava_879
+  - ask_cassava_880
+  - ask_cassava_881
+  - ask_cassava_882
+  - ask_cassava_883
+  - ask_cassava_884
+  - ask_cassava_885
+  - ask_cassava_886
+  - ask_cassava_887
+  - ask_cassava_888
+  - ask_cassava_889
+  - ask_cassava_890
+  - ask_cassava_891
+  - ask_cassava_892
+  - ask_cassava_893
+  - ask_cassava_894
+  - ask_cassava_895
+  - ask_cassava_896
+  - ask_cassava_897
+  - ask_cassava_898
+  - ask_cassava_899
+  - ask_cassava_900
+  - ask_good_agricultural_methods_1000
+  - ask_good_agricultural_methods_1001
+  - ask_good_agricultural_methods_1002
+  - ask_good_agricultural_methods_1003
+  - ask_good_agricultural_methods_1004
+  - ask_good_agricultural_methods_1005
+  - ask_good_agricultural_methods_1006
+  - ask_good_agricultural_methods_1007
+  - ask_good_agricultural_methods_1008
+  - ask_good_agricultural_methods_1009
+  - ask_good_agricultural_methods_1010
+  - ask_good_agricultural_methods_1011
+  - ask_good_agricultural_methods_1012
+  - ask_good_agricultural_methods_1013
+  - ask_good_agricultural_methods_1014
+  - ask_good_agricultural_methods_1015
+  - ask_good_agricultural_methods_1016
+  - ask_good_agricultural_methods_1017
+  - ask_good_agricultural_methods_1018
+  - ask_good_agricultural_methods_1019
+  - ask_good_agricultural_methods_1020
+  - ask_good_agricultural_methods_1021
+  - ask_good_agricultural_methods_1022
+  - ask_good_agricultural_methods_1023
+  - ask_good_agricultural_methods_1024
+  - ask_good_agricultural_methods_1025
+  - ask_good_agricultural_methods_1026
+  - ask_good_agricultural_methods_1027
+  - ask_good_agricultural_methods_1028
+  - ask_good_agricultural_methods_1029
+  - ask_good_agricultural_methods_1030
+  - ask_good_agricultural_methods_1031
+  - ask_good_agricultural_methods_932
+  - ask_good_agricultural_methods_933
+  - ask_good_agricultural_methods_934
+  - ask_good_agricultural_methods_935
+  - ask_good_agricultural_methods_936
+  - ask_good_agricultural_methods_937
+  - ask_good_agricultural_methods_938
+  - ask_good_agricultural_methods_939
+  - ask_good_agricultural_methods_940
+  - ask_good_agricultural_methods_941
+  - ask_good_agricultural_methods_942
+  - ask_good_agricultural_methods_943
+  - ask_good_agricultural_methods_944
+  - ask_good_agricultural_methods_945
+  - ask_good_agricultural_methods_946
+  - ask_good_agricultural_methods_947
+  - ask_good_agricultural_methods_948
+  - ask_good_agricultural_methods_949
+  - ask_good_agricultural_methods_950
+  - ask_good_agricultural_methods_951
+  - ask_good_agricultural_methods_952
+  - ask_good_agricultural_methods_953
+  - ask_good_agricultural_methods_954
+  - ask_good_agricultural_methods_955
+  - ask_good_agricultural_methods_956
+  - ask_good_agricultural_methods_982
+  - ask_good_agricultural_methods_983
+  - ask_good_agricultural_methods_984
+  - ask_good_agricultural_methods_985
+  - ask_good_agricultural_methods_986
+  - ask_good_agricultural_methods_987
+  - ask_good_agricultural_methods_988
+  - ask_good_agricultural_methods_989
+  - ask_good_agricultural_methods_990
+  - ask_good_agricultural_methods_991
+  - ask_good_agricultural_methods_992
+  - ask_good_agricultural_methods_993
+  - ask_good_agricultural_methods_994
+  - ask_good_agricultural_methods_995
+  - ask_good_agricultural_methods_996
+  - ask_good_agricultural_methods_997
+  - ask_good_agricultural_methods_998
+  - ask_good_agricultural_methods_999
+  - ask_maize_1
+  - ask_maize_10
+  - ask_maize_100
+  - ask_maize_11
+  - ask_maize_12
+  - ask_maize_13
+  - ask_maize_14
+  - ask_maize_15
+  - ask_maize_16
+  - ask_maize_17
+  - ask_maize_18
+  - ask_maize_19
+  - ask_maize_2
+  - ask_maize_20
+  - ask_maize_21
+  - ask_maize_22
+  - ask_maize_23
+  - ask_maize_24
+  - ask_maize_25
+  - ask_maize_26
+  - ask_maize_27
+  - ask_maize_28
+  - ask_maize_29
+  - ask_maize_3
+  - ask_maize_30
+  - ask_maize_31
+  - ask_maize_32
+  - ask_maize_33
+  - ask_maize_34
+  - ask_maize_35
+  - ask_maize_36
+  - ask_maize_37
+  - ask_maize_38
+  - ask_maize_39
+  - ask_maize_4
+  - ask_maize_40
+  - ask_maize_41
+  - ask_maize_42
+  - ask_maize_43
+  - ask_maize_44
+  - ask_maize_45
+  - ask_maize_46
+  - ask_maize_47
+  - ask_maize_48
+  - ask_maize_49
+  - ask_maize_5
+  - ask_maize_50
+  - ask_maize_51
+  - ask_maize_52
+  - ask_maize_53
+  - ask_maize_54
+  - ask_maize_55
+  - ask_maize_56
+  - ask_maize_57
+  - ask_maize_58
+  - ask_maize_59
+  - ask_maize_6
+  - ask_maize_60
+  - ask_maize_61
+  - ask_maize_62
+  - ask_maize_63
+  - ask_maize_64
+  - ask_maize_65
+  - ask_maize_66
+  - ask_maize_67
+  - ask_maize_68
+  - ask_maize_69
+  - ask_maize_7
+  - ask_maize_70
+  - ask_maize_71
+  - ask_maize_72
+  - ask_maize_73
+  - ask_maize_74
+  - ask_maize_75
+  - ask_maize_76
+  - ask_maize_77
+  - ask_maize_78
+  - ask_maize_79
+  - ask_maize_8
+  - ask_maize_80
+  - ask_maize_81
+  - ask_maize_82
+  - ask_maize_83
+  - ask_maize_84
+  - ask_maize_85
+  - ask_maize_86
+  - ask_maize_87
+  - ask_maize_88
+  - ask_maize_89
+  - ask_maize_9
+  - ask_maize_90
+  - ask_maize_91
+  - ask_maize_92
+  - ask_maize_93
+  - ask_maize_94
+  - ask_maize_95
+  - ask_maize_96
+  - ask_maize_97
+  - ask_maize_98
+  - ask_maize_99
+  - ask_pepper_201
+  - ask_pepper_202
+  - ask_pepper_203
+  - ask_pepper_204
+  - ask_pepper_205
+  - ask_pepper_206
+  - ask_pepper_207
+  - ask_pepper_208
+  - ask_pepper_209
+  - ask_pepper_210
+  - ask_pepper_211
+  - ask_pepper_212
+  - ask_pepper_213
+  - ask_pepper_214
+  - ask_pepper_215
+  - ask_pepper_216
+  - ask_pepper_217
+  - ask_pepper_218
+  - ask_pepper_219
+  - ask_pepper_220
+  - ask_pepper_221
+  - ask_pepper_222
+  - ask_pepper_223
+  - ask_pepper_224
+  - ask_pepper_225
+  - ask_pepper_226
+  - ask_pepper_227
+  - ask_pepper_228
+  - ask_pepper_229
+  - ask_pepper_230
+  - ask_pepper_231
+  - ask_pepper_232
+  - ask_pepper_233
+  - ask_pepper_234
+  - ask_pepper_235
+  - ask_pepper_236
+  - ask_pepper_237
+  - ask_pepper_238
+  - ask_pepper_239
+  - ask_pepper_240
+  - ask_pepper_241
+  - ask_pepper_242
+  - ask_pepper_243
+  - ask_pepper_244
+  - ask_pepper_245
+  - ask_pepper_246
+  - ask_pepper_247
+  - ask_pepper_248
+  - ask_pepper_249
+  - ask_pepper_250
+  - ask_pepper_251
+  - ask_pepper_252
+  - ask_pepper_253
+  - ask_pepper_254
+  - ask_pepper_255
+  - ask_pepper_256
+  - ask_pepper_257
+  - ask_pepper_258
+  - ask_pepper_259
+  - ask_pepper_260
+  - ask_pepper_261
+  - ask_pepper_262
+  - ask_pepper_263
+  - ask_pepper_264
+  - ask_pepper_265
+  - ask_pepper_266
+  - ask_pepper_267
+  - ask_pepper_268
+  - ask_pepper_269
+  - ask_pepper_270
+  - ask_pepper_271
+  - ask_pepper_272
+  - ask_pepper_273
+  - ask_pepper_274
+  - ask_pepper_275
+  - ask_pepper_276
+  - ask_pepper_277
+  - ask_pepper_278
+  - ask_pepper_279
+  - ask_pepper_280
+  - ask_pepper_281
+  - ask_pepper_282
+  - ask_pepper_283
+  - ask_pepper_284
+  - ask_pepper_285
+  - ask_pepper_286
+  - ask_pepper_287
+  - ask_pepper_288
+  - ask_pepper_289
+  - ask_pepper_290
+  - ask_pepper_291
+  - ask_pepper_292
+  - ask_pepper_293
+  - ask_pepper_294
+  - ask_pepper_295
+  - ask_pepper_296
+  - ask_pepper_297
+  - ask_pepper_298
+  - ask_pepper_299
+  - ask_pepper_300
+  - ask_pineapple_851
+  - ask_pineapple_852
+  - ask_pineapple_853
+  - ask_pineapple_854
+  - ask_pineapple_855
+  - ask_pineapple_856
+  - ask_pineapple_857
+  - ask_pineapple_858
+  - ask_pineapple_859
+  - ask_pineapple_860
+  - ask_pineapple_861
+  - ask_pineapple_862
+  - ask_pineapple_863
+  - ask_pineapple_864
+  - ask_pineapple_865
+  - ask_pineapple_866
+  - ask_pineapple_867
+  - ask_pineapple_868
+  - ask_pineapple_869
+  - ask_pineapple_870
+  - ask_pineapple_871
+  - ask_pineapple_872
+  - ask_pineapple_873
+  - ask_pineapple_874
+  - ask_pineapple_875
+  - ask_pineapple_876
+  - ask_pineapple_877
+  - ask_pineapple_901
+  - ask_pineapple_902
+  - ask_pineapple_903
+  - ask_pineapple_904
+  - ask_pineapple_905
+  - ask_pineapple_906
+  - ask_pineapple_907
+  - ask_pineapple_908
+  - ask_pineapple_909
+  - ask_pineapple_910
+  - ask_pineapple_911
+  - ask_pineapple_912
+  - ask_pineapple_913
+  - ask_pineapple_914
+  - ask_pineapple_915
+  - ask_pineapple_916
+  - ask_pineapple_917
+  - ask_pineapple_918
+  - ask_pineapple_919
+  - ask_pineapple_920
+  - ask_pineapple_921
+  - ask_pineapple_922
+  - ask_pineapple_923
+  - ask_pineapple_924
+  - ask_pineapple_925
+  - ask_pineapple_926
+  - ask_pineapple_927
+  - ask_pineapple_928
+  - ask_pineapple_929
+  - ask_pineapple_930
+  - ask_pineapple_931
+  - ask_plantain_501
+  - ask_plantain_502
+  - ask_plantain_503
+  - ask_plantain_504
+  - ask_plantain_505
+  - ask_plantain_506
+  - ask_plantain_507
+  - ask_plantain_508
+  - ask_plantain_509
+  - ask_plantain_510
+  - ask_plantain_511
+  - ask_plantain_512
+  - ask_plantain_513
+  - ask_plantain_514
+  - ask_plantain_515
+  - ask_plantain_516
+  - ask_plantain_517
+  - ask_plantain_518
+  - ask_plantain_519
+  - ask_plantain_520
+  - ask_plantain_521
+  - ask_plantain_522
+  - ask_plantain_523
+  - ask_plantain_524
+  - ask_plantain_525
+  - ask_plantain_526
+  - ask_plantain_527
+  - ask_plantain_528
+  - ask_plantain_529
+  - ask_plantain_530
+  - ask_plantain_531
+  - ask_plantain_532
+  - ask_plantain_533
+  - ask_plantain_534
+  - ask_plantain_535
+  - ask_plantain_536
+  - ask_plantain_537
+  - ask_plantain_538
+  - ask_plantain_539
+  - ask_plantain_540
+  - ask_plantain_541
+  - ask_plantain_542
+  - ask_plantain_543
+  - ask_plantain_544
+  - ask_plantain_545
+  - ask_plantain_546
+  - ask_plantain_547
+  - ask_plantain_548
+  - ask_plantain_549
+  - ask_plantain_550
+  - ask_plantain_551
+  - ask_plantain_552
+  - ask_plantain_553
+  - ask_plantain_554
+  - ask_plantain_555
+  - ask_plantain_556
+  - ask_plantain_557
+  - ask_plantain_558
+  - ask_plantain_559
+  - ask_plantain_560
+  - ask_plantain_561
+  - ask_plantain_562
+  - ask_plantain_563
+  - ask_plantain_564
+  - ask_plantain_565
+  - ask_plantain_566
+  - ask_plantain_567
+  - ask_plantain_568
+  - ask_plantain_569
+  - ask_plantain_570
+  - ask_plantain_571
+  - ask_plantain_572
+  - ask_plantain_573
+  - ask_plantain_574
+  - ask_plantain_575
+  - ask_plantain_576
+  - ask_plantain_577
+  - ask_plantain_578
+  - ask_plantain_579
+  - ask_plantain_580
+  - ask_plantain_581
+  - ask_plantain_582
+  - ask_plantain_583
+  - ask_plantain_584
+  - ask_plantain_585
+  - ask_plantain_586
+  - ask_plantain_587
+  - ask_plantain_588
+  - ask_plantain_589
+  - ask_plantain_590
+  - ask_plantain_591
+  - ask_plantain_592
+  - ask_plantain_593
+  - ask_plantain_594
+  - ask_plantain_595
+  - ask_plantain_596
+  - ask_plantain_597
+  - ask_plantain_598
+  - ask_plantain_599
+  - ask_plantain_600
+  - ask_rice_701
+  - ask_rice_702
+  - ask_rice_703
+  - ask_rice_704
+  - ask_rice_705
+  - ask_rice_706
+  - ask_rice_707
+  - ask_rice_708
+  - ask_rice_709
+  - ask_rice_710
+  - ask_rice_711
+  - ask_rice_712
+  - ask_rice_713
+  - ask_rice_714
+  - ask_rice_715
+  - ask_rice_716
+  - ask_rice_717
+  - ask_rice_718
+  - ask_rice_719
+  - ask_rice_720
+  - ask_rice_721
+  - ask_rice_722
+  - ask_rice_723
+  - ask_rice_724
+  - ask_rice_725
+  - ask_rice_726
+  - ask_rice_727
+  - ask_rice_728
+  - ask_rice_729
+  - ask_rice_730
+  - ask_rice_731
+  - ask_rice_732
+  - ask_rice_733
+  - ask_rice_734
+  - ask_rice_735
+  - ask_rice_736
+  - ask_rice_737
+  - ask_rice_738
+  - ask_rice_739
+  - ask_rice_740
+  - ask_rice_741
+  - ask_rice_742
+  - ask_rice_743
+  - ask_rice_744
+  - ask_rice_745
+  - ask_rice_746
+  - ask_rice_747
+  - ask_rice_748
+  - ask_rice_749
+  - ask_rice_750
+  - ask_rice_751
+  - ask_rice_752
+  - ask_rice_753
+  - ask_rice_754
+  - ask_rice_755
+  - ask_rice_756
+  - ask_rice_757
+  - ask_rice_758
+  - ask_rice_759
+  - ask_rice_760
+  - ask_rice_761
+  - ask_rice_762
+  - ask_rice_763
+  - ask_rice_764
+  - ask_rice_765
+  - ask_rice_766
+  - ask_rice_767
+  - ask_rice_768
+  - ask_rice_769
+  - ask_rice_770
+  - ask_rice_771
+  - ask_rice_772
+  - ask_rice_773
+  - ask_rice_774
+  - ask_rice_775
+  - ask_rice_776
+  - ask_rice_777
+  - ask_rice_778
+  - ask_rice_779
+  - ask_rice_780
+  - ask_rice_781
+  - ask_rice_782
+  - ask_rice_783
+  - ask_rice_784
+  - ask_rice_785
+  - ask_rice_786
+  - ask_rice_787
+  - ask_rice_788
+  - ask_rice_789
+  - ask_rice_790
+  - ask_rice_791
+  - ask_rice_792
+  - ask_rice_793
+  - ask_rice_794
+  - ask_rice_795
+  - ask_rice_796
+  - ask_rice_797
+  - ask_rice_798
+  - ask_rice_799
+  - ask_rice_800
+  - ask_vegetable_301
+  - ask_vegetable_302
+  - ask_vegetable_303
+  - ask_vegetable_304
+  - ask_vegetable_305
+  - ask_vegetable_306
+  - ask_vegetable_307
+  - ask_vegetable_308
+  - ask_vegetable_309
+  - ask_vegetable_310
+  - ask_vegetable_311
+  - ask_vegetable_312
+  - ask_vegetable_313
+  - ask_vegetable_314
+  - ask_vegetable_315
+  - ask_vegetable_316
+  - ask_vegetable_317
+  - ask_vegetable_318
+  - ask_vegetable_319
+  - ask_vegetable_320
+  - ask_vegetable_321
+  - ask_vegetable_322
+  - ask_vegetable_323
+  - ask_vegetable_324
+  - ask_vegetable_325
+  - ask_vegetable_326
+  - ask_vegetable_327
+  - ask_vegetable_328
+  - ask_vegetable_329
+  - ask_vegetable_330
+  - ask_vegetable_331
+  - ask_vegetable_332
+  - ask_vegetable_333
+  - ask_vegetable_334
+  - ask_vegetable_335
+  - ask_vegetable_336
+  - ask_vegetable_337
+  - ask_vegetable_338
+  - ask_vegetable_339
+  - ask_vegetable_340
+  - ask_vegetable_341
+  - ask_vegetable_342
+  - ask_vegetable_343
+  - ask_vegetable_344
+  - ask_vegetable_345
+  - ask_vegetable_346
+  - ask_vegetable_347
+  - ask_vegetable_348
+  - ask_vegetable_349
+  - ask_vegetable_350
+  - ask_vegetable_351
+  - ask_vegetable_352
+  - ask_vegetable_353
+  - ask_vegetable_354
+  - ask_vegetable_355
+  - ask_vegetable_356
+  - ask_vegetable_357
+  - ask_vegetable_358
+  - ask_vegetable_359
+  - ask_vegetable_360
+  - ask_vegetable_361
+  - ask_vegetable_362
+  - ask_vegetable_363
+  - ask_vegetable_364
+  - ask_vegetable_365
+  - ask_vegetable_366
+  - ask_vegetable_367
+  - ask_vegetable_368
+  - ask_vegetable_369
+  - ask_vegetable_370
+  - ask_vegetable_371
+  - ask_vegetable_372
+  - ask_vegetable_373
+  - ask_vegetable_374
+  - ask_vegetable_375
+  - ask_vegetable_376
+  - ask_vegetable_377
+  - ask_vegetable_378
+  - ask_vegetable_379
+  - ask_vegetable_380
+  - ask_vegetable_381
+  - ask_vegetable_382
+  - ask_vegetable_383
+  - ask_vegetable_384
+  - ask_vegetable_385
+  - ask_vegetable_386
+  - ask_vegetable_387
+  - ask_vegetable_388
+  - ask_vegetable_389
+  - ask_vegetable_390
+  - ask_vegetable_391
+  - ask_vegetable_392
+  - ask_vegetable_393
+  - ask_vegetable_394
+  - ask_vegetable_395
+  - ask_vegetable_396
+  - ask_vegetable_397
+  - ask_vegetable_398
+  - ask_vegetable_399
+  - ask_vegetable_400
+  - ask_waterleaf_801
+  - ask_waterleaf_802
+  - ask_waterleaf_803
+  - ask_waterleaf_804
+  - ask_waterleaf_805
+  - ask_waterleaf_806
+  - ask_waterleaf_807
+  - ask_waterleaf_808
+  - ask_waterleaf_809
+  - ask_waterleaf_810
+  - ask_waterleaf_811
+  - ask_waterleaf_812
+  - ask_waterleaf_813
+  - ask_waterleaf_814
+  - ask_waterleaf_815
+  - ask_waterleaf_816
+  - ask_waterleaf_817
+  - ask_waterleaf_818
+  - ask_waterleaf_819
+  - ask_waterleaf_820
+  - ask_waterleaf_821
+  - ask_waterleaf_822
+  - ask_waterleaf_823
+  - ask_waterleaf_824
+  - ask_waterleaf_825
+  - ask_waterleaf_826
+  - ask_waterleaf_827
+  - ask_waterleaf_828
+  - ask_waterleaf_829
+  - ask_waterleaf_830
+  - ask_waterleaf_831
+  - ask_waterleaf_832
+  - ask_waterleaf_833
+  - ask_waterleaf_834
+  - ask_waterleaf_835
+  - ask_waterleaf_836
+  - ask_waterleaf_837
+  - ask_waterleaf_838
+  - ask_waterleaf_839
+  - ask_waterleaf_840
+  - ask_waterleaf_841
+  - ask_waterleaf_842
+  - ask_waterleaf_843
+  - ask_waterleaf_844
+  - ask_waterleaf_845
+  - ask_waterleaf_846
+  - ask_waterleaf_847
+  - ask_waterleaf_848
+  - ask_waterleaf_849
+  - ask_waterleaf_850
+  - ask_yam_101
+  - ask_yam_102
+  - ask_yam_103
+  - ask_yam_104
+  - ask_yam_105
+  - ask_yam_1051
+  - ask_yam_1052
+  - ask_yam_1053
+  - ask_yam_1054
+  - ask_yam_1055
+  - ask_yam_1056
+  - ask_yam_1057
+  - ask_yam_1058
+  - ask_yam_1059
+  - ask_yam_106
+  - ask_yam_1060
+  - ask_yam_1061
+  - ask_yam_1062
+  - ask_yam_1063
+  - ask_yam_1064
+  - ask_yam_1065
+  - ask_yam_1066
+  - ask_yam_1067
+  - ask_yam_1068
+  - ask_yam_1069
+  - ask_yam_107
+  - ask_yam_1070
+  - ask_yam_1071
+  - ask_yam_1072
+  - ask_yam_1073
+  - ask_yam_1074
+  - ask_yam_1075
+  - ask_yam_1076
+  - ask_yam_1077
+  - ask_yam_1078
+  - ask_yam_1079
+  - ask_yam_108
+  - ask_yam_1080
+  - ask_yam_109
+  - ask_yam_110
+  - ask_yam_111
+  - ask_yam_112
+  - ask_yam_113
+  - ask_yam_114
+  - ask_yam_115
+  - ask_yam_116
+  - ask_yam_117
+  - ask_yam_118
+  - ask_yam_119
+  - ask_yam_120
+  - ask_yam_121
+  - ask_yam_122
+  - ask_yam_123
+  - ask_yam_124
+  - ask_yam_125
+  - ask_yam_126
+  - ask_yam_127
+  - ask_yam_128
+  - ask_yam_129
+  - ask_yam_130
+  - ask_yam_131
+  - ask_yam_132
+  - ask_yam_133
+  - ask_yam_134
+  - ask_yam_135
+  - ask_yam_136
+  - ask_yam_137
+  - ask_yam_138
+  - ask_yam_139
+  - ask_yam_140
+  - ask_yam_141
+  - ask_yam_142
+  - ask_yam_143
+  - ask_yam_144
+  - ask_yam_145
+  - ask_yam_146
+  - ask_yam_147
+  - ask_yam_148
+  - ask_yam_149
+  - ask_yam_150
+  - ask_yam_151
+  - ask_yam_152
+  - ask_yam_153
+  - ask_yam_154
+  - ask_yam_155
+  - ask_yam_156
+  - ask_yam_157
+  - ask_yam_158
+  - ask_yam_159
+  - ask_yam_160
+  - ask_yam_161
+  - ask_yam_162
+  - ask_yam_163
+  - ask_yam_164
+  - ask_yam_165
+  - ask_yam_166
+  - ask_yam_167
+  - ask_yam_168
+  - ask_yam_169
+  - ask_yam_170
+  - ask_yam_171
+  - ask_yam_172
+  - ask_yam_173
+  - ask_yam_174
+  - ask_yam_175
+  - ask_yam_176
+  - ask_yam_177
+  - ask_yam_178
+  - ask_yam_179
+  - ask_yam_180
+  - ask_yam_181
+  - ask_yam_182
+  - ask_yam_183
+  - ask_yam_184
+  - ask_yam_185
+  - ask_yam_186
+  - ask_yam_187
+  - ask_yam_188
+  - ask_yam_189
+  - ask_yam_190
+  - ask_yam_191
+  - ask_yam_192
+  - ask_yam_193
+  - ask_yam_194
+  - ask_yam_195
+  - ask_yam_196
+  - ask_yam_197
+  - ask_yam_198
+  - ask_yam_199
+  - ask_yam_200
+
+slots:
+  language:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: custom
+
+actions:
+  - action_detect_language
+  - action_rag_search
+
+responses:
+  utter_ask_maize_1:
+  - text: "Maize grows best in deep, well-drained loamy soils with moderate organic matter and a slightly acidic to neutral pH. Such soils allow good root development and nutrient uptake."
+
+  utter_ask_maize_2:
+  - text: "Poor drainage causes waterlogging, which reduces oxygen in the soil and leads to root rot, nutrient loss, and poor maize growth."
+
+  utter_ask_maize_3:
+  - text: "Early planting helps maize establish before heavy rains and reduces exposure to drought stress and late-season pests."
+
+  utter_ask_maize_4:
+  - text: "Late planting exposes maize to moisture stress, higher pest pressure, and poor grain filling before harvest."
+
+  utter_ask_maize_5:
+  - text: "Nitrogen promotes leaf development, chlorophyll formation, and overall vegetative growth needed for high yields."
+
+  utter_ask_maize_6:
+  - text: "Nitrogen deficiency causes older maize leaves to turn pale green or yellow, starting from the tip and moving down the midrib."
+
+  utter_ask_maize_7:
+  - text: "Phosphorus supports root development, early plant vigor, and energy transfer needed for flowering and grain formation."
+
+  utter_ask_maize_8:
+  - text: "Potassium deficiency weakens stalks, reduces drought tolerance, and leads to poor grain filling."
+
+  utter_ask_maize_9:
+  - text: "Maize is most sensitive to water stress during tasseling, silking, and early grain filling stages."
+
+  utter_ask_maize_10:
+  - text: "Drought at flowering reduces pollination success, leading to poor cob formation and yield loss."
+
+  utter_ask_maize_11:
+  - text: "Weeds compete with maize for nutrients, water, and sunlight, especially in the first six weeks after planting."
+
+  utter_ask_maize_12:
+  - text: "Uncontrolled weeds reduce plant vigor, increase pest habitats, and significantly lower grain yield."
+
+  utter_ask_maize_13:
+  - text: "Fall armyworm is a major pest that feeds on maize leaves, especially at the seedling and vegetative stages."
+
+  utter_ask_maize_14:
+  - text: "Fall armyworm causes irregular holes, ragged leaves, and presence of frass inside the whorl."
+
+  utter_ask_maize_15:
+  - text: "Early detection allows timely control before larvae grow large and cause severe damage."
+
+  utter_ask_maize_16:
+  - text: "Early planting can help maize escape peak fall armyworm populations that occur later in the season."
+
+  utter_ask_maize_17:
+  - text: "Crop rotation, timely planting, field sanitation, and destruction of infested residues reduce pest buildup."
+
+  utter_ask_maize_18:
+  - text: "Fall armyworm causes holes and frass, while nutrient deficiency causes uniform color changes without chewing marks."
+
+  utter_ask_maize_19:
+  - text: "Parasitic wasps, birds, and predatory insects naturally reduce maize pest populations."
+
+  utter_ask_maize_20:
+  - text: "IPM combines cultural, biological, and chemical methods to control pests sustainably and reduce resistance."
+
+  utter_ask_maize_21:
+  - text: "Correct spacing reduces competition for nutrients and sunlight, allowing each maize plant to form fuller cobs and improve overall yield."
+
+  utter_ask_maize_22:
+  - text: "Overcrowding causes weak stems, poor air circulation, increased disease pressure, and smaller cobs."
+
+  utter_ask_maize_23:
+  - text: "Thinning removes excess seedlings to maintain optimal plant population and reduce competition."
+
+  utter_ask_maize_24:
+  - text: "Improved varieties are bred for higher yield, disease tolerance, and better adaptation to local conditions."
+
+  utter_ask_maize_25:
+  - text: "Drought-tolerant varieties maintain growth and yield under low rainfall conditions common in northern regions."
+
+  utter_ask_maize_26:
+  - text: "Split application reduces nutrient loss and ensures nutrients are available during critical growth stages."
+
+  utter_ask_maize_27:
+  - text: "Too much nitrogen causes excessive leaf growth, weak stalks, delayed maturity, and lodging."
+
+  utter_ask_maize_28:
+  - text: "Soil testing identifies nutrient deficiencies and prevents over- or under-fertilization."
+
+  utter_ask_maize_29:
+  - text: "Delayed weeding allows weeds to absorb nutrients first, leaving maize nutrient-deficient."
+
+  utter_ask_maize_30:
+  - text: "Young maize plants have shallow roots, making them vulnerable to competition from fast-growing weeds."
+
+  utter_ask_maize_31:
+  - text: "Maize stem borers tunnel into stems, weakening plants and causing them to fall."
+
+  utter_ask_maize_32:
+  - text: "Signs include dead hearts, holes on stems, frass, and broken stalks."
+
+  utter_ask_maize_33:
+  - text: "They are protected within the stem, making contact insecticides less effective."
+
+  utter_ask_maize_34:
+  - text: "Timely planting allows maize to mature before peak stem borer populations develop."
+
+  utter_ask_maize_35:
+  - text: "Removing crop residues eliminates breeding sites and reduces future infestations."
+
+  utter_ask_maize_36:
+  - text: "Rotation breaks pest life cycles by removing their preferred host plants."
+
+  utter_ask_maize_37:
+  - text: "Northern corn leaf blight is a common fungal disease that creates elongated leaf lesions."
+
+  utter_ask_maize_38:
+  - text: "High humidity creates favorable conditions for fungal spores to germinate and spread."
+
+  utter_ask_maize_39:
+  - text: "Resistant varieties reduce disease severity and minimize yield loss without heavy chemical use."
+
+  utter_ask_maize_40:
+  - text: "Maize is ready when cobs are firm, husks dry, and grains are hard and shiny."
+
+  utter_ask_maize_41:
+  - text: "Early harvesting leads to high moisture content, poor grain quality, and storage problems."
+
+  utter_ask_maize_42:
+  - text: "Delayed harvesting increases risk of pest attack, mold growth, and grain shattering."
+
+  utter_ask_maize_43:
+  - text: "Drying reduces moisture content, preventing mold growth and insect infestation."
+
+  utter_ask_maize_44:
+  - text: "Poor storage encourages insects, rodents, and moisture buildup that damage grains."
+
+  utter_ask_maize_45:
+  - text: "Hermetic storage limits oxygen, suppressing insects and preserving grain quality."
+
+  utter_ask_maize_46:
+  - text: "Unpredictable rainfall influences planting dates, variety choice, and crop survival."
+
+  utter_ask_maize_47:
+  - text: "Short-duration varieties mature quickly and reduce exposure to drought or flooding."
+
+  utter_ask_maize_48:
+  - text: "Extension services provide training, improved seeds, and best management practices."
+
+  utter_ask_maize_49:
+  - text: "Educated farmers can identify pests early and apply correct control methods."
+
+  utter_ask_maize_50:
+  - text: "Records help farmers track inputs, yields, and challenges to make better decisions."
+
+  utter_ask_maize_51:
+  - text: "Compacted soil restricts root penetration, reduces water infiltration, and limits nutrient uptake, leading to weak maize growth."
+
+  utter_ask_maize_52:
+  - text: "Organic matter improves soil structure, water retention, microbial activity, and long-term fertility."
+
+  utter_ask_maize_53:
+  - text: "Seeds planted too deep emerge slowly, while shallow planting exposes seeds to drying and bird damage."
+
+  utter_ask_maize_54:
+  - text: "Uniform depth ensures even emergence, synchronized growth, and efficient fertilizer use."
+
+  utter_ask_maize_55:
+  - text: "Zinc deficiency causes stunted growth, shortened internodes, and pale bands on young leaves."
+
+  utter_ask_maize_56:
+  - text: "Micronutrients support enzyme activity and metabolic processes essential for healthy maize growth."
+
+  utter_ask_maize_57:
+  - text: "Excess water causes leaching of nutrients beyond the root zone, reducing fertilizer efficiency."
+
+  utter_ask_maize_58:
+  - text: "Irrigation supplies consistent moisture, supporting growth during critical stages when rainfall is absent."
+
+  utter_ask_maize_59:
+  - text: "A large weed seed bank increases weed pressure in subsequent seasons, raising control costs."
+
+  utter_ask_maize_60:
+  - text: "Combining manual, cultural, and chemical methods reduces resistance and long-term weed dominance."
+
+  utter_ask_maize_61:
+  - text: "Maize weevils are common storage pests that bore into grains and reduce quality."
+
+  utter_ask_maize_62:
+  - text: "Proper drying, airtight storage, and regular cleaning of stores reduce weevil infestation."
+
+  utter_ask_maize_63:
+  - text: "High moisture favors pest survival and rapid reproduction in stored maize."
+
+  utter_ask_maize_64:
+  - text: "Rodents consume grains, contaminate stores, and create entry points for insects."
+
+  utter_ask_maize_65:
+  - text: "Clean fields remove pest shelters and reduce survival between seasons."
+
+  utter_ask_maize_66:
+  - text: "It reduces leaf photosynthesis, stunts growth, and lowers grain yield."
+
+  utter_ask_maize_67:
+  - text: "Early planting avoids peak populations of leafhopper vectors that spread the disease."
+
+  utter_ask_maize_68:
+  - text: "At maturity, grains have maximum dry matter and better storage stability."
+
+  utter_ask_maize_69:
+  - text: "High moisture and mold growth allow aflatoxin-producing fungi to develop."
+
+  utter_ask_maize_70:
+  - text: "Damaged grains attract pests and spread mold to healthy grains."
+
+  utter_ask_maize_71:
+  - text: "Excess rainfall causes waterlogging, root suffocation, and nutrient loss."
+
+  utter_ask_maize_72:
+  - text: "It helps farmers adapt to climate risks while maintaining productivity and soil health."
+
+  utter_ask_maize_73:
+  - text: "It improves seedbed quality, saves labor, and ensures timely planting."
+
+  utter_ask_maize_74:
+  - text: "Improper machinery can compact soil and increase production costs without yield benefit."
+
+  utter_ask_maize_75:
+  - text: "Hybrid grain loses vigor and yield potential when replanted."
+
+  utter_ask_maize_76:
+  - text: "High-quality seeds germinate uniformly and produce strong, healthy seedlings."
+
+  utter_ask_maize_77:
+  - text: "Continuous maize provides constant food for pests, allowing populations to build up."
+
+  utter_ask_maize_78:
+  - text: "Intercropping disrupts pest movement and attracts natural enemies."
+
+  utter_ask_maize_79:
+  - text: "It allows farmers to learn through hands-on experience and peer discussion."
+
+  utter_ask_maize_80:
+  - text: "Involving farmers increases relevance, trust, and uptake of new practices."
+
+  utter_ask_maize_81:
+  - text: "Uncertain yields complicate input planning, food security, and income stability."
+
+  utter_ask_maize_82:
+  - text: "Diversification reduces risk from crop failure and stabilizes household income."
+
+  utter_ask_maize_83:
+  - text: "Maize provides carbohydrates, energy, and supports many traditional diets."
+
+  utter_ask_maize_84:
+  - text: "Processing can improve digestibility but may reduce some vitamins if poorly done."
+
+  utter_ask_maize_85:
+  - text: "Residues protect soil, reduce erosion, and improve organic matter."
+
+  utter_ask_maize_86:
+  - text: "It improves soil health, conserves moisture, and stabilizes yields over time."
+
+  utter_ask_maize_87:
+  - text: "They provide training, improved inputs, and technical guidance to farmers."
+
+  utter_ask_maize_88:
+  - text: "Certification ensures seed quality, genetic purity, and farmer confidence."
+
+  utter_ask_maize_89:
+  - text: "Women contribute significantly to labor and management, improving productivity when supported."
+
+  utter_ask_maize_90:
+  - text: "Maize has a short growth cycle, multiple uses, and wide adaptability."
+
+  utter_ask_maize_91:
+  - text: "They provide timely weather, pest, and management information."
+
+  utter_ask_maize_92:
+  - text: "Data supports evidence-based recommendations and policy decisions."
+
+  utter_ask_maize_93:
+  - text: "They reduce yield and increase uncertainty if not managed early."
+
+  utter_ask_maize_94:
+  - text: "Early alerts allow timely action before damage becomes severe."
+
+  utter_ask_maize_95:
+  - text: "Training updates farmers on new technologies and best practices."
+
+  utter_ask_maize_96:
+  - text: "Farmers learn practical solutions from others facing similar challenges."
+
+  utter_ask_maize_97:
+  - text: "Monitoring helps detect problems early and guides corrective actions."
+
+  utter_ask_maize_98:
+  - text: "Yield assessment informs input decisions and management improvements."
+
+  utter_ask_maize_99:
+  - text: "Maize provides food, feed, and residues that support livestock integration."
+
+  utter_ask_maize_100:
+  - text: "It considers soil, crops, climate, and people together for long-term success."
+
+  utter_ask_yam_101:
+  - text: "Yam grows best in deep, loose, well-drained sandy loam or loam soils that allow tubers to expand freely."
+
+  utter_ask_yam_102:
+  - text: "Deep soil allows yam tubers to grow long and large without physical restriction."
+
+  utter_ask_yam_103:
+  - text: "Heaps and ridges improve drainage, soil aeration, and tuber expansion."
+
+  utter_ask_yam_104:
+  - text: "Poor preparation causes waterlogging, compact soil, and malformed tubers."
+
+  utter_ask_yam_105:
+  - text: "Yam is propagated using seed yams or cut pieces of healthy tubers."
+
+  utter_ask_yam_106:
+  - text: "Healthy setts reduce disease spread and ensure strong sprouting."
+
+  utter_ask_yam_107:
+  - text: "Planting usually starts at the beginning of the rainy season between March and April."
+
+  utter_ask_yam_108:
+  - text: "Late planting shortens the growing season and reduces tuber size."
+
+  utter_ask_yam_109:
+  - text: "Staking supports vines, improves light interception, and reduces disease incidence."
+
+  utter_ask_yam_110:
+  - text: "Unstaked vines sprawl on the ground, increasing pest damage and rot."
+
+  utter_ask_yam_111:
+  - text: "Yam has high nutrient demand due to large tuber formation."
+
+  utter_ask_yam_112:
+  - text: "Nitrogen promotes vine and leaf development necessary for photosynthesis."
+
+  utter_ask_yam_113:
+  - text: "Too much nitrogen favors vines over tubers, reducing yield."
+
+  utter_ask_yam_114:
+  - text: "Early weeding prevents weeds from competing for nutrients and space."
+
+  utter_ask_yam_115:
+  - text: "Weeds reduce nutrient uptake, leading to small or misshapen tubers."
+
+  utter_ask_yam_116:
+  - text: "Yam beetles bore into tubers and cause holes and rotting."
+
+  utter_ask_yam_117:
+  - text: "Damage appears as deep holes, scars, and secondary rot on tubers."
+
+  utter_ask_yam_118:
+  - text: "Extended field exposure allows beetles more time to attack tubers."
+
+  utter_ask_yam_119:
+  - text: "Mulching can reduce pest movement but may harbor insects if poorly managed."
+
+  utter_ask_yam_120:
+  - text: "Rotation breaks pest life cycles by removing host crops."
+
+  utter_ask_yam_121:
+  - text: "Fungal rot diseases attack damaged or poorly cured yam tubers."
+
+  utter_ask_yam_122:
+  - text: "Curing heals wounds and reduces infection during storage."
+
+  utter_ask_yam_123:
+  - text: "Yellowing leaves and drying vines indicate tuber maturity."
+
+  utter_ask_yam_124:
+  - text: "Careless harvesting causes wounds that reduce storage life."
+
+  utter_ask_yam_125:
+  - text: "Poor airflow increases heat and moisture, leading to rot."
+
+  utter_ask_yam_126:
+  - text: "Inspection helps detect rot early and prevent spread."
+
+  utter_ask_yam_127:
+  - text: "White yam (Dioscorea rotundata) is the most widely cultivated yam species for food in Nigeria."
+
+  utter_ask_yam_128:
+  - text: "White yam has better taste, texture, and storage ability than water yam."
+
+  utter_ask_yam_129:
+  - text: "Yam performs best with moderate, well-distributed rainfall during the growing season."
+
+  utter_ask_yam_130:
+  - text: "Drought during early growth delays tuber initiation and reduces final yield."
+
+  utter_ask_yam_131:
+  - text: "Waterlogging causes root suffocation and increases tuber rot."
+
+  utter_ask_yam_132:
+  - text: "Raised heaps improve drainage and prevent tubers from sitting in water."
+
+  utter_ask_yam_133:
+  - text: "Proper spacing reduces competition for nutrients and allows good tuber growth."
+
+  utter_ask_yam_134:
+  - text: "Overcrowding causes weak vines and reduces photosynthesis efficiency."
+
+  utter_ask_yam_135:
+  - text: "Rodents feed on tubers, causing losses and exposing yams to rot."
+
+  utter_ask_yam_136:
+  - text: "Bushes provide hiding places and breeding grounds for rodents."
+
+  utter_ask_yam_137:
+  - text: "Removing weeds and residues reduces pest shelter and breeding sites."
+
+  utter_ask_yam_138:
+  - text: "Using well-decomposed organic matter and avoiding fresh wood reduces termite attraction."
+
+  utter_ask_yam_139:
+  - text: "Symptoms include leaf spots, yellowing, and premature vine drying."
+
+  utter_ask_yam_140:
+  - text: "High humidity creates conditions that promote fungal spore growth and spread."
+
+  utter_ask_yam_141:
+  - text: "Rotation reduces pathogen buildup by interrupting disease life cycles."
+
+  utter_ask_yam_142:
+  - text: "Fast-growing grasses and broadleaf weeds compete strongly with young yam plants."
+
+  utter_ask_yam_143:
+  - text: "Closed canopy suppresses weeds naturally and reduces soil disturbance."
+
+  utter_ask_yam_144:
+  - text: "Early harvesting produces immature tubers with poor storage ability."
+
+  utter_ask_yam_145:
+  - text: "Dry conditions reduce soil adhesion and lower rot risk."
+
+  utter_ask_yam_146:
+  - text: "Damaged tubers spread rot to healthy yams during storage."
+
+  utter_ask_yam_147:
+  - text: "High temperatures accelerate spoilage and sprouting."
+
+  utter_ask_yam_148:
+  - text: "Raised platforms improve airflow and reduce moisture buildup."
+
+  utter_ask_yam_149:
+  - text: "They provide farmers with improved practices, disease control, and training."
+
+  utter_ask_yam_150:
+  - text: "Training helps farmers adopt practices that maintain soil fertility and reduce losses."
+
+  utter_ask_yam_151:
+  - text: "Genetic traits and soil depth influence tuber shape and length among yam varieties."
+
+  utter_ask_yam_152:
+  - text: "Medium-sized setts sprout more uniformly and establish better than very small ones."
+
+  utter_ask_yam_153:
+  - text: "Curing reduces moisture loss and prevents infection at cut surfaces."
+
+  utter_ask_yam_154:
+  - text: "Excessive depth delays emergence, while shallow planting exposes setts to heat."
+
+  utter_ask_yam_155:
+  - text: "Correct orientation allows proper sprout emergence and tuber development."
+
+  utter_ask_yam_156:
+  - text: "Potassium improves tuber size, firmness, and storage ability."
+
+  utter_ask_yam_157:
+  - text: "Imbalance causes excessive vines or poor tuber formation."
+
+  utter_ask_yam_158:
+  - text: "It releases nutrients gradually and improves soil structure."
+
+  utter_ask_yam_159:
+  - text: "Organic matter loosens soil and increases moisture retention."
+
+  utter_ask_yam_160:
+  - text: "Ants expose tubers by removing soil and encourage secondary pests."
+
+  utter_ask_yam_161:
+  - text: "Termites feed on setts and weaken developing tubers."
+
+  utter_ask_yam_162:
+  - text: "Pests multiply when host crops are present every season."
+
+  utter_ask_yam_163:
+  - text: "Early planting allows tubers to establish before pest populations peak."
+
+  utter_ask_yam_164:
+  - text: "They attract pests and increase infestation in future seasons."
+
+  utter_ask_yam_165:
+  - text: "Waterlogged soil promotes fungal and bacterial growth."
+
+  utter_ask_yam_166:
+  - text: "Removal prevents disease spread to healthy plants."
+
+  utter_ask_yam_167:
+  - text: "Clean materials prevent introduction of pathogens into the field."
+
+  utter_ask_yam_168:
+  - text: "Heat stress reduces photosynthetic efficiency and growth."
+
+  utter_ask_yam_169:
+  - text: "Clear seasons support vegetative growth followed by proper tuber maturity."
+
+  utter_ask_yam_170:
+  - text: "Weeds harbor pests and restrict air movement."
+
+  utter_ask_yam_171:
+  - text: "Deep weeding can damage shallow tubers and roots."
+
+  utter_ask_yam_172:
+  - text: "Over-mature tubers are more prone to pest and rot damage."
+
+  utter_ask_yam_173:
+  - text: "Dirty tools spread diseases between tubers."
+
+  utter_ask_yam_174:
+  - text: "Bruising and cuts reduce storage life and increase rot."
+
+  utter_ask_yam_175:
+  - text: "Rain increases moisture and accelerates spoilage."
+
+  utter_ask_yam_176:
+  - text: "Records help track practices and improve future decisions."
+
+  utter_ask_yam_177:
+  - text: "Cooperatives encourage knowledge sharing and access to services."
+
+  utter_ask_yam_178:
+  - text: "Fallowing restores soil fertility and reduces pest buildup."
+
+  utter_ask_yam_179:
+  - text: "It depletes nutrients and increases erosion without proper management."
+
+  utter_ask_yam_180:
+  - text: "Protective gear reduces injury and exposure to hazards."
+
+  utter_ask_yam_181:
+  - text: "Poor handling leads to cuts, injuries, and infections."
+
+  utter_ask_yam_182:
+  - text: "Local practices are adapted to specific soils and climates."
+
+  utter_ask_yam_183:
+  - text: "Research improves yield while preserving effective local methods."
+
+  utter_ask_yam_184:
+  - text: "Yam requires careful handling and deep soil preparation."
+
+  utter_ask_yam_185:
+  - text: "Machines assist land preparation while manual methods protect tubers."
+
+  utter_ask_yam_186:
+  - text: "It contributes significantly to food security and rural livelihoods."
+
+  utter_ask_yam_187:
+  - text: "Through research funding, extension services, and infrastructure."
+
+  utter_ask_yam_188:
+  - text: "It builds skills for one of Nigeria’s major staple crops."
+
+  utter_ask_yam_189:
+  - text: "They allow hands-on learning and practical skill development."
+
+  utter_ask_yam_190:
+  - text: "Changes in rainfall and temperature may alter planting seasons and yields."
+
+  utter_ask_yam_191:
+  - text: "It helps farmers adapt to unpredictable rainfall patterns."
+
+  utter_ask_yam_192:
+  - text: "Variety, maturity, and storage conditions influence eating quality."
+
+  utter_ask_yam_193:
+  - text: "Balanced nutrients improve starch content and texture."
+
+  utter_ask_yam_194:
+  - text: "Diversification reduces risk from pests, disease, and climate failure."
+
+  utter_ask_yam_195:
+  - text: "Insurance helps farmers recover from climate and production losses."
+
+  utter_ask_yam_196:
+  - text: "Yam farming is labor-intensive and benefits from shared effort."
+
+  utter_ask_yam_197:
+  - text: "They celebrate harvest success and encourage knowledge transfer."
+
+  utter_ask_yam_198:
+  - text: "Fair access ensures long-term farming continuity and equity."
+
+  utter_ask_yam_199:
+  - text: "Land degradation reduces productivity for future farmers."
+
+  utter_ask_yam_200:
+  - text: "Good management improves yield, quality, and sustainability."
+
+  utter_ask_pepper_201:
+  - text: "Pepper grows best in well-drained loamy soil rich in organic matter."
+
+  utter_ask_pepper_202:
+  - text: "Compacted soil restricts root growth and reduces nutrient uptake."
+
+  utter_ask_pepper_203:
+  - text: "Nurseries allow better seedling care and selection of healthy plants."
+
+  utter_ask_pepper_204:
+  - text: "Overcrowding causes weak stems and increases disease risk."
+
+  utter_ask_pepper_205:
+  - text: "Hardening-off helps seedlings adjust to field conditions and reduces shock."
+
+  utter_ask_pepper_206:
+  - text: "Transplanting is best done during cool hours in the rainy season."
+
+  utter_ask_pepper_207:
+  - text: "High heat increases water loss and causes transplant shock."
+
+  utter_ask_pepper_208:
+  - text: "Spacing reduces competition and improves air circulation."
+
+  utter_ask_pepper_209:
+  - text: "Poor airflow creates humid conditions favorable for pathogens."
+
+  utter_ask_pepper_210:
+  - text: "Pepper is sensitive to both drought and waterlogging."
+
+  utter_ask_pepper_211:
+  - text: "Irregular watering causes flower drop and uneven fruit size."
+
+  utter_ask_pepper_212:
+  - text: "Organic manure improves soil fertility and moisture retention."
+
+  utter_ask_pepper_213:
+  - text: "Excess nitrogen promotes leaf growth at the expense of flowers."
+
+  utter_ask_pepper_214:
+  - text: "Early weeding prevents weeds from competing with young plants."
+
+  utter_ask_pepper_215:
+  - text: "Weeds serve as alternative hosts for pests and diseases."
+
+  utter_ask_pepper_216:
+  - text: "Grasshoppers commonly feed on pepper leaves causing holes."
+
+  utter_ask_pepper_217:
+  - text: "Aphids suck sap, weaken plants, and transmit viral diseases."
+
+  utter_ask_pepper_218:
+  - text: "Dry conditions favor aphid reproduction and survival."
+
+  utter_ask_pepper_219:
+  - text: "Thrips damage flowers and young fruits, reducing yield."
+
+  utter_ask_pepper_220:
+  - text: "Early control prevents rapid pest multiplication and crop loss."
+
+  utter_ask_pepper_221:
+  - text: "Bacterial wilt causes sudden wilting even when soil is moist."
+
+  utter_ask_pepper_222:
+  - text: "The bacteria survive in soil and spread through water and tools."
+
+  utter_ask_pepper_223:
+  - text: "Rotation breaks disease life cycles by removing host plants."
+
+  utter_ask_pepper_224:
+  - text: "Harvest when fruits reach full size and desired color."
+
+  utter_ask_pepper_225:
+  - text: "Frequent harvesting stimulates continuous flowering and fruiting."
+
+  utter_ask_pepper_226:
+  - text: "Gentle handling prevents bruising and spoilage."
+
+  utter_ask_pepper_227:
+  - text: "Poor airflow increases heat buildup and accelerates decay."
+
+  utter_ask_pepper_228:
+  - text: "Drying reduces moisture and prevents microbial growth."
+
+  utter_ask_pepper_229:
+  - text: "Poor drying causes mold growth and loss of flavor."
+
+  utter_ask_pepper_230:
+  - text: "They provide training on pest control and proper harvesting."
+
+  utter_ask_pepper_231:
+  - text: "Training improves decision-making and resource management."
+
+  utter_ask_pepper_232:
+  - text: "Too much rain increases disease and flower drop."
+
+  utter_ask_pepper_233:
+  - text: "High temperatures reduce pollen viability and fruit set."
+
+  utter_ask_pepper_234:
+  - text: "Mulching conserves moisture and suppresses weeds."
+
+  utter_ask_pepper_235:
+  - text: "It depletes nutrients and increases disease buildup."
+
+  utter_ask_pepper_236:
+  - text: "Gloves prevent skin irritation caused by capsaicin."
+
+  utter_ask_pepper_237:
+  - text: "Misuse causes poisoning and long-term health risks."
+
+  utter_ask_pepper_238:
+  - text: "Variety, maturity stage, and environmental stress affect pungency."
+
+  utter_ask_pepper_239:
+  - text: "Late harvesting enhances flavor but reduces shelf life."
+
+  utter_ask_pepper_240:
+  - text: "Improved varieties offer better yield and disease tolerance."
+
+  utter_ask_pepper_241:
+  - text: "Climate-resilient varieties help stabilize production under changing weather."
+
+  utter_ask_pepper_242:
+  - text: "Pepper is easy to manage and frequently used in Nigerian meals."
+
+  utter_ask_pepper_243:
+  - text: "Seed saving preserves adapted varieties and reduces dependence."
+
+  utter_ask_pepper_244:
+  - text: "Weather awareness helps plan irrigation and disease control."
+
+  utter_ask_pepper_245:
+  - text: "Diversification spreads risk across crops and seasons."
+
+  utter_ask_pepper_246:
+  - text: "It protects consumers, farmers, and the environment."
+
+  utter_ask_pepper_247:
+  - text: "Residues can make produce unsafe and rejected."
+
+  utter_ask_pepper_248:
+  - text: "It equips students with skills for vegetable production."
+
+  utter_ask_pepper_249:
+  - text: "Trials allow farmers to test and adapt innovations locally."
+
+  utter_ask_pepper_250:
+  - text: "Good management ensures healthy plants and consistent yield."
+
+  utter_ask_pepper_251:
+  - text: "Some varieties have thicker flesh for fresh use while others dry faster and retain color."
+
+  utter_ask_pepper_252:
+  - text: "Diverse varieties respond differently to pests, diseases, and weather stress."
+
+  utter_ask_pepper_253:
+  - text: "Stress diverts energy from reproduction to plant survival."
+
+  utter_ask_pepper_254:
+  - text: "Too much leaf growth reduces energy available for fruit formation."
+
+  utter_ask_pepper_255:
+  - text: "Acidic soils reduce nutrient availability and root efficiency."
+
+  utter_ask_pepper_256:
+  - text: "It enhances microbial activity and improves soil structure."
+
+  utter_ask_pepper_257:
+  - text: "Direct contact can burn roots and damage the plant."
+
+  utter_ask_pepper_258:
+  - text: "It supplies nutrients gradually and reduces leaching losses."
+
+  utter_ask_pepper_259:
+  - text: "Deep hoeing cuts shallow roots and stresses the plant."
+
+  utter_ask_pepper_260:
+  - text: "Mulch blocks sunlight and suppresses weed germination."
+
+  utter_ask_pepper_261:
+  - text: "Aphids cause leaf curling by sucking plant sap."
+
+  utter_ask_pepper_262:
+  - text: "Mites suck leaf sap, causing yellowing and leaf drop."
+
+  utter_ask_pepper_263:
+  - text: "Dust reduces natural predator activity and favors mite survival."
+
+  utter_ask_pepper_264:
+  - text: "They bore into fruits, causing rot and rejection."
+
+  utter_ask_pepper_265:
+  - text: "Adult moths are active at night and easier to detect."
+
+  utter_ask_pepper_266:
+  - text: "Thrips feeding causes silvery patches on leaves."
+
+  utter_ask_pepper_267:
+  - text: "They transmit viruses while feeding on infected plants."
+
+  utter_ask_pepper_268:
+  - text: "Crop residues provide shelter and breeding sites for pests."
+
+  utter_ask_pepper_269:
+  - text: "It combines monitoring, biological control, and selective spraying."
+
+  utter_ask_pepper_270:
+  - text: "Waterlogged soil promotes fungal growth around roots."
+
+  utter_ask_pepper_271:
+  - text: "They introduce pathogens at planting before symptoms appear."
+
+  utter_ask_pepper_272:
+  - text: "Mosaic patterns and stunted growth indicate viral infection."
+
+  utter_ask_pepper_273:
+  - text: "High temperature disrupts pollination and fertilization."
+
+  utter_ask_pepper_274:
+  - text: "Unpredictable rainfall affects timing and survival rates."
+
+  utter_ask_pepper_275:
+  - text: "Stalks reduce injury and prolong shelf life."
+
+  utter_ask_pepper_276:
+  - text: "Overripe fruits reduce further flowering and yield."
+
+  utter_ask_pepper_277:
+  - text: "Sorting removes damaged fruits that cause spoilage."
+
+  utter_ask_pepper_278:
+  - text: "High moisture accelerates mold growth and decay."
+
+  utter_ask_pepper_279:
+  - text: "Incomplete drying causes clumping and spoilage."
+
+  utter_ask_pepper_280:
+  - text: "Smoke alters flavor and reduces consumer acceptance."
+
+  utter_ask_pepper_281:
+  - text: "Rotation reduces pest buildup and soil exhaustion."
+
+  utter_ask_pepper_282:
+  - text: "It minimizes chemical runoff and biodiversity loss."
+
+  utter_ask_pepper_283:
+  - text: "Records help track inputs, yields, and pest patterns."
+
+  utter_ask_pepper_284:
+  - text: "Collective action reduces reinfestation from nearby farms."
+
+  utter_ask_pepper_285:
+  - text: "It supplies vitamins, antioxidants, and enhances appetite."
+
+  utter_ask_pepper_286:
+  - text: "Heat destroys vitamins, especially vitamin C."
+
+  utter_ask_pepper_287:
+  - text: "Monocropping increases pest pressure and soil decline."
+
+  utter_ask_pepper_288:
+  - text: "It spreads risk across different growth periods."
+
+  utter_ask_pepper_289:
+  - text: "Disinfection prevents disease transmission between plants."
+
+  utter_ask_pepper_290:
+  - text: "Waste attracts pests and spreads disease."
+
+  utter_ask_pepper_291:
+  - text: "It delivers water directly to roots with minimal waste."
+
+  utter_ask_pepper_292:
+  - text: "It shields plants from excessive rain and pest pressure."
+
+  utter_ask_pepper_293:
+  - text: "Pepper farming offers skill development and food security."
+
+  utter_ask_pepper_294:
+  - text: "Practical learning improves adoption of best practices."
+
+  utter_ask_pepper_295:
+  - text: "It affects color consistency and consumer appeal."
+
+  utter_ask_pepper_296:
+  - text: "Deficiencies cause misshapen or undersized fruits."
+
+  utter_ask_pepper_297:
+  - text: "It provides year-round access to vegetables and spices."
+
+  utter_ask_pepper_298:
+  - text: "It supplements diets and reduces dependence on markets."
+
+  utter_ask_pepper_299:
+  - text: "Farming practices affect soil, water, and community health."
+
+  utter_ask_pepper_300:
+  - text: "Balanced practices ensure healthy growth and stable yield."
+
+  utter_ask_vegetable_301:
+  - text: "Vegetables supply vitamins, minerals, and fiber needed for healthy diets."
+
+  utter_ask_vegetable_302:
+  - text: "Leafy vegetables are grown for their leaves, while fruit vegetables are harvested for fruits."
+
+  utter_ask_vegetable_303:
+  - text: "Loose soil allows roots to grow easily and absorb nutrients."
+
+  utter_ask_vegetable_304:
+  - text: "Poor structure limits root growth and water infiltration."
+
+  utter_ask_vegetable_305:
+  - text: "Nurseries improve seedling survival and allow early care."
+
+  utter_ask_vegetable_306:
+  - text: "Overcrowding causes weak stems and increases disease risk."
+
+  utter_ask_vegetable_307:
+  - text: "Incorrect depth affects germination and seedling emergence."
+
+  utter_ask_vegetable_308:
+  - text: "Heat stress reduces seedling survival and growth rate."
+
+  utter_ask_vegetable_309:
+  - text: "Proper spacing reduces competition and improves airflow."
+
+  utter_ask_vegetable_310:
+  - text: "Crowded plants trap moisture, encouraging pathogens."
+
+  utter_ask_vegetable_311:
+  - text: "Vegetables have shallow roots and high water demand."
+
+  utter_ask_vegetable_312:
+  - text: "Waterlogging causes root rot and nutrient loss."
+
+  utter_ask_vegetable_313:
+  - text: "Their fast growth makes deficiencies visible early."
+
+  utter_ask_vegetable_314:
+  - text: "It promotes soft growth and increases pest attacks."
+
+  utter_ask_vegetable_315:
+  - text: "Weeds compete strongly with vegetables for nutrients."
+
+  utter_ask_vegetable_316:
+  - text: "They provide shelter and food for insects."
+
+  utter_ask_vegetable_317:
+  - text: "Caterpillars and grasshoppers commonly feed on leaves."
+
+  utter_ask_vegetable_318:
+  - text: "They suck sap and transmit viral diseases."
+
+  utter_ask_vegetable_319:
+  - text: "Vegetables provide continuous fresh food for insects."
+
+  utter_ask_vegetable_320:
+  - text: "Mined leaves lose surface area for photosynthesis."
+
+  utter_ask_vegetable_321:
+  - text: "Early control prevents severe yield loss."
+
+  utter_ask_vegetable_322:
+  - text: "Cutworms feed at night and damage leaves."
+
+  utter_ask_vegetable_323:
+  - text: "Mixed crops confuse pests and reduce spread."
+
+  utter_ask_vegetable_324:
+  - text: "High moisture favors fungal growth."
+
+  utter_ask_vegetable_325:
+  - text: "Diseases survive on plant residues and spread easily."
+
+  utter_ask_vegetable_326:
+  - text: "Overgrown vegetables lose quality and taste."
+
+  utter_ask_vegetable_327:
+  - text: "Frequent cutting encourages continuous leaf production."
+
+  utter_ask_vegetable_328:
+  - text: "High moisture content accelerates decay."
+
+  utter_ask_vegetable_329:
+  - text: "Shade reduces heat stress and moisture loss."
+
+  utter_ask_vegetable_330:
+  - text: "Blanching reduces enzyme activity and preserves color."
+
+  utter_ask_vegetable_331:
+  - text: "Too much rain increases disease and nutrient loss."
+
+  utter_ask_vegetable_332:
+  - text: "Dry conditions favor insect survival and reproduction."
+
+  utter_ask_vegetable_333:
+  - text: "It improves soil fertility and structure."
+
+  utter_ask_vegetable_334:
+  - text: "Rotation reduces nutrient depletion and disease buildup."
+
+  utter_ask_vegetable_335:
+  - text: "Training improves adoption of good farming practices."
+
+  utter_ask_vegetable_336:
+  - text: "Staggering reduces risk of total crop loss."
+
+  utter_ask_vegetable_337:
+  - text: "Washing removes soil, pests, and contaminants."
+
+  utter_ask_vegetable_338:
+  - text: "Residues can cause health problems."
+
+  utter_ask_vegetable_339:
+  - text: "They supply iron, folate, and essential vitamins."
+
+  utter_ask_vegetable_340:
+  - text: "Heat destroys water-soluble vitamins."
+
+  utter_ask_vegetable_341:
+  - text: "It saves water and improves efficiency."
+
+  utter_ask_vegetable_342:
+  - text: "It reduces climate and pest risks."
+
+  utter_ask_vegetable_343:
+  - text: "They are easy to grow and harvested quickly."
+
+  utter_ask_vegetable_344:
+  - text: "It improves access to fresh vegetables."
+
+  utter_ask_vegetable_345:
+  - text: "It promotes food security and practical skills."
+
+  utter_ask_vegetable_346:
+  - text: "Runoff can contaminate drinking water."
+
+  utter_ask_vegetable_347:
+  - text: "Consumers prefer uniform appearance."
+
+  utter_ask_vegetable_348:
+  - text: "Imbalance causes tough or watery tissues."
+
+  utter_ask_vegetable_349:
+  - text: "It ensures high yield, quality, and sustainability."
+
+  utter_ask_vegetable_350:
+  - text: "They provide fast and affordable nutrition."
+
+  utter_ask_vegetable_351:
+  - text: "Good seed ensures uniform germination and healthy plants."
+
+  utter_ask_vegetable_352:
+  - text: "Poor storage reduces seed viability and vigor."
+
+  utter_ask_vegetable_353:
+  - text: "Clearing removes weeds and pest hiding places."
+
+  utter_ask_vegetable_354:
+  - text: "Raised beds improve drainage and root development."
+
+  utter_ask_vegetable_355:
+  - text: "Mulching conserves moisture and suppresses weeds."
+
+  utter_ask_vegetable_356:
+  - text: "Organic mulch decomposes and adds nutrients to soil."
+
+  utter_ask_vegetable_357:
+  - text: "Vegetables grow fast and exhaust soil nutrients quickly."
+
+  utter_ask_vegetable_358:
+  - text: "Late or early application reduces nutrient uptake."
+
+  utter_ask_vegetable_359:
+  - text: "Cutworms and beetles attack young seedlings."
+
+  utter_ask_vegetable_360:
+  - text: "They create small holes that weaken leaves."
+
+  utter_ask_vegetable_361:
+  - text: "Young tissues are soft and easy to feed on."
+
+  utter_ask_vegetable_362:
+  - text: "Neem disrupts insect feeding and reproduction."
+
+  utter_ask_vegetable_363:
+  - text: "Repeated use of same pesticide selects resistant pests."
+
+  utter_ask_vegetable_364:
+  - text: "Aphids and whiteflies suck plant sap."
+
+  utter_ask_vegetable_365:
+  - text: "Dry conditions favor rapid pest reproduction."
+
+  utter_ask_vegetable_366:
+  - text: "Viral and nutrient-related diseases cause yellowing."
+
+  utter_ask_vegetable_367:
+  - text: "Splashing moves pathogens between plants."
+
+  utter_ask_vegetable_368:
+  - text: "Repeated planting increases pest and disease buildup."
+
+  utter_ask_vegetable_369:
+  - text: "Rotation removes host plants pests depend on."
+
+  utter_ask_vegetable_370:
+  - text: "Vegetables respond quickly to management practices."
+
+  utter_ask_vegetable_371:
+  - text: "Delayed weeding increases competition and yield loss."
+
+  utter_ask_vegetable_372:
+  - text: "Early harvest reduces wilting and moisture loss."
+
+  utter_ask_vegetable_373:
+  - text: "Delayed harvest causes bitterness and toughness."
+
+  utter_ask_vegetable_374:
+  - text: "Damaged produce accelerates spoilage of others."
+
+  utter_ask_vegetable_375:
+  - text: "Ventilation reduces heat and moisture buildup."
+
+  utter_ask_vegetable_376:
+  - text: "Slicing increases drying speed and uniformity."
+
+  utter_ask_vegetable_377:
+  - text: "Poor drying encourages mold growth."
+
+  utter_ask_vegetable_378:
+  - text: "Flooding destroys roots and spreads diseases."
+
+  utter_ask_vegetable_379:
+  - text: "Erosion removes fertile topsoil."
+
+  utter_ask_vegetable_380:
+  - text: "It provides timely farming advice."
+
+  utter_ask_vegetable_381:
+  - text: "It optimizes input use and reduces waste."
+
+  utter_ask_vegetable_382:
+  - text: "They are low in sugar and high in fiber."
+
+  utter_ask_vegetable_383:
+  - text: "Different vegetables supply different nutrients."
+
+  utter_ask_vegetable_384:
+  - text: "Vegetables provide fast-growing food sources."
+
+  utter_ask_vegetable_385:
+  - text: "They improve farmer knowledge and practices."
+
+  utter_ask_vegetable_386:
+  - text: "Vegetables are sensitive to weather and pests."
+
+  utter_ask_vegetable_387:
+  - text: "Different crops reduce total loss risk."
+
+  utter_ask_vegetable_388:
+  - text: "It requires small land and quick returns."
+
+  utter_ask_vegetable_389:
+  - text: "Technology improves monitoring and management."
+
+  utter_ask_vegetable_390:
+  - text: "Vegetables fit household and market needs."
+
+  utter_ask_vegetable_391:
+  - text: "It provides income and food security."
+
+  utter_ask_vegetable_392:
+  - text: "Records help track inputs and performance."
+
+  utter_ask_vegetable_393:
+  - text: "Data supports better planning and efficiency."
+
+  utter_ask_vegetable_394:
+  - text: "Safety protects consumers and the environment."
+
+  utter_ask_vegetable_395:
+  - text: "It reduces consumer trust."
+
+  utter_ask_vegetable_396:
+  - text: "Uniform size improves handling and acceptance."
+
+  utter_ask_vegetable_397:
+  - text: "Stress causes poor texture and appearance."
+
+  utter_ask_vegetable_398:
+  - text: "Population growth increases food needs."
+
+  utter_ask_vegetable_399:
+  - text: "They reduce climate risks and improve resilience."
+
+  utter_ask_vegetable_400:
+  - text: "It supports nutrition, income, and food availability."
+
+  utter_ask_banana_401:
+  - text: "Banana is nutritious, filling, and easy to prepare."
+
+  utter_ask_banana_402:
+  - text: "Dessert bananas are eaten raw, while cooking bananas are cooked before eating."
+
+  utter_ask_banana_403:
+  - text: "Warm temperatures support rapid banana growth."
+
+  utter_ask_banana_404:
+  - text: "Drought reduces fruit size and delays flowering."
+
+  utter_ask_banana_405:
+  - text: "Deep soil supports strong root anchorage and nutrient uptake."
+
+  utter_ask_banana_406:
+  - text: "Poor drainage causes root rot and plant collapse."
+
+  utter_ask_banana_407:
+  - text: "Suckers establish faster and ensure uniform crops."
+
+  utter_ask_banana_408:
+  - text: "Infected suckers spread diseases across the farm."
+
+  utter_ask_banana_409:
+  - text: "Spacing reduces competition and improves air circulation."
+
+  utter_ask_banana_410:
+  - text: "Crowding traps moisture that favors disease development."
+
+  utter_ask_banana_411:
+  - text: "Potassium supports fruit development and quality."
+
+  utter_ask_banana_412:
+  - text: "Imbalance leads to smaller and uneven bunches."
+
+  utter_ask_banana_413:
+  - text: "Banana has shallow roots and high water demand."
+
+  utter_ask_banana_414:
+  - text: "Stress reduces carbohydrate movement to fruits."
+
+  utter_ask_banana_415:
+  - text: "Banana weevils commonly bore into stems."
+
+  utter_ask_banana_416:
+  - text: "They weaken stems by boring tunnels."
+
+  utter_ask_banana_417:
+  - text: "Sanitation removes pest breeding sites."
+
+  utter_ask_banana_418:
+  - text: "Caterpillars feed on banana leaves at night."
+
+  utter_ask_banana_419:
+  - text: "Nematodes damage roots and reduce nutrient uptake."
+
+  utter_ask_banana_420:
+  - text: "Vegetative propagation spreads pests easily."
+
+  utter_ask_banana_421:
+  - text: "Bacterial wilt causes yellowing and wilting."
+
+  utter_ask_banana_422:
+  - text: "Contaminated tools transfer pathogens between plants."
+
+  utter_ask_banana_423:
+  - text: "Removing suckers reduces competition for nutrients."
+
+  utter_ask_banana_424:
+  - text: "It directs nutrients to the main plant."
+
+  utter_ask_banana_425:
+  - text: "Banana plants are monocarpic by nature."
+
+  utter_ask_banana_426:
+  - text: "It postpones fruit maturity and harvest."
+
+  utter_ask_banana_427:
+  - text: "Fruits become full and angular edges reduce."
+
+  utter_ask_banana_428:
+  - text: "Overripe fruits bruise easily and spoil fast."
+
+  utter_ask_banana_429:
+  - text: "Rough handling causes bruising and spoilage."
+
+  utter_ask_banana_430:
+  - text: "High temperature accelerates ripening."
+
+  utter_ask_banana_431:
+  - text: "Drying extends shelf life and reduces spoilage."
+
+  utter_ask_banana_432:
+  - text: "It reduces quality and safety of products."
+
+  utter_ask_banana_433:
+  - text: "Banana contains natural sugars and carbohydrates."
+
+  utter_ask_banana_434:
+  - text: "It supplies dietary fiber that aids digestion."
+
+  utter_ask_banana_435:
+  - text: "Banana provides continuous harvest over time."
+
+  utter_ask_banana_436:
+  - text: "Losses increase and yield decreases."
+
+  utter_ask_banana_437:
+  - text: "Mulching conserves moisture and improves soil health."
+
+  utter_ask_banana_438:
+  - text: "Intercropping reduces erosion and improves land use."
+
+  utter_ask_banana_439:
+  - text: "It increases stress from heat and irregular rainfall."
+
+  utter_ask_banana_440:
+  - text: "They reduce climate risks and improve resilience."
+
+  utter_ask_banana_441:
+  - text: "Extension improves knowledge and productivity."
+
+  utter_ask_banana_442:
+  - text: "Training improves early detection and control."
+
+  utter_ask_banana_443:
+  - text: "Regular checks help detect pests and diseases early."
+
+  utter_ask_banana_444:
+  - text: "Neglected farms suffer pest and nutrient problems."
+
+  utter_ask_banana_445:
+  - text: "Protective gear reduces chemical exposure."
+
+  utter_ask_banana_446:
+  - text: "Residues can cause health problems."
+
+  utter_ask_banana_447:
+  - text: "They provide food and shade around homes."
+
+  utter_ask_banana_448:
+  - text: "It provides food, employment, and income."
+
+  utter_ask_banana_449:
+  - text: "It meets food, nutrition, and income needs."
+
+  utter_ask_banana_450:
+  - text: "Good management ensures healthy plants and quality fruits."
+
+  utter_ask_banana_451:
+  - text: "Early weed control reduces competition for nutrients and water."
+
+  utter_ask_banana_452:
+  - text: "Weak establishment leads to poor anchorage and low yield."
+
+  utter_ask_banana_453:
+  - text: "Grasses and broadleaf weeds compete strongly with bananas."
+
+  utter_ask_banana_454:
+  - text: "Weeds provide shelter for pests and disease vectors."
+
+  utter_ask_banana_455:
+  - text: "Bananas grow fast and require continuous nutrient supply."
+
+  utter_ask_banana_456:
+  - text: "Leaves show yellowing between veins."
+
+  utter_ask_banana_457:
+  - text: "Its large leaves lose water rapidly."
+
+  utter_ask_banana_458:
+  - text: "Too much water reduces root oxygen and growth."
+
+  utter_ask_banana_459:
+  - text: "Nematodes commonly damage banana roots."
+
+  utter_ask_banana_460:
+  - text: "Root damage limits water and nutrient uptake."
+
+  utter_ask_banana_461:
+  - text: "Banana is perennial and stays long on the field."
+
+  utter_ask_banana_462:
+  - text: "Strong wind-assisted caterpillar feeding causes shredding."
+
+  utter_ask_banana_463:
+  - text: "Weakened stems break easily under wind."
+
+  utter_ask_banana_464:
+  - text: "Leaf spot diseases cause dark streaks."
+
+  utter_ask_banana_465:
+  - text: "Moist conditions favor fungal growth."
+
+  utter_ask_banana_466:
+  - text: "They can harbor pests and diseases."
+
+  utter_ask_banana_467:
+  - text: "It removes sources of infection."
+
+  utter_ask_banana_468:
+  - text: "Its tall structure and shallow roots make it unstable."
+
+  utter_ask_banana_469:
+  - text: "Windbreaks reduce wind speed and plant damage."
+
+  utter_ask_banana_470:
+  - text: "Early harvest reduces spoilage during handling."
+
+  utter_ask_banana_471:
+  - text: "Wet harvesting increases bruising and disease risk."
+
+  utter_ask_banana_472:
+  - text: "Latex stains reduce fruit appearance."
+
+  utter_ask_banana_473:
+  - text: "Poor packaging causes bruising and decay."
+
+  utter_ask_banana_474:
+  - text: "Processing extends shelf life and use."
+
+  utter_ask_banana_475:
+  - text: "High moisture reduces storage stability."
+
+  utter_ask_banana_476:
+  - text: "It is soft, nutritious, and easy to digest."
+
+  utter_ask_banana_477:
+  - text: "Potassium supports muscle contraction."
+
+  utter_ask_banana_478:
+  - text: "Bunches are heavy and need careful handling."
+
+  utter_ask_banana_479:
+  - text: "Poor practices lead to losses and low productivity."
+
+  utter_ask_banana_480:
+  - text: "Improper use can cause injury and disease spread."
+
+  utter_ask_banana_481:
+  - text: "Waste attracts pests and spreads disease."
+
+  utter_ask_banana_482:
+  - text: "Compost improves soil fertility naturally."
+
+  utter_ask_banana_483:
+  - text: "Recycled residues reduce need for external inputs."
+
+  utter_ask_banana_484:
+  - text: "Training improves yield and disease control."
+
+  utter_ask_banana_485:
+  - text: "Farmers adopt proven practices faster."
+
+  utter_ask_banana_486:
+  - text: "Animals can destroy young banana plants."
+
+  utter_ask_banana_487:
+  - text: "Community action reduces reinfestation."
+
+  utter_ask_banana_488:
+  - text: "It provides steady harvest and learning opportunities."
+
+  utter_ask_banana_489:
+  - text: "They can process bananas into diverse products."
+
+  utter_ask_banana_490:
+  - text: "Processing fits household-based activities."
+
+  utter_ask_banana_491:
+  - text: "It provides raw materials and income opportunities."
+
+  utter_ask_banana_492:
+  - text: "Records help monitor yield and farm activities."
+
+  utter_ask_banana_493:
+  - text: "Data supports planning and efficiency."
+
+  utter_ask_banana_494:
+  - text: "Overuse harms health and the environment."
+
+  utter_ask_banana_495:
+  - text: "Safe practices increase consumer confidence."
+
+  utter_ask_banana_496:
+  - text: "Uniform size improves handling and use."
+
+  utter_ask_banana_497:
+  - text: "Stress leads to poor fruit filling."
+
+  utter_ask_banana_498:
+  - text: "It provides continuous food supply."
+
+  utter_ask_banana_499:
+  - text: "Improved varieties resist pests and climate stress."
+
+  utter_ask_banana_500:
+  - text: "Good management ensures healthy plants and steady harvest."
+
+  utter_ask_plantain_501:
+  - text: "Plantain provides food, income, and supports household nutrition."
+
+  utter_ask_plantain_502:
+  - text: "Cooking plantain varieties with firm pulp are commonly grown."
+
+  utter_ask_plantain_503:
+  - text: "Warm temperatures with regular rainfall favor plantain growth."
+
+  utter_ask_plantain_504:
+  - text: "Extended dryness reduces bunch size and delays maturity."
+
+  utter_ask_plantain_505:
+  - text: "Deep, well-drained loamy soil is best for plantain."
+
+  utter_ask_plantain_506:
+  - text: "Waterlogging reduces root oxygen and increases rot."
+
+  utter_ask_plantain_507:
+  - text: "Suckers from healthy mother plants are commonly used."
+
+  utter_ask_plantain_508:
+  - text: "Diseased suckers spread pests and diseases to new farms."
+
+  utter_ask_plantain_509:
+  - text: "Proper spacing reduces competition and improves bunch size."
+
+  utter_ask_plantain_510:
+  - text: "Overcrowding produces weak stems prone to lodging."
+
+  utter_ask_plantain_511:
+  - text: "Plantain grows fast and produces heavy bunches."
+
+  utter_ask_plantain_512:
+  - text: "Potassium deficiency reduces fruit size and quality."
+
+  utter_ask_plantain_513:
+  - text: "Water supports leaf growth and fruit filling."
+
+  utter_ask_plantain_514:
+  - text: "Too much water encourages fungal infections."
+
+  utter_ask_plantain_515:
+  - text: "Nematodes commonly attack plantain roots."
+
+  utter_ask_plantain_516:
+  - text: "Root damage makes plants weak and easy to fall."
+
+  utter_ask_plantain_517:
+  - text: "Banana weevils bore into plantain stems."
+
+  utter_ask_plantain_518:
+  - text: "Weevils feed inside stems where damage is hidden."
+
+  utter_ask_plantain_519:
+  - text: "Leaf spot diseases cause yellowing and drying."
+
+  utter_ask_plantain_520:
+  - text: "Poor airflow traps moisture and promotes infection."
+
+  utter_ask_plantain_521:
+  - text: "Weeds compete for nutrients and water."
+
+  utter_ask_plantain_522:
+  - text: "Weeds provide shelter for insects and rodents."
+
+  utter_ask_plantain_523:
+  - text: "Removing excess suckers reduces competition."
+
+  utter_ask_plantain_524:
+  - text: "Too many suckers reduce nutrient availability to the main plant."
+
+  utter_ask_plantain_525:
+  - text: "Tall plants with shallow roots are unstable."
+
+  utter_ask_plantain_526:
+  - text: "Windbreaks reduce wind speed and plant damage."
+
+  utter_ask_plantain_527:
+  - text: "Plantain is harvested when fruits are mature but still green."
+
+  utter_ask_plantain_528:
+  - text: "Late harvest shortens shelf life due to quick ripening."
+
+  utter_ask_plantain_529:
+  - text: "Careful handling reduces bruising and spoilage."
+
+  utter_ask_plantain_530:
+  - text: "Poor ventilation traps heat and moisture."
+
+  utter_ask_plantain_531:
+  - text: "Processing increases shelf life and convenience."
+
+  utter_ask_plantain_532:
+  - text: "Incorrect temperature leads to soggy or burnt chips."
+
+  utter_ask_plantain_533:
+  - text: "Plantain is rich in carbohydrates."
+
+  utter_ask_plantain_534:
+  - text: "Dietary fiber improves digestive function."
+
+  utter_ask_plantain_535:
+  - text: "Regular visits help early detection of pests and diseases."
+
+  utter_ask_plantain_536:
+  - text: "Delayed farm operations reduce yield and quality."
+
+  utter_ask_plantain_537:
+  - text: "Mulching conserves moisture and improves soil health."
+
+  utter_ask_plantain_538:
+  - text: "Recycling returns nutrients to the soil."
+
+  utter_ask_plantain_539:
+  - text: "They provide improved practices and technical support."
+
+  utter_ask_plantain_540:
+  - text: "Training promotes efficient and safe practices."
+
+  utter_ask_plantain_541:
+  - text: "Plantain contributes to food security."
+
+  utter_ask_plantain_542:
+  - text: "Joint control reduces reinfestation."
+
+  utter_ask_plantain_543:
+  - text: "It offers steady harvest and learning opportunities."
+
+  utter_ask_plantain_544:
+  - text: "They can process plantain into diverse products."
+
+  utter_ask_plantain_545:
+  - text: "Processing fits household-based enterprises."
+
+  utter_ask_plantain_546:
+  - text: "It provides income and enterprise opportunities."
+
+  utter_ask_plantain_547:
+  - text: "Records help track farm performance."
+
+  utter_ask_plantain_548:
+  - text: "Records support better decision making."
+
+  utter_ask_plantain_549:
+  - text: "Careful use protects health and environment."
+
+  utter_ask_plantain_550:
+  - text: "Good management ensures healthy plants and stable yield."
+
+  utter_ask_plantain_551:
+  - text: "Careful clearing preserves soil structure and beneficial organisms."
+
+  utter_ask_plantain_552:
+  - text: "Remaining debris provides hiding places for pests."
+
+  utter_ask_plantain_553:
+  - text: "Mulch conserves soil moisture and reduces weeds."
+
+  utter_ask_plantain_554:
+  - text: "Too much mulch can harbor pests and rot."
+
+  utter_ask_plantain_555:
+  - text: "Nitrogen is essential for leaf growth and greenness."
+
+  utter_ask_plantain_556:
+  - text: "Imbalance reduces finger number and size."
+
+  utter_ask_plantain_557:
+  - text: "Standing water causes root stress and disease."
+
+  utter_ask_plantain_558:
+  - text: "Irregular water reduces uniform fruit development."
+
+  utter_ask_plantain_559:
+  - text: "Banana weevils damage plantain corms."
+
+  utter_ask_plantain_560:
+  - text: "Damaged corms reduce nutrient absorption."
+
+  utter_ask_plantain_561:
+  - text: "Sanitation removes breeding sites."
+
+  utter_ask_plantain_562:
+  - text: "Caterpillars feed on young leaves at night."
+
+  utter_ask_plantain_563:
+  - text: "Early detection allows timely control."
+
+  utter_ask_plantain_564:
+  - text: "Long wetness favors fungal infection."
+
+  utter_ask_plantain_565:
+  - text: "Diseases move from suckers to new fields."
+
+  utter_ask_plantain_566:
+  - text: "Weeds compete at all growth stages."
+
+  utter_ask_plantain_567:
+  - text: "Late weeding causes irreversible nutrient loss."
+
+  utter_ask_plantain_568:
+  - text: "It directs nutrients to the fruiting plant."
+
+  utter_ask_plantain_569:
+  - text: "Residues harbor pests and pathogens."
+
+  utter_ask_plantain_570:
+  - text: "Disinfection prevents disease spread."
+
+  utter_ask_plantain_571:
+  - text: "It causes bruises and early spoilage."
+
+  utter_ask_plantain_572:
+  - text: "Shade reduces heat stress and moisture loss."
+
+  utter_ask_plantain_573:
+  - text: "Delay increases respiration and spoilage."
+
+  utter_ask_plantain_574:
+  - text: "Fresh processing reduces losses."
+
+  utter_ask_plantain_575:
+  - text: "Uneven slices dry poorly."
+
+  utter_ask_plantain_576:
+  - text: "It supplies sustained energy."
+
+  utter_ask_plantain_577:
+  - text: "Fiber improves bowel movement."
+
+  utter_ask_plantain_578:
+  - text: "Skill prevents damage to plants and fruits."
+
+  utter_ask_plantain_579:
+  - text: "Operations become delayed."
+
+  utter_ask_plantain_580:
+  - text: "Composting returns nutrients to the soil."
+
+  utter_ask_plantain_581:
+  - text: "It maintains soil health and reduces losses."
+
+  utter_ask_plantain_582:
+  - text: "They see improved practices in action."
+
+  utter_ask_plantain_583:
+  - text: "Peer learning increases trust."
+
+  utter_ask_plantain_584:
+  - text: "It enables early warning and control."
+
+  utter_ask_plantain_585:
+  - text: "It limits shared infection sources."
+
+  utter_ask_plantain_586:
+  - text: "It requires moderate capital and skills."
+
+  utter_ask_plantain_587:
+  - text: "Digital tools improve planning and monitoring."
+
+  utter_ask_plantain_588:
+  - text: "Activities align with household enterprises."
+
+  utter_ask_plantain_589:
+  - text: "Training improves efficiency and product quality."
+
+  utter_ask_plantain_590:
+  - text: "Documentation ensures consistent quality."
+
+  utter_ask_plantain_591:
+  - text: "Analysis highlights waste and opportunities."
+
+  utter_ask_plantain_592:
+  - text: "Improper disposal attracts pests."
+
+  utter_ask_plantain_593:
+  - text: "Ethical practices protect shared resources."
+
+  utter_ask_plantain_594:
+  - text: "Uniform maturity improves processing and storage."
+
+  utter_ask_plantain_595:
+  - text: "Stress leads to poor fruit filling."
+
+  utter_ask_plantain_596:
+  - text: "It provides reliable carbohydrate supply."
+
+  utter_ask_plantain_597:
+  - text: "Better practices reduce stress and losses."
+
+  utter_ask_plantain_598:
+  - text: "Mechanization saves labor and time."
+
+  utter_ask_plantain_599:
+  - text: "Improved packaging controls moisture and damage."
+
+  utter_ask_plantain_600:
+  - text: "It combines good practices for stable yield."
+
+  utter_ask_beans_601:
+  - text: "Early preparation allows timely planting with the onset of rains."
+
+  utter_ask_beans_602:
+  - text: "It loosens soil, allowing roots to grow freely."
+
+  utter_ask_beans_603:
+  - text: "They escape drought and reduce risk of crop failure."
+
+  utter_ask_beans_604:
+  - text: "Resistant varieties limit pest feeding and survival."
+
+  utter_ask_beans_605:
+  - text: "Proper depth ensures good emergence and seedling vigor."
+
+  utter_ask_beans_606:
+  - text: "Overcrowding increases competition for nutrients and light."
+
+  utter_ask_beans_607:
+  - text: "Phosphorus supports root development and flowering."
+
+  utter_ask_beans_608:
+  - text: "Beans add nitrogen to soil through root nodules."
+
+  utter_ask_beans_609:
+  - text: "Too much water causes root rot and poor pod set."
+
+  utter_ask_beans_610:
+  - text: "It leads to flower drop and fewer pods."
+
+  utter_ask_beans_611:
+  - text: "Weeds compete strongly during early growth."
+
+  utter_ask_beans_612:
+  - text: "Stress reduces root nodule formation."
+
+  utter_ask_beans_613:
+  - text: "Bean aphids commonly attack young seedlings."
+
+  utter_ask_beans_614:
+  - text: "They suck sap and transmit diseases."
+
+  utter_ask_beans_615:
+  - text: "High nitrogen makes plants more attractive to aphids."
+
+  utter_ask_beans_616:
+  - text: "Pod borers damage beans pods."
+
+  utter_ask_beans_617:
+  - text: "Early harvest prevents larvae development in pods."
+
+  utter_ask_beans_618:
+  - text: "Moist conditions favor fungal growth."
+
+  utter_ask_beans_619:
+  - text: "Rotation breaks disease life cycles."
+
+  utter_ask_beans_620:
+  - text: "Thinning reduces competition and improves growth."
+
+  utter_ask_beans_621:
+  - text: "High population reduces individual pod size."
+
+  utter_ask_beans_622:
+  - text: "Yellow pods indicate physiological maturity."
+
+  utter_ask_beans_623:
+  - text: "Over-dry pods crack and invite pests."
+
+  utter_ask_beans_624:
+  - text: "Drying prevents mold growth and spoilage."
+
+  utter_ask_beans_625:
+  - text: "High moisture shortens storage life."
+
+  utter_ask_beans_626:
+  - text: "They prevent insect infestation and moisture entry."
+
+  utter_ask_beans_627:
+  - text: "High temperature reduces germination capacity."
+
+  utter_ask_beans_628:
+  - text: "Beans contain high levels of plant protein."
+
+  utter_ask_beans_629:
+  - text: "It supplies protein, fiber, and minerals."
+
+  utter_ask_beans_630:
+  - text: "Damaged grains reduce product quality."
+
+  utter_ask_beans_631:
+  - text: "Soaking softens seed coats."
+
+  utter_ask_beans_632:
+  - text: "They improve soil fertility through nitrogen fixation."
+
+  utter_ask_beans_633:
+  - text: "Beans leave nitrogen in the soil for next crops."
+
+  utter_ask_beans_634:
+  - text: "Delay leads to shattering and losses."
+
+  utter_ask_beans_635:
+  - text: "Activities become delayed, reducing yield."
+
+  utter_ask_beans_636:
+  - text: "Records help evaluate farm performance."
+
+  utter_ask_beans_637:
+  - text: "It identifies strengths and weaknesses."
+
+  utter_ask_beans_638:
+  - text: "They gain access to improved practices."
+
+  utter_ask_beans_639:
+  - text: "Training improves management decisions."
+
+  utter_ask_beans_640:
+  - text: "Groups share labor and knowledge."
+
+  utter_ask_beans_641:
+  - text: "Joint control reduces pest spread."
+
+  utter_ask_beans_642:
+  - text: "It has short production cycles."
+
+  utter_ask_beans_643:
+  - text: "Technology supports planning and monitoring."
+
+  utter_ask_beans_644:
+  - text: "Processing fits household-based enterprises."
+
+  utter_ask_beans_645:
+  - text: "Credit improves processing capacity and quality."
+
+  utter_ask_beans_646:
+  - text: "Misuse harms health and environment."
+
+  utter_ask_beans_647:
+  - text: "It ensures food safety and quality."
+
+  utter_ask_beans_648:
+  - text: "Pure seeds give uniform growth."
+
+  utter_ask_beans_649:
+  - text: "Poor seeds lead to uneven stands and losses."
+
+  utter_ask_beans_650:
+  - text: "It combines good practices for stable yield."
+
+  utter_ask_beans_651:
+  - text: "Compacted soil restricts root growth and air movement."
+
+  utter_ask_beans_652:
+  - text: "Extreme pH limits uptake of essential nutrients."
+
+  utter_ask_beans_653:
+  - text: "Early rain supports uniform germination."
+
+  utter_ask_beans_654:
+  - text: "Late crops coincide with peak pest populations."
+
+  utter_ask_beans_655:
+  - text: "Phosphorus deficiency limits energy transfer in plants."
+
+  utter_ask_beans_656:
+  - text: "Low potassium reduces water-use efficiency."
+
+  utter_ask_beans_657:
+  - text: "Beans have shallow roots sensitive to moisture loss."
+
+  utter_ask_beans_658:
+  - text: "Stress limits seed development inside pods."
+
+  utter_ask_beans_659:
+  - text: "They grow at similar height and growth rate."
+
+  utter_ask_beans_660:
+  - text: "Competition delays flowering and maturity."
+
+  utter_ask_beans_661:
+  - text: "Leaf beetles feed on young beans leaves."
+
+  utter_ask_beans_662:
+  - text: "Leaf loss reduces photosynthesis."
+
+  utter_ask_beans_663:
+  - text: "Early detection prevents population buildup."
+
+  utter_ask_beans_664:
+  - text: "Bruchid beetles attack stored beans."
+
+  utter_ask_beans_665:
+  - text: "Moist grains favor pest survival and breeding."
+
+  utter_ask_beans_666:
+  - text: "Fungal diseases spread under wet conditions."
+
+  utter_ask_beans_667:
+  - text: "Infected seeds reduce emergence and vigor."
+
+  utter_ask_beans_668:
+  - text: "Rotation reduces pests and diseases buildup."
+
+  utter_ask_beans_669:
+  - text: "It increases disease pressure and nutrient imbalance."
+
+  utter_ask_beans_670:
+  - text: "Dry weather reduces mold and spoilage."
+
+  utter_ask_beans_671:
+  - text: "Damage lowers market and storage quality."
+
+  utter_ask_beans_672:
+  - text: "Cleaning removes debris and damaged grains."
+
+  utter_ask_beans_673:
+  - text: "Excessive drying reduces seed viability."
+
+  utter_ask_beans_674:
+  - text: "Inspection detects early pest or mold problems."
+
+  utter_ask_beans_675:
+  - text: "Clean stores reduce pest infestation."
+
+  utter_ask_beans_676:
+  - text: "They provide protein and dietary fiber."
+
+  utter_ask_beans_677:
+  - text: "Fiber slows glucose absorption."
+
+  utter_ask_beans_678:
+  - text: "Uniform size improves cooking consistency."
+
+  utter_ask_beans_679:
+  - text: "Overcooking destroys heat-sensitive nutrients."
+
+  utter_ask_beans_680:
+  - text: "They mature quickly and enrich soil nitrogen."
+
+  utter_ask_beans_681:
+  - text: "It diversifies income and reduces pest spread."
+
+  utter_ask_beans_682:
+  - text: "Harvesting must be done within a short time."
+
+  utter_ask_beans_683:
+  - text: "Machines speed up planting and harvesting."
+
+  utter_ask_beans_684:
+  - text: "Records help plan future control measures."
+
+  utter_ask_beans_685:
+  - text: "Trends guide better management decisions."
+
+  utter_ask_beans_686:
+  - text: "They show improved practices in real conditions."
+
+  utter_ask_beans_687:
+  - text: "Advice improves timing and management."
+
+  utter_ask_beans_688:
+  - text: "It reduces individual storage losses."
+
+  utter_ask_beans_689:
+  - text: "Farmers coordinate planting and harvesting schedules."
+
+  utter_ask_beans_690:
+  - text: "Beans grow fast and show results quickly."
+
+  utter_ask_beans_691:
+  - text: "Training shows income opportunities beyond farming."
+
+  utter_ask_beans_692:
+  - text: "Women often manage household seed storage."
+
+  utter_ask_beans_693:
+  - text: "Attention to detail improves sorting and storage."
+
+  utter_ask_beans_694:
+  - text: "They are ineffective and unsafe."
+
+  utter_ask_beans_695:
+  - text: "It preserves beneficial insects."
+
+  utter_ask_beans_696:
+  - text: "Uniform color indicates good maturity."
+
+  utter_ask_beans_697:
+  - text: "Stress leads to harder grains."
+
+  utter_ask_beans_698:
+  - text: "They provide affordable plant protein."
+
+  utter_ask_beans_699:
+  - text: "They increase yield and stress tolerance."
+
+  utter_ask_beans_700:
+  - text: "It reduces losses and improves yield stability."
+
+  utter_ask_rice_701:
+  - text: "Clayey soils retain water needed for rice growth."
+
+  utter_ask_rice_702:
+  - text: "Good structure allows roots to spread and absorb nutrients."
+
+  utter_ask_rice_703:
+  - text: "Nurseries allow uniform and healthy seedling growth."
+
+  utter_ask_rice_704:
+  - text: "Overaged seedlings establish slowly and reduce yield."
+
+  utter_ask_rice_705:
+  - text: "Shallow planting helps quick tillering."
+
+  utter_ask_rice_706:
+  - text: "High density reduces space for tillering."
+
+  utter_ask_rice_707:
+  - text: "Standing water suppresses weeds and supports growth."
+
+  utter_ask_rice_708:
+  - text: "It saves water without reducing yield."
+
+  utter_ask_rice_709:
+  - text: "Nitrogen supports leaf growth and tillering."
+
+  utter_ask_rice_710:
+  - text: "It reduces nutrient loss and improves uptake."
+
+  utter_ask_rice_711:
+  - text: "They compete for nutrients, light, and space."
+
+  utter_ask_rice_712:
+  - text: "Early control prevents yield loss at critical stages."
+
+  utter_ask_rice_713:
+  - text: "Stem borers attack rice stems."
+
+  utter_ask_rice_714:
+  - text: "Damaged stems fail to transport nutrients."
+
+  utter_ask_rice_715:
+  - text: "Birds feed on developing grains."
+
+  utter_ask_rice_716:
+  - text: "It reduces the period grains are exposed."
+
+  utter_ask_rice_717:
+  - text: "Fungal diseases spread under high humidity."
+
+  utter_ask_rice_718:
+  - text: "Excess moisture favors pathogen growth."
+
+  utter_ask_rice_719:
+  - text: "Level fields ensure uniform water distribution."
+
+  utter_ask_rice_720:
+  - text: "Some areas receive excess or insufficient nutrients."
+
+  utter_ask_rice_721:
+  - text: "Full maturity ensures maximum grain weight."
+
+  utter_ask_rice_722:
+  - text: "Overdry grains shatter easily."
+
+  utter_ask_rice_723:
+  - text: "Early threshing reduces spoilage and losses."
+
+  utter_ask_rice_724:
+  - text: "It increases grain breakage during milling."
+
+  utter_ask_rice_725:
+  - text: "Low moisture prevents mold growth."
+
+  utter_ask_rice_726:
+  - text: "Warm and humid conditions favor insects."
+
+  utter_ask_rice_727:
+  - text: "Parboiling improves grain strength and nutrition."
+
+  utter_ask_rice_728:
+  - text: "It hardens the endosperm structure."
+
+  utter_ask_rice_729:
+  - text: "Rice provides carbohydrates for energy."
+
+  utter_ask_rice_730:
+  - text: "Excessive milling removes vitamins and minerals."
+
+  utter_ask_rice_731:
+  - text: "Rice requires continuous water supply."
+
+  utter_ask_rice_732:
+  - text: "High temperature causes spikelet sterility."
+
+  utter_ask_rice_733:
+  - text: "It thrives in flooded conditions."
+
+  utter_ask_rice_734:
+  - text: "Residues add organic matter to soil."
+
+  utter_ask_rice_735:
+  - text: "They increase yield and reduce losses."
+
+  utter_ask_rice_736:
+  - text: "Training improves decision-making and timing."
+
+  utter_ask_rice_737:
+  - text: "Shared systems ensure consistent water supply."
+
+  utter_ask_rice_738:
+  - text: "Farmers share labor and resources."
+
+  utter_ask_rice_739:
+  - text: "It has quick turnover and high demand."
+
+  utter_ask_rice_740:
+  - text: "Machines reduce manual labor stress."
+
+  utter_ask_rice_741:
+  - text: "Women dominate parboiling and milling operations."
+
+  utter_ask_rice_742:
+  - text: "It improves processing quality and coordination."
+
+  utter_ask_rice_743:
+  - text: "Records help track performance and inputs."
+
+  utter_ask_rice_744:
+  - text: "It supports informed decision-making."
+
+  utter_ask_rice_745:
+  - text: "It protects farmers from chemical exposure."
+
+  utter_ask_rice_746:
+  - text: "It preserves beneficial organisms."
+
+  utter_ask_rice_747:
+  - text: "Uniform grains cook evenly."
+
+  utter_ask_rice_748:
+  - text: "Stress increases chalky grains."
+
+  utter_ask_rice_749:
+  - text: "Rice is a major staple food."
+
+  utter_ask_rice_750:
+  - text: "They increase local production and yield."
+
+  utter_ask_rice_751:
+  - text: "Sandy soils drain water too quickly for rice needs."
+
+  utter_ask_rice_752:
+  - text: "It improves water retention and nutrient availability."
+
+  utter_ask_rice_753:
+  - text: "Raised beds prevent waterlogging of seedlings."
+
+  utter_ask_rice_754:
+  - text: "High seed rate produces weak and crowded seedlings."
+
+  utter_ask_rice_755:
+  - text: "It improves spacing and eases weeding."
+
+  utter_ask_rice_756:
+  - text: "Roots take time to recover, slowing early growth."
+
+  utter_ask_rice_757:
+  - text: "Shallow water encourages more tiller formation."
+
+  utter_ask_rice_758:
+  - text: "Excess water limits oxygen to roots."
+
+  utter_ask_rice_759:
+  - text: "Nitrogen is essential for chlorophyll formation."
+
+  utter_ask_rice_760:
+  - text: "It causes tall, weak stems."
+
+  utter_ask_rice_761:
+  - text: "They closely resemble rice plants."
+
+  utter_ask_rice_762:
+  - text: "Weeds outcompete rice for nutrients."
+
+  utter_ask_rice_763:
+  - text: "Dense foliage provides food and shelter."
+
+  utter_ask_rice_764:
+  - text: "It destroys young plants before tillering."
+
+  utter_ask_rice_765:
+  - text: "Rice fields provide food and cover."
+
+  utter_ask_rice_766:
+  - text: "It removes hiding and breeding sites."
+
+  utter_ask_rice_767:
+  - text: "High humidity favors fungal growth."
+
+  utter_ask_rice_768:
+  - text: "It limits pathogen infection and spread."
+
+  utter_ask_rice_769:
+  - text: "Bunds help retain water in the field."
+
+  utter_ask_rice_770:
+  - text: "Water leaks out through broken bunds."
+
+  utter_ask_rice_771:
+  - text: "Immature grains have low weight and quality."
+
+  utter_ask_rice_772:
+  - text: "Too much moisture causes poor grain separation."
+
+  utter_ask_rice_773:
+  - text: "Immediate drying prevents mold growth."
+
+  utter_ask_rice_774:
+  - text: "Wet grains spoil faster than dry ones."
+
+  utter_ask_rice_775:
+  - text: "It controls temperature and moisture."
+
+  utter_ask_rice_776:
+  - text: "Aroma reduces as volatile compounds escape."
+
+  utter_ask_rice_777:
+  - text: "Soaking allows uniform heat penetration."
+
+  utter_ask_rice_778:
+  - text: "It darkens grains and reduces quality."
+
+  utter_ask_rice_779:
+  - text: "It retains bran and germ layers."
+
+  utter_ask_rice_780:
+  - text: "Polishing removes vitamin-rich outer layers."
+
+  utter_ask_rice_781:
+  - text: "Cold slows growth and affects flowering."
+
+  utter_ask_rice_782:
+  - text: "Unpredictable rains affect timing and water supply."
+
+  utter_ask_rice_783:
+  - text: "It affects soil fertility and pest carryover."
+
+  utter_ask_rice_784:
+  - text: "It adds organic matter to soil."
+
+  utter_ask_rice_785:
+  - text: "They learn improved practices hands-on."
+
+  utter_ask_rice_786:
+  - text: "Farmers trust and copy successful peers."
+
+  utter_ask_rice_787:
+  - text: "They manage shared water resources."
+
+  utter_ask_rice_788:
+  - text: "Farmers synchronize planting and pest control."
+
+  utter_ask_rice_789:
+  - text: "It creates value-added opportunities."
+
+  utter_ask_rice_790:
+  - text: "They improve access to information and planning."
+
+  utter_ask_rice_791:
+  - text: "Women handle drying, parboiling, and storage."
+
+  utter_ask_rice_792:
+  - text: "Women reinvest earnings into food and education."
+
+  utter_ask_rice_793:
+  - text: "It helps evaluate farm performance."
+
+  utter_ask_rice_794:
+  - text: "They guide fertilizer and seed decisions."
+
+  utter_ask_rice_795:
+  - text: "They contaminate water and aquatic life."
+
+  utter_ask_rice_796:
+  - text: "It reduces harmful residues in grains."
+
+  utter_ask_rice_797:
+  - text: "Higher head rice means less broken grains."
+
+  utter_ask_rice_798:
+  - text: "Stressed grains break easily during milling."
+
+  utter_ask_rice_799:
+  - text: "It increases efficiency and reduces labor gaps."
+
+  utter_ask_rice_800:
+  - text: "It enables year-round cultivation and stable yields."
+
+  utter_ask_waterleaf_801:
+  - text: "Waterleaf is a leafy vegetable that grows well in humid climates and is commonly used in soups in southern Nigeria."
+
+  utter_ask_waterleaf_802:
+  - text: "Local spreading varieties grow faster and are commonly cultivated by Nigerian farmers."
+
+  utter_ask_waterleaf_803:
+  - text: "Warm temperatures and high humidity favor waterleaf growth."
+
+  utter_ask_waterleaf_804:
+  - text: "Loose, fertile, and well-drained soil supports healthy waterleaf growth."
+
+  utter_ask_waterleaf_805:
+  - text: "Compacted soil restricts root expansion and reduces water and nutrient uptake."
+
+  utter_ask_waterleaf_806:
+  - text: "Waterleaf is commonly propagated using stem cuttings."
+
+  utter_ask_waterleaf_807:
+  - text: "Immediate planting prevents dehydration and improves survival rate."
+
+  utter_ask_waterleaf_808:
+  - text: "Proper spacing reduces overcrowding and improves leaf development."
+
+  utter_ask_waterleaf_809:
+  - text: "Waterleaf should be watered regularly to keep the soil moist."
+
+  utter_ask_waterleaf_810:
+  - text: "Excessive watering causes root rot and nutrient loss."
+
+  utter_ask_waterleaf_811:
+  - text: "Snails, caterpillars, and grasshoppers commonly attack waterleaf."
+
+  utter_ask_waterleaf_812:
+  - text: "Snails eat the leaves, reducing yield and quality."
+
+  utter_ask_waterleaf_813:
+  - text: "Many pests are active early in the morning and can be easily controlled then."
+
+  utter_ask_waterleaf_814:
+  - text: "Yellowing leaves and root decay indicate poor drainage."
+
+  utter_ask_waterleaf_815:
+  - text: "Weeds compete for nutrients and reduce leaf yield."
+
+  utter_ask_waterleaf_816:
+  - text: "Mulching blocks sunlight and suppresses weed germination."
+
+  utter_ask_waterleaf_817:
+  - text: "Waterleaf is ready for harvest about 3 to 4 weeks after planting."
+
+  utter_ask_waterleaf_818:
+  - text: "Careful harvesting allows regrowth for multiple harvests."
+
+  utter_ask_waterleaf_819:
+  - text: "High moisture content causes rapid wilting and decay."
+
+  utter_ask_waterleaf_820:
+  - text: "Waterleaf contains vitamins, iron, and dietary fiber."
+
+  utter_ask_waterleaf_821:
+  - text: "Waterleaf contains iron which supports red blood cell formation."
+
+  utter_ask_waterleaf_822:
+  - text: "Dietary fiber in waterleaf improves bowel movement and digestion."
+
+  utter_ask_waterleaf_823:
+  - text: "Waterleaf has shallow roots that absorb nutrients rapidly."
+
+  utter_ask_waterleaf_824:
+  - text: "Repeated harvesting removes nutrients and requires soil replenishment."
+
+  utter_ask_waterleaf_825:
+  - text: "Organic manure such as compost or poultry droppings is commonly used."
+
+  utter_ask_waterleaf_826:
+  - text: "Excess fertilizer causes leaf burn and weak growth."
+
+  utter_ask_waterleaf_827:
+  - text: "Caterpillars eat the leaves, reducing harvest quantity."
+
+  utter_ask_waterleaf_828:
+  - text: "Waterleaf farms are small-scale, making manual removal practical."
+
+  utter_ask_waterleaf_829:
+  - text: "It leaves chemical residues that may be harmful to consumers."
+
+  utter_ask_waterleaf_830:
+  - text: "Poor drainage or nutrient deficiency causes yellowing."
+
+  utter_ask_waterleaf_831:
+  - text: "Moist conditions allow pathogens to multiply quickly."
+
+  utter_ask_waterleaf_832:
+  - text: "Dense regrowth shades the soil and limits weed emergence."
+
+  utter_ask_waterleaf_833:
+  - text: "Deep weeding damages shallow roots and reduces regrowth."
+
+  utter_ask_waterleaf_834:
+  - text: "Waterleaf can be harvested multiple times with proper care."
+
+  utter_ask_waterleaf_835:
+  - text: "Morning harvest reduces wilting and preserves freshness."
+
+  utter_ask_waterleaf_836:
+  - text: "Keeping leaves cool and moist slows spoilage."
+
+  utter_ask_waterleaf_837:
+  - text: "Poor airflow accelerates decay and odor formation."
+
+  utter_ask_waterleaf_838:
+  - text: "It removes sand, insects, and soil contaminants."
+
+  utter_ask_waterleaf_839:
+  - text: "It removes water-soluble vitamins and reduces nutritional quality."
+
+  utter_ask_waterleaf_840:
+  - text: "Polluted water introduces harmful microbes and chemicals."
+
+  utter_ask_waterleaf_841:
+  - text: "It increases contamination risk and foodborne illness."
+
+  utter_ask_waterleaf_842:
+  - text: "Dry season reduces growth unless irrigation is provided."
+
+  utter_ask_waterleaf_843:
+  - text: "Heat stress increases water loss and limits cell expansion."
+
+  utter_ask_waterleaf_844:
+  - text: "They provide training on improved practices and pest control."
+
+  utter_ask_waterleaf_845:
+  - text: "Records help farmers track inputs, harvest cycles, and problems."
+
+  utter_ask_waterleaf_846:
+  - text: "It grows fast and requires low input."
+
+  utter_ask_waterleaf_847:
+  - text: "It provides quick access to fresh vegetables."
+
+  utter_ask_waterleaf_848:
+  - text: "Its fast growth allows learners to see results quickly."
+
+  utter_ask_waterleaf_849:
+  - text: "Students learn recycling, composting, and food production."
+
+  utter_ask_waterleaf_850:
+  - text: "It adds flavor, moisture, and nutrition to soups."
+
+  utter_ask_pineapple_851:
+  - text: "Pineapple is a perennial tropical fruit crop grown for its edible fruit."
+
+  utter_ask_pineapple_852:
+  - text: "Warm temperatures with moderate rainfall are ideal for pineapple."
+
+  utter_ask_pineapple_853:
+  - text: "Well-drained sandy loam soil is best for pineapple."
+
+  utter_ask_pineapple_854:
+  - text: "Waterlogging causes root rot and plant death."
+
+  utter_ask_pineapple_855:
+  - text: "Smooth Cayenne and local varieties are commonly grown."
+
+  utter_ask_pineapple_856:
+  - text: "Pineapple is propagated using suckers, slips, or crowns."
+
+  utter_ask_pineapple_857:
+  - text: "Suckers produce fruits earlier than crowns."
+
+  utter_ask_pineapple_858:
+  - text: "Proper spacing improves fruit size and reduces disease spread."
+
+  utter_ask_pineapple_859:
+  - text: "Pineapple requires moderate watering, especially during dry periods."
+
+  utter_ask_pineapple_860:
+  - text: "Too much water damages roots and promotes disease."
+
+  utter_ask_pineapple_861:
+  - text: "Nitrogen, potassium, and phosphorus are important nutrients."
+
+  utter_ask_pineapple_862:
+  - text: "Split application improves nutrient uptake and reduces loss."
+
+  utter_ask_pineapple_863:
+  - text: "Mealybugs and rodents commonly attack pineapple."
+
+  utter_ask_pineapple_864:
+  - text: "They suck sap and transmit diseases."
+
+  utter_ask_pineapple_865:
+  - text: "Ants protect mealybugs and help them spread."
+
+  utter_ask_pineapple_866:
+  - text: "Fungal infection commonly causes heart rot."
+
+  utter_ask_pineapple_867:
+  - text: "It creates moist conditions that favor pathogens."
+
+  utter_ask_pineapple_868:
+  - text: "Weeds compete for nutrients and harbor pests."
+
+  utter_ask_pineapple_869:
+  - text: "Mulching suppresses weeds and conserves soil moisture."
+
+  utter_ask_pineapple_870:
+  - text: "Pineapple is ready when the fruit changes color and develops aroma."
+
+  utter_ask_pineapple_871:
+  - text: "Rough handling reduces fruit quality and shelf life."
+
+  utter_ask_pineapple_872:
+  - text: "Improper handling and high temperature cause spoilage."
+
+  utter_ask_pineapple_873:
+  - text: "Proper storage, ventilation, and gentle handling extend shelf life."
+
+  utter_ask_pineapple_874:
+  - text: "Pineapple contains vitamin C, fiber, and antioxidants."
+
+  utter_ask_pineapple_875:
+  - text: "It contains bromelain which aids digestion."
+
+  utter_ask_pineapple_876:
+  - text: "They provide training on improved farming and pest control."
+
+  utter_ask_pineapple_877:
+  - text: "It requires moderate input and adapts well to tropical environments."
+
+  utter_ask_cassava_878:
+  - text: "Cassava grows best in well-drained sandy-loam or loamy soils with good organic matter and low waterlogging risk."
+
+  utter_ask_cassava_879:
+  - text: "Cassava needs full sunlight, at least 6–8 hours per day, for good root development."
+
+  utter_ask_cassava_880:
+  - text: "The best time is early rainy season, usually April to early June, when the soil has enough moisture."
+
+  utter_ask_cassava_881:
+  - text: "Cassava typically matures in 9–15 months depending on the variety and soil conditions."
+
+  utter_ask_cassava_882:
+  - text: "It improves soil structure, ensures deeper root penetration, and reduces weeds before planting."
+
+  utter_ask_cassava_883:
+  - text: "Ridges or mounds are recommended, especially in heavy soils, to improve drainage and root formation."
+
+  utter_ask_cassava_884:
+  - text: "Popular varieties include TMS 30572, TME 419, NR 8082, and TMS 98/0581."
+
+  utter_ask_cassava_885:
+  - text: "It is high-yielding, disease-tolerant, grows fast, and performs well in many Nigerian soils."
+
+  utter_ask_cassava_886:
+  - text: "Cassava stem cuttings should be planted 5–10 cm deep depending on soil moisture."
+
+  utter_ask_cassava_887:
+  - text: "Cuttings should be 20–25 cm long with at least 5–7 nodes."
+
+  utter_ask_cassava_888:
+  - text: "They grow best when planted slanted or vertically, depending on soil moisture."
+
+  utter_ask_cassava_889:
+  - text: "Use only healthy, disease-free stems and store them in a cool, shaded place before planting."
+
+  utter_ask_cassava_890:
+  - text: "Weeds compete with cassava for nutrients, sunlight, and water, reducing yield significantly."
+
+  utter_ask_cassava_891:
+  - text: "At least two major weeding operations are needed within the first 3 months."
+
+  utter_ask_cassava_892:
+  - text: "Yes, cassava can be intercropped with maize, especially in early stages before canopy formation."
+
+  utter_ask_cassava_893:
+  - text: "The standard spacing is 1 m × 1 m for good root size and yield."
+
+  utter_ask_cassava_894:
+  - text: "It leads to small tubers, competition for nutrients, and lower overall yield."
+
+  utter_ask_cassava_895:
+  - text: "Fertile soils support better root expansion, faster growth, and higher yields."
+
+  utter_ask_cassava_896:
+  - text: "Cassava tolerates poor soils but yields drop sharply without proper fertilization."
+
+  utter_ask_cassava_897:
+  - text: "Mulching conserves moisture, reduces weeds, and improves soil temperature."
+
+  utter_ask_cassava_898:
+  - text: "The major pests include cassava mealybug, cassava green mite, variegated grasshopper, and whiteflies."
+
+  utter_ask_cassava_899:
+  - text: "They suck plant sap, causing leaf distortion, stunted growth, and reduced tuber formation."
+
+  utter_ask_cassava_900:
+  - text: "White, cotton-like substances on leaves and stunted or deformed new growth."
+
+  utter_ask_pineapple_901:
+  - text: "Excessive rainfall causes water stress and reduces fruit sweetness."
+
+  utter_ask_pineapple_902:
+  - text: "Reduced sunlight lowers photosynthesis and slows fruit development."
+
+  utter_ask_pineapple_903:
+  - text: "Fertile soil supplies nutrients needed for fruit formation."
+
+  utter_ask_pineapple_904:
+  - text: "Slightly acidic soil improves nutrient availability for pineapple."
+
+  utter_ask_pineapple_905:
+  - text: "Healthy materials reduce disease spread and improve establishment."
+
+  utter_ask_pineapple_906:
+  - text: "Larger suckers establish faster and produce bigger fruits."
+
+  utter_ask_pineapple_907:
+  - text: "Close spacing increases humidity and disease spread."
+
+  utter_ask_pineapple_908:
+  - text: "It improves land use efficiency while maintaining airflow."
+
+  utter_ask_pineapple_909:
+  - text: "Water stress reduces leaf expansion and weakens plants."
+
+  utter_ask_pineapple_910:
+  - text: "Drip irrigation delivers water efficiently and prevents waterlogging."
+
+  utter_ask_pineapple_911:
+  - text: "Rodents eat fruits and damage plants."
+
+  utter_ask_pineapple_912:
+  - text: "Dirty fields provide hiding places for pests."
+
+  utter_ask_pineapple_913:
+  - text: "It reduces chemical use while effectively controlling pests."
+
+  utter_ask_pineapple_914:
+  - text: "It spreads disease and reduces overall productivity."
+
+  utter_ask_pineapple_915:
+  - text: "Rotation breaks disease life cycles in the soil."
+
+  utter_ask_pineapple_916:
+  - text: "Weeds compete for soil nutrients and water."
+
+  utter_ask_pineapple_917:
+  - text: "Improper use damages crops and contaminates soil."
+
+  utter_ask_pineapple_918:
+  - text: "Uniform flowering ensures consistent harvest time."
+
+  utter_ask_pineapple_919:
+  - text: "Stress triggers hormonal changes that initiate flowering."
+
+  utter_ask_pineapple_920:
+  - text: "Early harvest produces sour and poorly developed fruits."
+
+  utter_ask_pineapple_921:
+  - text: "It reduces fruit damage and prolongs shelf life."
+
+  utter_ask_pineapple_922:
+  - text: "Bruising accelerates decay and reduces acceptability."
+
+  utter_ask_pineapple_923:
+  - text: "Ventilation prevents heat buildup and spoilage."
+
+  utter_ask_pineapple_924:
+  - text: "Juice, dried pineapple, and canned products can be produced."
+
+  utter_ask_pineapple_925:
+  - text: "Processing preserves excess fruits and extends usability."
+
+  utter_ask_pineapple_926:
+  - text: "Vitamin C in pineapple boosts immune function."
+
+  utter_ask_pineapple_927:
+  - text: "Excess intake may irritate the mouth due to acidity."
+
+  utter_ask_pineapple_928:
+  - text: "It provides nutritious fruit options for households."
+
+  utter_ask_pineapple_929:
+  - text: "Proper residue handling prevents pest buildup and improves soil health."
+
+  utter_ask_pineapple_930:
+  - text: "They enable shared knowledge, inputs, and technical support."
+
+  utter_ask_pineapple_931:
+  - text: "Training improves production efficiency and product quality."
+
+  utter_ask_good_agricultural_methods_932:
+  - text: "Soil testing helps farmers understand soil nutrients and pH for proper crop management."
+
+  utter_ask_good_agricultural_methods_933:
+  - text: "Soil pH influences nutrient availability and root development."
+
+  utter_ask_good_agricultural_methods_934:
+  - text: "Organic matter improves soil fertility, structure, and water retention."
+
+  utter_ask_good_agricultural_methods_935:
+  - text: "Proper land preparation improves seed establishment and reduces weed pressure."
+
+  utter_ask_good_agricultural_methods_936:
+  - text: "Minimum tillage reduces erosion and preserves soil moisture."
+
+  utter_ask_good_agricultural_methods_937:
+  - text: "Improved seeds have better yield potential and disease resistance."
+
+  utter_ask_good_agricultural_methods_938:
+  - text: "Seed treatment protects seedlings from early pests and diseases."
+
+  utter_ask_good_agricultural_methods_939:
+  - text: "Correct depth ensures good germination and root development."
+
+  utter_ask_good_agricultural_methods_940:
+  - text: "Proper spacing reduces competition and improves air circulation."
+
+  utter_ask_good_agricultural_methods_941:
+  - text: "Proper irrigation supports nutrient uptake and steady growth."
+
+  utter_ask_good_agricultural_methods_942:
+  - text: "Overwatering causes root rot and nutrient leaching."
+
+  utter_ask_good_agricultural_methods_943:
+  - text: "Correct fertilizer use prevents waste and improves crop yield."
+
+  utter_ask_good_agricultural_methods_944:
+  - text: "Too much fertilizer degrades soil and pollutes water sources."
+
+  utter_ask_good_agricultural_methods_945:
+  - text: "Early weed control prevents competition for nutrients and light."
+
+  utter_ask_good_agricultural_methods_946:
+  - text: "Mulching blocks sunlight and suppresses weed germination."
+
+  utter_ask_good_agricultural_methods_947:
+  - text: "Regular scouting helps detect pests early before damage spreads."
+
+  utter_ask_good_agricultural_methods_948:
+  - text: "Crop rotation breaks pest life cycles and reduces infestation."
+
+  utter_ask_good_agricultural_methods_949:
+  - text: "It controls pests effectively while protecting the environment."
+
+  utter_ask_good_agricultural_methods_950:
+  - text: "Timely harvesting prevents yield loss and quality reduction."
+
+  utter_ask_good_agricultural_methods_951:
+  - text: "Improper harvesting causes damage and reduces shelf life."
+
+  utter_ask_good_agricultural_methods_952:
+  - text: "Careful handling reduces postharvest losses and spoilage."
+
+  utter_ask_good_agricultural_methods_953:
+  - text: "Protective gear reduces health risks and chemical exposure."
+
+  utter_ask_good_agricultural_methods_954:
+  - text: "Records help farmers evaluate performance and plan better."
+
+  utter_ask_good_agricultural_methods_955:
+  - text: "Training helps farmers adopt improved and safer practices."
+
+  utter_ask_good_agricultural_methods_956:
+  - text: "They protect natural resources while improving productivity."
+
+  utter_ask_good_agricultural_methods_982:
+  - text: "Steep slopes increase soil erosion and nutrient loss."
+
+  utter_ask_good_agricultural_methods_983:
+  - text: "Terracing reduces erosion and conserves soil moisture."
+
+  utter_ask_good_agricultural_methods_984:
+  - text: "Contour farming reduces water runoff and erosion."
+
+  utter_ask_good_agricultural_methods_985:
+  - text: "Good drainage prevents waterlogging and root diseases."
+
+  utter_ask_good_agricultural_methods_986:
+  - text: "Cool and dry conditions maintain seed viability."
+
+  utter_ask_good_agricultural_methods_987:
+  - text: "Good seed selection leads to uniform growth and maturity."
+
+  utter_ask_good_agricultural_methods_988:
+  - text: "Overcrowding causes competition for nutrients and light."
+
+  utter_ask_good_agricultural_methods_989:
+  - text: "Row alignment allows easy weeding and harvesting."
+
+  utter_ask_good_agricultural_methods_990:
+  - text: "Natural rainfall supplies enough water and prevents waterlogging."
+
+  utter_ask_good_agricultural_methods_991:
+  - text: "Water stress reduces flowering and fruit formation."
+
+  utter_ask_good_agricultural_methods_992:
+  - text: "Incorporation reduces nutrient loss through volatilization."
+
+  utter_ask_good_agricultural_methods_993:
+  - text: "Balanced nutrients support strong growth and disease resistance."
+
+  utter_ask_good_agricultural_methods_994:
+  - text: "Weeds can regrow and compete at any growth stage."
+
+  utter_ask_good_agricultural_methods_995:
+  - text: "Shallow weeding avoids damaging crop root systems."
+
+  utter_ask_good_agricultural_methods_996:
+  - text: "Rotation prevents pests from developing resistance."
+
+  utter_ask_good_agricultural_methods_997:
+  - text: "Early planting helps crops escape peak pest periods."
+
+  utter_ask_good_agricultural_methods_998:
+  - text: "Harvesting at maturity ensures maximum quality and yield."
+
+  utter_ask_good_agricultural_methods_999:
+  - text: "Early harvesting reduces size, taste, and shelf life."
+
+  utter_ask_good_agricultural_methods_1000:
+  - text: "Shade reduces heat stress and moisture loss."
+
+  utter_ask_good_agricultural_methods_1001:
+  - text: "Packaging protects produce from bruising and contamination."
+
+  utter_ask_good_agricultural_methods_1002:
+  - text: "Cleaning prevents chemical residue buildup and corrosion."
+
+  utter_ask_good_agricultural_methods_1003:
+  - text: "They can cause poisoning and environmental contamination."
+
+  utter_ask_good_agricultural_methods_1004:
+  - text: "Records show when and where pests occurred."
+
+  utter_ask_good_agricultural_methods_1005:
+  - text: "Weather records help plan planting and harvesting."
+
+  utter_ask_good_agricultural_methods_1006:
+  - text: "Demonstration farms show practical use of improved practices."
+
+  utter_ask_good_agricultural_methods_1007:
+  - text: "Farmers trust and learn better from fellow farmers."
+
+  utter_ask_good_agricultural_methods_1008:
+  - text: "Residues improve soil organic matter and fertility."
+
+  utter_ask_good_agricultural_methods_1009:
+  - text: "Trees protect soil, improve microclimate, and increase biodiversity."
+
+  utter_ask_good_agricultural_methods_1010:
+  - text: "Biodiversity supports pest control and ecosystem balance."
+
+  utter_ask_good_agricultural_methods_1011:
+  - text: "It helps crops withstand droughts and floods."
+
+  utter_ask_good_agricultural_methods_1012:
+  - text: "Diversification reduces risk of total crop failure."
+
+  utter_ask_good_agricultural_methods_1013:
+  - text: "It reduces contamination and chemical residue in food."
+
+  utter_ask_good_agricultural_methods_1014:
+  - text: "It ensures resources remain available for future generations."
+
+  utter_ask_good_agricultural_methods_1015:
+  - text: "It maintains productivity and prevents land degradation."
+
+  utter_ask_good_agricultural_methods_1016:
+  - text: "Local adaptation improves success and reduces losses."
+
+  utter_ask_good_agricultural_methods_1017:
+  - text: "Reduced chemical use preserves natural enemies of pests."
+
+  utter_ask_good_agricultural_methods_1018:
+  - text: "Planning ensures consistent productivity and resource protection."
+
+  utter_ask_good_agricultural_methods_1019:
+  - text: "It increases stable and safe food production."
+
+  utter_ask_good_agricultural_methods_1020:
+  - text: "Continuous improvement increases efficiency and resilience."
+
+  utter_ask_good_agricultural_methods_1021:
+  - text: "It minimizes chemical runoff and soil degradation."
+
+  utter_ask_good_agricultural_methods_1022:
+  - text: "Healthy soil ensures continued food production."
+
+  utter_ask_good_agricultural_methods_1023:
+  - text: "Awareness encourages responsible decision-making."
+
+  utter_ask_good_agricultural_methods_1024:
+  - text: "Protecting the environment sustains farming and livelihoods."
+
+  utter_ask_good_agricultural_methods_1025:
+  - text: "It creates stable food supply and employment."
+
+  utter_ask_good_agricultural_methods_1026:
+  - text: "Evolving practices respond to climate and soil changes."
+
+  utter_ask_good_agricultural_methods_1027:
+  - text: "It reduces losses and improves adaptation capacity."
+
+  utter_ask_good_agricultural_methods_1028:
+  - text: "Long-term focus preserves soil and resources."
+
+  utter_ask_good_agricultural_methods_1029:
+  - text: "It reduces chemical exposure and ensures safer food."
+
+  utter_ask_good_agricultural_methods_1030:
+  - text: "It ensures food availability and environmental stability."
+
+  utter_ask_good_agricultural_methods_1031:
+  - text: "It preserves land quality for the next generation."
+
+  utter_ask_yam_1051:
+  - text: "Termites damage yam setts and reduce sprouting."
+
+  utter_ask_yam_1052:
+  - text: "Removing old wood and plant residues reduces termite habitat."
+
+  utter_ask_yam_1053:
+  - text: "Rodents dig up and feed on developing yam tubers."
+
+  utter_ask_yam_1054:
+  - text: "Field sanitation and trapping help reduce rodent activity."
+
+  utter_ask_yam_1055:
+  - text: "Nematodes cause tuber cracks and reduce yam quality."
+
+  utter_ask_yam_1056:
+  - text: "Use clean planting material and rotate crops."
+
+  utter_ask_yam_1057:
+  - text: "Anthracnose is caused by a fungal infection."
+
+  utter_ask_yam_1058:
+  - text: "It damages leaves, reducing photosynthesis and yield."
+
+  utter_ask_yam_1059:
+  - text: "Using resistant varieties and removing infected plants helps."
+
+  utter_ask_yam_1060:
+  - text: "Excess moisture encourages fungal and bacterial growth."
+
+  utter_ask_yam_1061:
+  - text: "Sunlight supports photosynthesis and vine strength."
+
+  utter_ask_yam_1062:
+  - text: "Too much shade reduces vine growth and tuber size."
+
+  utter_ask_yam_1063:
+  - text: "Yam is ready when leaves yellow and vines dry."
+
+  utter_ask_yam_1064:
+  - text: "Rough handling causes cuts that lead to spoilage."
+
+  utter_ask_yam_1065:
+  - text: "Hoes and cutlasses are commonly used."
+
+  utter_ask_yam_1066:
+  - text: "Curing heals wounds and reduces rot."
+
+  utter_ask_yam_1067:
+  - text: "Store yam in a cool, dry, and well-ventilated place."
+
+  utter_ask_yam_1068:
+  - text: "Damaged yams spread rot to healthy tubers."
+
+  utter_ask_yam_1069:
+  - text: "Ventilation reduces heat and moisture buildup."
+
+  utter_ask_yam_1070:
+  - text: "Regular inspection helps remove rotting tubers early."
+
+  utter_ask_yam_1071:
+  - text: "Seed yams ensure planting material for the next season."
+
+  utter_ask_yam_1072:
+  - text: "Select healthy, medium-sized, disease-free tubers."
+
+  utter_ask_yam_1073:
+  - text: "Rotation reduces pest buildup and improves soil health."
+
+  utter_ask_yam_1074:
+  - text: "Legumes and cereals are suitable rotation crops."
+
+  utter_ask_yam_1075:
+  - text: "Organic matter improves soil structure and nutrients."
+
+  utter_ask_yam_1076:
+  - text: "Too much fertilizer promotes vines instead of tubers."
+
+  utter_ask_yam_1077:
+  - text: "Drought reduces tuber size and yield."
+
+  utter_ask_yam_1078:
+  - text: "Mulching helps conserve soil moisture."
+
+  utter_ask_yam_1079:
+  - text: "Extension advice improves farming practices and yield."
+
+  utter_ask_yam_1080:
+  - text: "Training exposes farmers to improved techniques."
+
+  utter_ask_cassava_1081:
+  - text: "They can use neem extract spray, soap-water mixtures, or introduce natural predators like lady beetles."
+
+  utter_ask_cassava_1082:
+  - text: "It causes yellowing, leaf drying, defoliation, and significant yield loss."
+
+  utter_ask_cassava_1083:
+  - text: "Leaves show yellow patches and fine webbing on the underside."
+
+  utter_ask_cassava_1084:
+  - text: "Use resistant varieties, biological control with predatory mites, and proper field sanitation."
+
+  utter_ask_cassava_1085:
+  - text: "The variegated grasshopper is known for heavy leaf feeding and defoliation."
+
+  utter_ask_cassava_1086:
+  - text: "By handpicking early in the morning or using botanical extracts like neem."
+
+  utter_ask_cassava_1087:
+  - text: "Whiteflies transmit cassava mosaic virus, a serious disease affecting yield."
+
+  utter_ask_cassava_1088:
+  - text: "Use resistant varieties, maintain field hygiene, and avoid late planting."
+
+  utter_ask_cassava_1089:
+  - text: "Yes, intercropping with legumes reduces pest buildup and improves biodiversity."
+
+  utter_ask_cassava_1090:
+  - text: "Poor aeration and shading create a favorable environment for pest multiplication."
+
+  utter_ask_cassava_1091:
+  - text: "Rotating with legumes breaks pest cycles and reduces soil pest populations."
+
+  utter_ask_cassava_1092:
+  - text: "Some ants prey on cassava pests like mites and mealybugs."
+
+  utter_ask_cassava_1093:
+  - text: "No, it destroys beneficial organisms and is not recommended."
+
+  utter_ask_cassava_1094:
+  - text: "Yes, planting early helps cassava escape peak whitefly and mite populations."
+
+  utter_ask_cassava_1095:
+  - text: "By regular field scouting, especially early mornings and evenings."
+
+  utter_ask_cassava_1096:
+  - text: "Removing infested plants prevents pests and viruses from spreading to healthy plants."
+
+  utter_ask_cassava_1097:
+  - text: "Yes, but they should be used only when necessary and according to label instructions to avoid residue problems."
+
+  utter_ask_cassava_1098:
+  - text: "Leaves may yellow, curl, or show signs of stunted growth."
+
+  utter_ask_cassava_1099:
+  - text: "Yes, applying NPK or organic compost improves yield and tuber size."
+
+  utter_ask_cassava_1100:
+  - text: "Balanced fertilizers like NPK 15-15-15 or organic manure work well."
+
+  utter_ask_cassava_1101:
+  - text: "Apply fertilizer 4–6 weeks after planting for best absorption."
+
+  utter_ask_cassava_1102:
+  - text: "Yes, cassava is drought-tolerant but early growth stages need moisture."
+
+  utter_ask_cassava_1103:
+  - text: "Too much rain causes waterlogging, reducing tuber growth and increasing rot risk."
+
+  utter_ask_cassava_1104:
+  - text: "Yes, but irrigation helps because northern regions are drier."
+
+  utter_ask_cassava_1105:
+  - text: "Topping reduces lodging and stimulates tuber expansion."
+
+  utter_ask_cassava_1106:
+  - text: "Yes, but ridges or mounds are better in heavy soils."
+
+  utter_ask_cassava_1107:
+  - text: "Wider spacing like 1.2 m × 1.0 m helps tuber enlargement."
+
+  utter_ask_cassava_1108:
+  - text: "Shade reduces photosynthesis, leading to poor tuber development."
+
+  utter_ask_cassava_1109:
+  - text: "It can tolerate poor soils, drought, and irregular rainfall."
+
+  utter_ask_cassava_1110:
+  - text: "Clean stems reduce disease spread and promote healthy growth."
+
+  utter_ask_cassava_1111:
+  - text: "Yes, fresh stems have better sprouting ability."
+
+  utter_ask_cassava_1112:
+  - text: "Use ridges, proper drainage channels, or plant on sloped land."
+
+  utter_ask_cassava_1113:
+  - text: "A long hoe or digging fork is ideal for lifting roots without cutting them."
+
+  utter_ask_cassava_1114:
+  - text: "Avoid waterlogged soils and harvest at maturity."
+
+  utter_ask_cassava_1115:
+  - text: "Tie them in bundles and store in shaded, well-ventilated areas."
+
+  utter_ask_cassava_1116:
+  - text: "Yes, both the peels and leaves can supplement animal diets after proper processing."
+
+  utter_ask_cassava_1117:
+  - text: "Cassava grows best in slightly acidic soils with a pH of 5.5–7.0."
+
+  utter_ask_cassava_1118:
+  - text: "Yes, using compost, green manure, and organic pest control."
+
+  utter_ask_cassava_1119:
+  - text: "Only in dry regions or during long dry spells."
+
+  utter_ask_cassava_1120:
+  - text: "About 10,000 cuttings are required for 1 hectare using 1m x 1m spacing."
+
+  utter_ask_cassava_1121:
+  - text: "Late harvesting causes lignification, making roots fibrous."
+
+  utter_ask_cassava_1122:
+  - text: "Moderately acidic soils are fine, but very acidic soils reduce yield."
+
+  utter_ask_cassava_1123:
+  - text: "Store stems in moist sacks or under shade."
+
+  utter_ask_cassava_1124:
+  - text: "10,000–12,000 plants per hectare is recommended."
+
+  utter_ask_cassava_1125:
+  - text: "Yes, but older stems have lower sprouting ability."
+
+  utter_ask_cassava_1126:
+  - text: "It may indicate nutrient deficiency or viral infection."
+
+  utter_ask_cassava_1127:
+  - text: "Roots become small and rot due to lack of aeration."
+
+  utter_ask_cassava_1128:
+  - text: "No, removing leaves reduces photosynthesis and lowers yield."
+
+  utter_ask_cassava_1129:
+  - text: "Use contour ridges and plant cover crops."
+
+  utter_ask_cassava_1130:
+  - text: "Small roots and increased disease pressure."
+
+  utter_ask_cassava_1131:
+  - text: "Poorly, because the canopy develops slowly."
+
+  utter_ask_cassava_1132:
+  - text: "Usually by 3–4 months after planting."
+
+  utter_ask_cassava_1133:
+  - text: "At least two different improved varieties."
+
+  utter_ask_cassava_1134:
+  - text: "It is reliable, drought-tolerant, and productive in many conditions."
+
+  utter_ask_cassava_1135:
+  - text: "Yes, with organic fertilizer and botanical pest control."
+
+  utter_ask_cassava_1136:
+  - text: "Early morning or late afternoon to avoid stem dehydration."
+
+  utter_ask_cassava_1137:
+  - text: "Yes, as long as soil erosion is controlled."
+
+  utter_ask_cassava_1138:
+  - text: "To reduce wind damage and redirect energy to tuber growth."
+
+  utter_ask_cassava_1139:
+  - text: "Yes, it is hardy and regrows quickly."
+
+  utter_ask_cassava_1140:
+  - text: "It improves drought tolerance and nutrient absorption."
+
+  utter_ask_cassava_1141:
+  - text: "Yes, replant gaps within 2–4 weeks for uniform growth."
+
+  utter_ask_cassava_1142:
+  - text: "Planting diseased stems or planting during heavy rainfall."
+
+  utter_ask_cassava_1143:
+  - text: "Yes, vegetables with short growing cycles fit well."
+
+  utter_ask_cassava_1144:
+  - text: "Higher yield, disease resistance, and early maturity."
+
+  utter_ask_cassava_1145:
+  - text: "To improve drainage and make harvesting easier."
+
+  utter_ask_cassava_1146:
+  - text: "Warm soils promote faster sprouting."
+
+  utter_ask_cassava_1147:
+  - text: "Yes, but drainage must be improved."
+
+  utter_ask_cassava_1148:
+  - text: "Up to 2–3 months if stored properly."
+
+  utter_ask_cassava_1149:
+  - text: "Yes, buds should face upward for proper sprouting."
+
+  utter_ask_cassava_1150:
+  - text: "Roots are small and not fully developed."
+
+  utter_ask_cassava_1151:
+  - text: "Roots become woody and lose quality."
+
+  utter_ask_cassava_1152:
+  - text: "Only when branches are excessive."
+
+  utter_ask_cassava_1153:
+  - text: "Yes, some varieties produce edible leaves for soups."
+
+  utter_ask_cassava_1154:
+  - text: "It improves tuber formation and disease resistance."
+
+  utter_ask_cassava_1155:
+  - text: "Cassava tolerates mild salinity but not extremely saline soils."
+
+  utter_ask_cassava_1156:
+  - text: "No, cassava prefers full sunlight."
+
+  utter_ask_cassava_1157:
+  - text: "Because waterlogging increases risk of root rot."
+
+  utter_ask_cassava_1158:
+  - text: "Major pests include cassava mealybug, cassava green mite, and whiteflies."
+
+  utter_ask_cassava_1159:
+  - text: "Mealybugs suck sap from cassava shoots, causing stunted growth and leaf distortion."
+
+  utter_ask_cassava_1160:
+  - text: "Green mites cause yellowing, leaf drying, and reduced root yield."
+
+  utter_ask_cassava_1161:
+  - text: "Biological control using parasitic wasps is effective and environmentally friendly."
+
+  utter_ask_cassava_1162:
+  - text: "Yes. Neem extract helps reduce populations of mites and whiteflies."
+
+  utter_ask_cassava_1163:
+  - text: "Whiteflies attack the underside of cassava leaves and transmit viral diseases."
+
+  utter_ask_cassava_1164:
+  - text: "Dry season favors high populations of mites and mealybugs."
+
+  utter_ask_cassava_1165:
+  - text: "Yes. Intercropping with legumes reduces pest infestation by breaking pest cycles."
+
+  utter_ask_cassava_1166:
+  - text: "Early planting avoids peak pest season and lowers damage."
+
+  utter_ask_cassava_1167:
+  - text: "Weeds harbor pests that later migrate to cassava plants."
+
+  utter_ask_cassava_1168:
+  - text: "Weeding should be done at least two to three times within the first three months."
+
+  utter_ask_cassava_1169:
+  - text: "Cassava can grow without fertilizer, but applying NPK improves yield."
+
+  utter_ask_cassava_1170:
+  - text: "NPK 15-15-15 or 12-12-17 is commonly recommended."
+
+  utter_ask_cassava_1171:
+  - text: "Soil testing helps determine nutrient levels and prevents fertilizer waste."
+
+  utter_ask_cassava_1172:
+  - text: "Cassava is drought-tolerant but prolonged dryness reduces yield."
+
+  utter_ask_cassava_1173:
+  - text: "Yes. Mulching conserves soil moisture and reduces weed growth."
+
+  utter_ask_cassava_1174:
+  - text: "Healthy stem cuttings of 20–25 cm length are used."
+
+  utter_ask_cassava_1175:
+  - text: "No. Waterlogging causes rot and reduces sprouting."
+
+  utter_ask_cassava_1176:
+  - text: "Sharp knives reduce stem bruising and improve sprouting."
+
+  utter_ask_cassava_1177:
+  - text: "Improved varieties give higher yield and resist common diseases."
+
+  utter_ask_cassava_1178:
+  - text: "Varieties like TME 419 mature in 8–10 months."
+
+  utter_ask_cassava_1179:
+  - text: "Building ridges across slopes reduces runoff and soil loss."
+
+  utter_ask_cassava_1180:
+  - text: "No. Cassava requires full sunlight for maximum yield."
+
+  utter_ask_cassava_1181:
+  - text: "Cassava stems can be stored for up to 2–3 months when kept in shade and moisture."
+
+  utter_ask_cassava_1182:
+  - text: "Crop rotation prevents soil nutrient depletion and reduces pest buildup."
+
+  utter_ask_cassava_1183:
+  - text: "Yes, but spacing must be wide enough to avoid competition."
+
+  utter_ask_cassava_1184:
+  - text: "Cassava is rarely pruned, but removing diseased leaves helps control infection."
+
+  utter_ask_cassava_1185:
+  - text: "Deep planting slows sprouting and reduces root formation."
+
+  utter_ask_cassava_1186:
+  - text: "Adequate rainfall increases yield, while drought reduces root size."
+
+  utter_ask_cassava_1187:
+  - text: "Yes, with irrigation and drought-tolerant varieties."
+
+  utter_ask_cassava_1188:
+  - text: "Proper spacing, timely weeding, and adequate soil nutrients improve root size."
+
+  utter_ask_cassava_1189:
+  - text: "Removing infected plants reduces disease spread across the farm."
+
+  utter_ask_cassava_1190:
+  - text: "Yes. Stem treatment using fungicides reduces rot."
+
+  utter_ask_cassava_1191:
+  - text: "Leaves fully develop within 3–4 weeks after sprouting."
+
+  utter_ask_cassava_1192:
+  - text: "Cassava survives in poor soil but yields are lower."
+
+  utter_ask_cassava_1193:
+  - text: "Early weed control allows cassava plants to establish strongly."
+
+  utter_ask_cassava_1194:
+  - text: "Moderate rainfall is enough; too much water causes rot."
+
+  utter_ask_cassava_1195:
+  - text: "Yes. It performs well under organic farming systems."
+
+  utter_ask_cassava_1196:
+  - text: "No. Stagnant water affects root development."
+
+  utter_ask_cassava_1197:
+  - text: "Loosen the soil and uproot the plant manually or with simple tools."
+
+  utter_ask_cassava_1198:
+  - text: "No. Cassava does not require staking like yam."
+
+  utter_ask_cassava_1199:
+  - text: "Cassava prefers slightly acidic soil and may perform poorly in alkaline soil."
+
+  utter_ask_cassava_1200:
+  - text: "Ridging improves drainage and root expansion."
+
+  utter_ask_cassava_1201:
+  - text: "Roots become fibrous and the quality reduces."
+
+  utter_ask_cassava_1202:
+  - text: "Yes. Cassava peels and chips are used in livestock feed."
+
+  utter_ask_cassava_1203:
+  - text: "Sandy soil supports fast establishment but may require fertilizer."
+
+  utter_ask_cassava_1204:
+  - text: "Timely harvest maintains quality and prevents theft or pest damage."
+
+  utter_ask_cassava_1205:
+  - text: "Yes, but ridging or mounding is recommended for better root yield."
+
+  utter_ask_cassava_1206:
+  - text: "Mulching and early planting help conserve moisture."
+
+  utter_ask_cassava_1207:
+  - text: "Yes, but strong winds can break stems."
+
+  utter_ask_cassava_1208:
+  - text: "Planting diseased or old stems increases rotting."
+
+  utter_ask_cassava_1209:
+  - text: "Cut stems should be planted within 24 hours."
+
+  utter_ask_cassava_1210:
+  - text: "Yes, vegetables can be grown during early stages before cassava canopy spreads."
+
+  utter_ask_cassava_1211:
+  - text: "Root growth slows significantly after 12–15 months."
+
+  utter_ask_cassava_1212:
+  - text: "No. Cassava only needs water during early establishment."
+
+  utter_ask_cassava_1213:
+  - text: "It grows in poor soils, stores underground, and has multiple uses."
+
+  utter_ask_cassava_1214:
+  - text: "Short-term flooding is tolerable, but prolonged flooding kills the plant."
+
+  utter_ask_cassava_1215:
+  - text: "It tolerates drought, poor soils, and low management."
+
+  utter_ask_cassava_1216:
+  - text: "Harvesting at the right maturity and selecting high-starch varieties increases starch."
+
+  utter_ask_cassava_1217:
+  - text: "Nutrient deficiencies such as nitrogen or magnesium deficiency cause pale leaves."
+
+  utter_ask_cassava_1218:
+  - text: "Manure improves soil fertility and enhances root development."
+
+  utter_ask_cassava_1219:
+  - text: "Yes. 5–7 nodes improve sprouting and root formation."
+
+  utter_ask_cassava_1220:
+  - text: "Yes. High-starch varieties are used for industrial starch production."
+
+  utter_ask_cassava_1221:
+  - text: "Pesticides are used only when pest infestation becomes severe."
+
+  utter_ask_cassava_1222:
+  - text: "Early planting ensures enough moisture for root development."
+
+  utter_ask_cassava_1223:
+  - text: "Yes, especially in dry areas to improve moisture access."
+
+  utter_ask_cassava_1224:
+  - text: "Yes. Top dressing can be applied at 6–8 weeks after planting."
+
+  utter_ask_cassava_1225:
+  - text: "The plant drops leaves to conserve moisture."
+
+  utter_ask_cassava_1226:
+  - text: "Ridges should be 25–30 cm high to support root expansion."
+
+  utter_ask_cassava_1227:
+  - text: "Yes. Adequate sunlight boosts photosynthesis and root yield."
+
+  utter_ask_cassava_1228:
+  - text: "Poor soil fertility reduces leaf size and number."
+
+  utter_ask_cassava_1229:
+  - text: "Diseased plants spread infection to new farms."
+
+  utter_ask_cassava_1230:
+  - text: "Yes. Irrigation improves yield in dry regions."
+
+  utter_ask_cassava_1231:
+  - text: "No. Only diseased or dry leaves should be removed."
+
+  utter_ask_cassava_1232:
+  - text: "Yes, but clay soil must be well drained to avoid waterlogging."
+
+  utter_ask_cassava_1233:
+  - text: "Proper spacing prevents root competition and increases yield."
+
+  utter_ask_cassava_1234:
+  - text: "Spraying is not required unless pests are present."
+
+  utter_ask_cassava_1235:
+  - text: "Avoid overcrowding and plant wind-resistant varieties."
+
+  utter_ask_cassava_1236:
+  - text: "Yes. Compost improves soil structure and fertility."
+
+  utter_ask_cassava_1237:
+  - text: "Planting at the start of rains and harvesting in dry season gives best results."
+
+  utter_ask_cassava_1238:
+  - text: "Waterlogged soils cause root rot and reduce cassava yield significantly."
+
+  utter_ask_cassava_1239:
+  - text: "Farmers can use compost, animal manure, or intercrop with legumes."
+
+  utter_ask_cassava_1240:
+  - text: "Disease-free stems reduce the spread of viral diseases and increase yield."
+
+  utter_ask_cassava_1241:
+  - text: "It should be weeded at least twice within the first 3 months."
+
+  utter_ask_cassava_1242:
+  - text: "Cassava tolerates mild acidity but performs poorly in very acidic soils below pH 5."
+
+  utter_ask_cassava_1243:
+  - text: "Cassava needs full sunlight; shade reduces photosynthesis and root formation."
+
+  utter_ask_cassava_1244:
+  - text: "Cuttings from 8–12 month old stems are ideal because they sprout well."
+
+  utter_ask_cassava_1245:
+  - text: "Direct sun dries the stems and lowers sprouting ability."
+
+  utter_ask_cassava_1246:
+  - text: "Mulching conserves moisture, controls weeds, and improves soil structure."
+
+  utter_ask_cassava_1247:
+  - text: "Yes, but it requires early planting and drought-tolerant varieties."
+
+  utter_ask_cassava_1248:
+  - text: "It provides early food and income before cassava matures."
+
+  utter_ask_cassava_1249:
+  - text: "Deep planting slows sprouting and reduces root formation."
+
+  utter_ask_cassava_1250:
+  - text: "Not always; cassava can perform well if the soil is naturally rich."
+
+  utter_ask_cassava_1251:
+  - text: "Yes, if the soil has enough organic matter to hold moisture."
+
+  utter_ask_cassava_1252:
+  - text: "Use ridges, contour planting, and cover crops."
+
+  utter_ask_cassava_1253:
+  - text: "Cassava is usually grown from stem cuttings, not seeds."
+
+  utter_ask_cassava_1254:
+  - text: "Rough handling damages buds that are needed for sprouting."
+
+  utter_ask_cassava_1255:
+  - text: "Using herbicides early reduces the need for manual weeding."
+
+  utter_ask_cassava_1256:
+  - text: "Potassium improves root development and starch content."
+
+  utter_ask_cassava_1257:
+  - text: "Poor soil fertility, late planting, or heavy shade can cause small roots."
+
+  utter_ask_cassava_1258:
+  - text: "They can use mulching, cover crops, and organic matter to keep soil moist."
+
+  utter_ask_cassava_1259:
+  - text: "Yellow leaves are a sign of nitrogen or magnesium deficiency."
+
+  utter_ask_cassava_1260:
+  - text: "Yes, cassava is drought-tolerant and can survive short dry spells."
+
+  utter_ask_cassava_1261:
+  - text: "Yes. Proper spacing ensures enough sunlight and reduces competition for nutrients."
+
+  utter_ask_cassava_1262:
+  - text: "Ridges improve drainage and make harvesting easier."
+
+  utter_ask_cassava_1263:
+  - text: "No. Planting cassava too close together increases competition and reduces yield."
+
+  utter_ask_cassava_1264:
+  - text: "Improved varieties give higher yield, early maturity, and disease resistance."
+
+  utter_ask_cassava_1265:
+  - text: "Early detection prevents disease spread to other plants."
+
+  utter_ask_cassava_1266:
+  - text: "Root breakage reduces quality and makes processing difficult."
+
+  utter_ask_cassava_1267:
+  - text: "Stems should be collected immediately after harvesting when they are still fresh."
+
+  utter_ask_cassava_1268:
+  - text: "Over-mature cassava becomes fibrous and loses quality."
+
+  utter_ask_cassava_1269:
+  - text: "By planting along contours and using mulch or cover crops."
+
+  utter_ask_cassava_1270:
+  - text: "No. Cassava tolerates drought and only needs rainfall during early growth."
+
+  utter_ask_cassava_1271:
+  - text: "Legumes add nitrogen to the soil and improve cassava yield."
+
+  utter_ask_cassava_1272:
+  - text: "Leaves begin to yellow and roots become swollen."
+
+  utter_ask_cassava_1273:
+  - text: "Removing them prevents the spread of diseases to healthy plants."
+
+  utter_ask_cassava_1274:
+  - text: "Yes. Well-decomposed manure improves soil fertility."
+
+  utter_ask_cassava_1275:
+  - text: "No. Cassava is self-supporting and does not require stakes."
+
+  utter_ask_cassava_1276:
+  - text: "Poor variety selection and stress conditions increase bitterness."
+
+  utter_ask_cassava_1277:
+  - text: "Loose soils allow bigger tuber growth compared to compact soils."
+
+  utter_ask_cassava_1278:
+  - text: "Late weeding allows weeds to compete for nutrients, reducing cassava yield."
+
+  utter_ask_cassava_1279:
+  - text: "Wet soil makes harvesting difficult and increases root breakage."
+
+  utter_ask_cassava_1280:
+  - text: "Yes. Excess nitrogen encourages leaf growth but reduces root yield."
+
+  utter_ask_cassava_1281:
+  - text: "Genetic differences make some varieties mature in 8 months while others take 12 months or more."
+
+  utter_ask_cassava_1282:
+  - text: "Use fresh stems, avoid damaged buds, and plant at correct depth."
+
+  utter_ask_cassava_1283:
+  - text: "Yes. Cassava roots and peels can be processed into animal feed."
+
+  utter_ask_cassava_1284:
+  - text: "Continuous planting reduces soil fertility and increases pest buildup."
+
+  utter_ask_cassava_1285:
+  - text: "High humidity encourages fungal diseases on cassava leaves."
+
+  utter_ask_cassava_1286:
+  - text: "Yes, but ridging improves drainage and root development."
+
+  utter_ask_cassava_1287:
+  - text: "It helps farmers plant early and take advantage of early rains."
+
+  utter_ask_cassava_1288:
+  - text: "Poor aeration causes stunted roots and reduces yield."
+
+  utter_ask_cassava_1289:
+  - text: "Cassava cannot tolerate long-term flooding; roots will rot."
+
+  utter_ask_cassava_1290:
+  - text: "Stems rot when stored in moist conditions or exposed to fungal infection."
+
+  utter_ask_cassava_1291:
+  - text: "Diseased stems spread infections to the new crop and reduce yield."
+
+  utter_ask_cassava_1292:
+  - text: "Cassava needs moderate labor mainly for weeding and harvesting."
+
+  utter_ask_cassava_1293:
+  - text: "Stems are stored under shade or buried partly in moist soil."
+
+  utter_ask_cassava_1294:
+  - text: "Yes. NPK improves root yield when applied moderately."
+
+  utter_ask_cassava_1295:
+  - text: "Weak stems or shallow root systems cause lodging during strong winds."
+
+  utter_ask_cassava_1296:
+  - text: "Use quality stems of similar size and plant at the same depth."
+
+  utter_ask_cassava_1297:
+  - text: "Leaf drop reduces water loss and helps cassava survive drought."
+

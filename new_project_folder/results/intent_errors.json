@@ -1,0 +1,370 @@
+[
+  {
+    "text": "When should cassava be fertilized?",
+    "intent": "ask_cassava_1101",
+    "intent_prediction": {
+      "name": "ask_cassava_1099",
+      "confidence": 0.03650200366973877
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle can cassava tolerate drought, as e dey affect cassava?",
+    "intent": "ask_cassava_1102",
+    "intent_prediction": {
+      "name": "ask_cassava_1172",
+      "confidence": 0.04439448192715645
+    }
+  },
+  {
+    "text": "Please guide on: what spacing gives larger cassava tubers?",
+    "intent": "ask_cassava_1107",
+    "intent_prediction": {
+      "name": "ask_cassava_1261",
+      "confidence": 0.04558618366718292
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle how does shade affect cassava growth, as e dey affect cassava?",
+    "intent": "ask_cassava_1108",
+    "intent_prediction": {
+      "name": "ask_cassava_1243",
+      "confidence": 0.054123081266880035
+    }
+  },
+  {
+    "text": "Cassava need irrigation?",
+    "intent": "ask_cassava_1119",
+    "intent_prediction": {
+      "name": "ask_cassava_1212",
+      "confidence": 0.05007990822196007
+    }
+  },
+  {
+    "text": "Cassava fit mix with vegetable?",
+    "intent": "ask_cassava_1143",
+    "intent_prediction": {
+      "name": "ask_cassava_1210",
+      "confidence": 0.037730973213911057
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle what is the role of potassium in cassava growth, as e dey affect cassava?",
+    "intent": "ask_cassava_1154",
+    "intent_prediction": {
+      "name": "ask_cassava_1256",
+      "confidence": 0.044790688902139664
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle how can farmers identify cassava green mite, as e dey affect cassava?",
+    "intent": "ask_cassava_1160",
+    "intent_prediction": {
+      "name": "ask_cassava_1083",
+      "confidence": 0.042293448001146317
+    }
+  },
+  {
+    "text": "Intercropping fit help reduce cassava pest?",
+    "intent": "ask_cassava_1165",
+    "intent_prediction": {
+      "name": "ask_cassava_1089",
+      "confidence": 0.047240205109119415
+    }
+  },
+  {
+    "text": "Mulching de help cassava farming?",
+    "intent": "ask_cassava_1173",
+    "intent_prediction": {
+      "name": "ask_cassava_1246",
+      "confidence": 0.04215506836771965
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle does cassava require pruning, as e dey affect cassava?",
+    "intent": "ask_cassava_1184",
+    "intent_prediction": {
+      "name": "ask_cassava_1152",
+      "confidence": 0.04768652468919754
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle can cassava be used for animal feed, as e dey affect cassava?",
+    "intent": "ask_cassava_1202",
+    "intent_prediction": {
+      "name": "ask_cassava_1116",
+      "confidence": 0.04106511175632477
+    }
+  },
+  {
+    "text": "Please guide on: can cassava be grown on flat land?",
+    "intent": "ask_cassava_1205",
+    "intent_prediction": {
+      "name": "ask_cassava_1286",
+      "confidence": 0.04151380807161331
+    }
+  },
+  {
+    "text": "Weti dey make cassava stem rot after planting?",
+    "intent": "ask_cassava_1208",
+    "intent_prediction": {
+      "name": "ask_cassava_1142",
+      "confidence": 0.04004273563623428
+    }
+  },
+  {
+    "text": "How far, cassava fit survive flood?",
+    "intent": "ask_cassava_1214",
+    "intent_prediction": {
+      "name": "ask_cassava_1289",
+      "confidence": 0.04692831635475159
+    }
+  },
+  {
+    "text": "Cassava fit grow for clay soil?",
+    "intent": "ask_cassava_1232",
+    "intent_prediction": {
+      "name": "ask_cassava_1147",
+      "confidence": 0.03931357339024544
+    }
+  },
+  {
+    "text": "Please guide on: how often should a new cassava farm be weeded?",
+    "intent": "ask_cassava_1241",
+    "intent_prediction": {
+      "name": "ask_cassava_891",
+      "confidence": 0.0489959679543972
+    }
+  },
+  {
+    "text": "Shey cassava fit grow for northern nigeria?",
+    "intent": "ask_cassava_1247",
+    "intent_prediction": {
+      "name": "ask_cassava_1104",
+      "confidence": 0.046137191355228424
+    }
+  },
+  {
+    "text": "Why e be say cassava farm sometimes intercropped with vegetables?",
+    "intent": "ask_cassava_1248",
+    "intent_prediction": {
+      "name": "ask_cassava_1143",
+      "confidence": 0.039773497730493546
+    }
+  },
+  {
+    "text": "Can cassava be intercropped with cassava?",
+    "intent": "ask_cassava_1263",
+    "intent_prediction": {
+      "name": "ask_cassava_1183",
+      "confidence": 0.047318167984485626
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle what is the advantage of using improved cassava varieties, as e dey affect cassava?",
+    "intent": "ask_cassava_1264",
+    "intent_prediction": {
+      "name": "ask_cassava_1177",
+      "confidence": 0.04787354916334152
+    }
+  },
+  {
+    "text": "What is the reason behind proper land preparation important in cassava farming?",
+    "intent": "ask_cassava_882",
+    "intent_prediction": {
+      "name": "ask_cassava_883",
+      "confidence": 0.05101359635591507
+    }
+  },
+  {
+    "text": "How does mulching benefit cassava farming?",
+    "intent": "ask_cassava_897",
+    "intent_prediction": {
+      "name": "ask_cassava_1246",
+      "confidence": 0.044987428933382034
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle how do cassava mealybugs damage cassava plants, as e dey affect cassava?",
+    "intent": "ask_cassava_899",
+    "intent_prediction": {
+      "name": "ask_cassava_1159",
+      "confidence": 0.04785730689764023
+    }
+  },
+  {
+    "text": "How does farmer-to-farmer learning improve adoption?",
+    "intent": "ask_good_agricultural_methods_1007",
+    "intent_prediction": {
+      "name": "ask_plantain_583",
+      "confidence": 0.05466625839471817
+    }
+  },
+  {
+    "text": "Why e be say integrated pest management recommended for farmers?",
+    "intent": "ask_good_agricultural_methods_949",
+    "intent_prediction": {
+      "name": "ask_maize_20",
+      "confidence": 0.03188765048980713
+    }
+  },
+  {
+    "text": "Why should harvested crops be handled carefully?",
+    "intent": "ask_good_agricultural_methods_952",
+    "intent_prediction": {
+      "name": "ask_pineapple_871",
+      "confidence": 0.04463888704776764
+    }
+  },
+  {
+    "text": "How early planting dey reduce pest?",
+    "intent": "ask_good_agricultural_methods_997",
+    "intent_prediction": {
+      "name": "ask_cassava_1094",
+      "confidence": 0.052185364067554474
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle how does harvesting too early affect crop quality, as e dey affect good_agricultural_methods?",
+    "intent": "ask_good_agricultural_methods_999",
+    "intent_prediction": {
+      "name": "ask_pineapple_920",
+      "confidence": 0.04149000346660614
+    }
+  },
+  {
+    "text": "How does mulching reduce weed pressure in pepper farms?",
+    "intent": "ask_pepper_260",
+    "intent_prediction": {
+      "name": "ask_good_agricultural_methods_946",
+      "confidence": 0.051713310182094574
+    }
+  },
+  {
+    "text": "How bad drainage dey cause disease?",
+    "intent": "ask_pineapple_867",
+    "intent_prediction": {
+      "name": "ask_yam_1060",
+      "confidence": 0.04255299270153046
+    }
+  },
+  {
+    "text": "How mulching dey help?",
+    "intent": "ask_pineapple_869",
+    "intent_prediction": {
+      "name": "ask_good_agricultural_methods_946",
+      "confidence": 0.05396081134676933
+    }
+  },
+  {
+    "text": "Tell me how to why careful harvest important?",
+    "intent": "ask_pineapple_871",
+    "intent_prediction": {
+      "name": "ask_yam_124",
+      "confidence": 0.04104379564523697
+    }
+  },
+  {
+    "text": "Weti person fit do to why plantain need regular food?",
+    "intent": "ask_plantain_511",
+    "intent_prediction": {
+      "name": "ask_plantain_535",
+      "confidence": 0.0411735475063324
+    }
+  },
+  {
+    "text": "What is the reason behind mulching beneficial in plantain farms?",
+    "intent": "ask_plantain_537",
+    "intent_prediction": {
+      "name": "ask_good_agricultural_methods_946",
+      "confidence": 0.04051223397254944
+    }
+  },
+  {
+    "text": "How fertilizer split de help rice?",
+    "intent": "ask_rice_710",
+    "intent_prediction": {
+      "name": "ask_pepper_258",
+      "confidence": 0.03334625065326691
+    }
+  },
+  {
+    "text": "How does excess nitrogen increase lodging in rice?",
+    "intent": "ask_rice_760",
+    "intent_prediction": {
+      "name": "ask_beans_615",
+      "confidence": 0.05198945105075836
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle which pests commonly feed on vegetable leaves, as e dey affect vegetable?",
+    "intent": "ask_vegetable_317",
+    "intent_prediction": {
+      "name": "ask_vegetable_361",
+      "confidence": 0.03133642300963402
+    }
+  },
+  {
+    "text": "Why vegetable de spoil fast after harvest?",
+    "intent": "ask_vegetable_328",
+    "intent_prediction": {
+      "name": "ask_vegetable_337",
+      "confidence": 0.029725410044193268
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle why are some vegetables blanched before drying, as e dey affect vegetable?",
+    "intent": "ask_vegetable_330",
+    "intent_prediction": {
+      "name": "ask_vegetable_376",
+      "confidence": 0.024952702224254608
+    }
+  },
+  {
+    "text": "Which pests commonly attack vegetable seedlings?",
+    "intent": "ask_vegetable_359",
+    "intent_prediction": {
+      "name": "ask_vegetable_361",
+      "confidence": 0.05101608484983444
+    }
+  },
+  {
+    "text": "How does vegetable diversity improve household nutrition?",
+    "intent": "ask_vegetable_383",
+    "intent_prediction": {
+      "name": "ask_vegetable_344",
+      "confidence": 0.04986760392785072
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle how does mulching reduce weed growth in waterleaf plots, as e dey affect waterleaf?",
+    "intent": "ask_waterleaf_816",
+    "intent_prediction": {
+      "name": "ask_good_agricultural_methods_946",
+      "confidence": 0.04044725373387337
+    }
+  },
+  {
+    "text": "Abeg how farmer fit handle why should fertilizer be applied in small amounts to waterleaf, as e dey affect waterleaf?",
+    "intent": "ask_waterleaf_826",
+    "intent_prediction": {
+      "name": "ask_waterleaf_825",
+      "confidence": 0.030469723045825958
+    }
+  },
+  {
+    "text": "Why harvest yam carefully?",
+    "intent": "ask_yam_1064",
+    "intent_prediction": {
+      "name": "ask_yam_124",
+      "confidence": 0.04293254762887955
+    }
+  },
+  {
+    "text": "Tell me how to why record keeping important for yam farmer?",
+    "intent": "ask_yam_176",
+    "intent_prediction": {
+      "name": "ask_waterleaf_845",
+      "confidence": 0.03758305683732033
+    }
+  }
+]

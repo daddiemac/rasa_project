@@ -1,0 +1,5002 @@
+[
+  {
+    "query": "How overcrowding dey affect plantain stem?",
+    "reference_answer": "Stem go weak and fit fall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do communities support plantain farms?",
+    "reference_answer": "Plantain contributes to food security.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which planting material dem dey use for plantain?",
+    "reference_answer": "Healthy sucker from mother plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should empty pesticide containers not be reused?",
+    "reference_answer": "They can cause poisoning and environmental contamination.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How many times dem suppose weed new cassava farm?",
+    "reference_answer": "At least two times for the first three months.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mixed cropping reduce pest damage in vegetables?",
+    "reference_answer": "Mixed crops confuse pests and reduce spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is regular field scouting important for pest control?",
+    "reference_answer": "Regular scouting helps detect pests early before damage spreads.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why nitrogen lack dey show quick for plantain leaf?",
+    "reference_answer": "Nitrogen dey help leaf grow and green.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dem fit reduce nematode for yam?",
+    "reference_answer": "Use clean seed and rotate crop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does responsible farming support community health?",
+    "reference_answer": "It reduces chemical exposure and ensures safer food.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How vegetable farming dey empower rural women?",
+    "reference_answer": "E dey give food and income.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvest pepper with stalk?",
+    "reference_answer": "E dey prevent injury and last longer.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin dey make cassava leaf pale?",
+    "reference_answer": "Na lack of nutrient like nitrogen or magnesium dey cause am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why fallow important for yam?",
+    "reference_answer": "Soil go rest and pest go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which weed dey disturb yam early?",
+    "reference_answer": "Grass and leaf weed dey compete with young yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad storage dey cause insect problem?",
+    "reference_answer": "Heat and moisture dey help insect.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why yam important for Nigeria food?",
+    "reference_answer": "E dey support food and rural people.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does stress induce flowering in pineapple plants?",
+    "reference_answer": "Stress triggers hormonal changes that initiate flowering.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What climate conditions favor waterleaf cultivation?",
+    "reference_answer": "Warm temperatures and high humidity favor waterleaf growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Shade dey affect cassava growth?",
+    "reference_answer": "Cassava need full sun; shade go slow photosynthesis and root go small.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does overcrowding affect plantain stem strength?",
+    "reference_answer": "Overcrowding produces weak stems prone to lodging.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should yam storage structures be protected from rain?",
+    "reference_answer": "Rain increases moisture and accelerates spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How organic matter dey help yam?",
+    "reference_answer": "E dey improve soil and nutrient.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How spacing fit affect maize cob and yield?",
+    "reference_answer": "Correct spacing dey reduce competition and help maize form better cob.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early weeding important for maize?",
+    "reference_answer": "Weed dey compete with maize for food, water and light, especially early stage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should only healthy yam setts be used for planting?",
+    "reference_answer": "Healthy setts reduce disease spread and ensure strong sprouting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mulching influence pest pressure in yam fields?",
+    "reference_answer": "Mulching can reduce pest movement but may harbor insects if poorly managed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why no good store damaged yam with good ones?",
+    "reference_answer": "Rot fit spread to the good yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How rotation dey reduce pepper disease?",
+    "reference_answer": "Disease no go see pepper every year.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the importance of using clean planting materials?",
+    "reference_answer": "Clean stems reduce disease spread and promote healthy growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should pepper fruits be sorted after harvest?",
+    "reference_answer": "Sorting removes damaged fruits that cause spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana go still important for Nigeria?",
+    "reference_answer": "E dey give food and money.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava require manure?",
+    "reference_answer": "Manure improves soil fertility and enhances root development.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do overcrowded cassava fields attract more pests?",
+    "reference_answer": "Poor aeration and shading create a favorable environment for pest multiplication.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why shallow weeding better for yam?",
+    "reference_answer": "Deep weeding fit injure tuber.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why fertilizer suppose follow crop need?",
+    "reference_answer": "E dey prevent waste and improve yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why proper drying important before grinding pepper?",
+    "reference_answer": "If no dry well, e go clump and spoil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How cooperative dey help pineapple farmers?",
+    "reference_answer": "Dem dey share knowledge and support.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does improper processing reduce beans nutritional value?",
+    "reference_answer": "Overcooking destroys heat-sensitive nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why pepper need regular but not too much water?",
+    "reference_answer": "Pepper no like dry or too much water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should chemicals not be applied near rice waterways?",
+    "reference_answer": "They contaminate water and aquatic life.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How many sun cassava need to take grow well?",
+    "reference_answer": "Cassava need full sun, about 6–8 hours every day to take form good root.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava stick bud suppose face up?",
+    "reference_answer": "Yes, make bud face up so e go sprout well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why protect vegetable farm from flood?",
+    "reference_answer": "Flood fit destroy root and spread disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does waterlogged soil reduce plantain performance?",
+    "reference_answer": "Waterlogging reduces root oxygen and increases rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why reduce water depth when rice dey tiller?",
+    "reference_answer": "Shallow water dey help branching.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How youth fit innovate for banana processing?",
+    "reference_answer": "Dem fit process am to different product.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What causes cassava leaves to turn pale?",
+    "reference_answer": "Nutrient deficiencies such as nitrogen or magnesium deficiency cause pale leaves.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does close spacing affect pineapple disease incidence?",
+    "reference_answer": "Close spacing increases humidity and disease spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does nutrient imbalance affect pepper fruit shape?",
+    "reference_answer": "Deficiencies cause misshapen or undersized fruits.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why manage resource well important?",
+    "reference_answer": "So future people go still use am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does excessive nitrogen fertilizer increase aphid infestation in beans?",
+    "reference_answer": "High nitrogen makes plants more attractive to aphids.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers know when maize is ready for harvest?",
+    "reference_answer": "Maize is ready when cobs are firm, husks dry, and grains are hard and shiny.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin fit happen if farmer plant maize late?",
+    "reference_answer": "Late planting fit cause maize suffer dry stress, pest plenty and grain no go fill well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How long storage dey affect rice aroma?",
+    "reference_answer": "Aroma go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is sorting damaged maize grains before storage important?",
+    "reference_answer": "Damaged grains attract pests and spread mold to healthy grains.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do aphids damage vegetable crops?",
+    "reference_answer": "They suck sap and transmit viral diseases.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest commonly attacks plantain roots?",
+    "reference_answer": "Nematodes commonly attack plantain roots.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do cassava roots become woody?",
+    "reference_answer": "Late harvesting causes lignification, making roots fibrous.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which soil good for waterleaf?",
+    "reference_answer": "Soft and fertile soil wey water fit pass through well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does delayed weeding affect rice nutrient uptake?",
+    "reference_answer": "Weeds outcompete rice for nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does excessive nitrogen affect leafy vegetables?",
+    "reference_answer": "It promotes soft growth and increases pest attacks.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How water stress for pod filling dey reduce yield?",
+    "reference_answer": "Seed no go develop well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why IPM good for farmer?",
+    "reference_answer": "E dey control pest without harming environment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers recognize nitrogen deficiency in maize fields?",
+    "reference_answer": "Nitrogen deficiency causes older maize leaves to turn pale green or yellow, starting from the tip and moving down the midrib.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is planting beans at the onset of rains recommended?",
+    "reference_answer": "Early rain supports uniform germination.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is proper spacing important in plantain farms?",
+    "reference_answer": "Proper spacing reduces competition and improves bunch size.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers improve cassava sprouting rate?",
+    "reference_answer": "Use fresh stems, avoid damaged buds, and plant at correct depth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does nutrient imbalance affect banana bunch size?",
+    "reference_answer": "Imbalance leads to smaller and uneven bunches.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does excessive rainfall reduce pepper productivity?",
+    "reference_answer": "Too much rain increases disease and flower drop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why some cassava dey fall when wind strong?",
+    "reference_answer": "If stem weak or root shallow, wind fit push cassava down.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How close spacing dey affect disease?",
+    "reference_answer": "E dey increase moisture and spread disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should banana be harvested before full ripeness?",
+    "reference_answer": "Early harvest reduces spoilage during handling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early weed control important in maize farms?",
+    "reference_answer": "Weeds compete with maize for nutrients, water, and sunlight, especially in the first six weeks after planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why e important to handle cassava stem with care?",
+    "reference_answer": "If you rough handle am, e go damage the buds wey suppose sprout.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should rice be dried immediately after threshing?",
+    "reference_answer": "Immediate drying prevents mold growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit survive dry season?",
+    "reference_answer": "Cassava dey manage dry period but if e too long, e go reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why small nutrients still important for maize?",
+    "reference_answer": "Dem dey help body process for maize work well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How too much heat dey affect yam leaf work?",
+    "reference_answer": "Leaf no go work well again.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does overcrowding increase disease risk in banana farms?",
+    "reference_answer": "Crowding traps moisture that favors disease development.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey attack beans for storage?",
+    "reference_answer": "Bruchid beetle.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How yam festival dey help culture and farming?",
+    "reference_answer": "E dey celebrate harvest and share knowledge.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does excessive rainfall reduce vegetable yield?",
+    "reference_answer": "Too much rain increases disease and nutrient loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mulching help control weeds in pineapple production?",
+    "reference_answer": "Mulching suppresses weeds and conserves soil moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does drip irrigation benefit vegetable farmers?",
+    "reference_answer": "It saves water and improves efficiency.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does delayed harvesting affect yam shelf life?",
+    "reference_answer": "Over-mature tubers are more prone to pest and rot damage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why rice dey give energy?",
+    "reference_answer": "E get carbohydrate.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why process plantain quick after harvest?",
+    "reference_answer": "To reduce loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Should cassava cuttings be planted with buds facing up?",
+    "reference_answer": "Yes, buds should face upward for proper sprouting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What disease causes leaf yellowing in plantain?",
+    "reference_answer": "Leaf spot diseases cause yellowing and drying.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How often should cassava be weeded after the first weed control?",
+    "reference_answer": "Weeding should be done at least two to three times within the first three months.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin happen if cassava harvest late?",
+    "reference_answer": "Root go strong and no sweet again.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans leaf dey yellow when phosphorus low?",
+    "reference_answer": "Plant no get enough energy.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How hot temperature dey affect flowering?",
+    "reference_answer": "Flower no go form grain.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why vegetable farming good for youth?",
+    "reference_answer": "Land small and harvest fast.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should yam farmers seek extension advice?",
+    "reference_answer": "Extension advice improves farming practices and yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is cassava considered a resilient crop?",
+    "reference_answer": "It can tolerate poor soils, drought, and irregular rainfall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does seed quality influence maize stand establishment?",
+    "reference_answer": "High-quality seeds germinate uniformly and produce strong, healthy seedlings.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mechanization encourage youth participation in rice farming?",
+    "reference_answer": "Machines reduce manual labor stress.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late harvest dey affect plantain?",
+    "reference_answer": "E go ripe quick and spoil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is shallow weeding preferred in yam cultivation?",
+    "reference_answer": "Deep weeding can damage shallow tubers and roots.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is residue composting encouraged in plantain farms?",
+    "reference_answer": "Composting returns nutrients to the soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How stress dey affect banana texture?",
+    "reference_answer": "Fruit no go full well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does nutrient imbalance affect vegetable texture?",
+    "reference_answer": "Imbalance causes tough or watery tissues.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why record yield important for rice?",
+    "reference_answer": "To check performance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How wrong chemical use dey affect people?",
+    "reference_answer": "Chemical fit harm health.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does excessive irrigation increase plantain disease risk?",
+    "reference_answer": "Too much water encourages fungal infections.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How record dey help pest monitoring?",
+    "reference_answer": "E dey show pest time and place.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which kind soil maize dey like pass for southern Nigeria?",
+    "reference_answer": "Maize dey grow well for deep, loose soil wey water fit pass well, get small organic matter and no too acidic.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pests dey attack cassava for Nigeria?",
+    "reference_answer": "Na cassava mealybug, green mite, and whiteflies dey worry cassava pass.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does uneven vegetable size reduce market quality?",
+    "reference_answer": "Consumers prefer uniform appearance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does excessive squeezing affect waterleaf nutrient value?",
+    "reference_answer": "It removes water-soluble vitamins and reduces nutritional quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is periodic inspection important in yam storage barns?",
+    "reference_answer": "Inspection helps detect rot early and prevent spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why rotation hard for banana pest control?",
+    "reference_answer": "Banana dey stay long for one place.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why high moisture dey spread disease?",
+    "reference_answer": "Moisture dey help disease grow fast.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What type of crop is pineapple?",
+    "reference_answer": "Pineapple is a perennial tropical fruit crop grown for its edible fruit.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How data dey help vegetable farm decision?",
+    "reference_answer": "E dey help plan better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do raised heaps help yam survive heavy rainfall?",
+    "reference_answer": "Raised heaps improve drainage and prevent tubers from sitting in water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does responsible chemical use protect rice consumers?",
+    "reference_answer": "It reduces harmful residues in grains.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does late weeding affect cassava yield?",
+    "reference_answer": "Late weeding allows weeds to compete for nutrients, reducing cassava yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be grown organically?",
+    "reference_answer": "Yes, using compost, green manure, and organic pest control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How water splash dey spread vegetable disease?",
+    "reference_answer": "Water dey carry disease go other plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How labor shortage dey affect beans farming?",
+    "reference_answer": "Work go delay and yield go drop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How women participation dey improve quality?",
+    "reference_answer": "Sorting and storage go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does storage hygiene influence beans shelf life?",
+    "reference_answer": "Clean stores reduce pest infestation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do snails damage waterleaf plants?",
+    "reference_answer": "Snails eat the leaves, reducing yield and quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does climate variability affect maize planting decisions in Nigeria?",
+    "reference_answer": "Unpredictable rainfall influences planting dates, variety choice, and crop survival.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why no spray chemical near water?",
+    "reference_answer": "E fit pollute water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should plantain processors document processing steps?",
+    "reference_answer": "Documentation ensures consistent quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How youth fit add value to plantain?",
+    "reference_answer": "Dem fit process am to many products.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How water stress for flowering dey affect beans?",
+    "reference_answer": "Flower go fall and pod go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How person fit avoid waterlogging for cassava farm?",
+    "reference_answer": "Use ridge, drainage or plant for small slope.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why pepper important for household food?",
+    "reference_answer": "E dey available most time for food.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is vegetable farming important for sustainable agriculture?",
+    "reference_answer": "It supports nutrition, income, and food availability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is aeration important in rice storage facilities?",
+    "reference_answer": "It controls temperature and moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is proper management essential in vegetable production?",
+    "reference_answer": "It ensures high yield, quality, and sustainability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why nematode dey worry yam?",
+    "reference_answer": "Dem dey cause crack for yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should weeds be controlled early in waterleaf farming?",
+    "reference_answer": "Weeds compete for nutrients and reduce leaf yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil pH affect crop growth?",
+    "reference_answer": "Soil pH influences nutrient availability and root development.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does nitrogen deficiency show quickly in plantain leaves?",
+    "reference_answer": "Nitrogen is essential for leaf growth and greenness.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava survive flooding?",
+    "reference_answer": "Cassava cannot tolerate long-term flooding; roots will rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What symptoms indicate fungal infection on yam vines?",
+    "reference_answer": "Symptoms include leaf spots, yellowing, and premature vine drying.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does stress during growth affect vegetable quality?",
+    "reference_answer": "Stress causes poor texture and appearance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why return crop waste to soil?",
+    "reference_answer": "E dey enrich soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does prolonged drought affect yam tuber initiation?",
+    "reference_answer": "Drought during early growth delays tuber initiation and reduces final yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should harvested plantain be handled carefully?",
+    "reference_answer": "Careful handling reduces bruising and spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why e important to use cassava stem wey no get disease?",
+    "reference_answer": "E stop disease from spread and e make cassava yield better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is cassava a good food security crop in Nigeria?",
+    "reference_answer": "It grows in poor soils, stores underground, and has multiple uses.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why nitrogen important for maize?",
+    "reference_answer": "Nitrogen dey help maize leaf grow well, make leaf green and strong.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does leaf miner infestation affect vegetable photosynthesis?",
+    "reference_answer": "Mined leaves lose surface area for photosynthesis.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How temperature dey affect yam storage?",
+    "reference_answer": "Too much heat go spoil yam fast.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does responsible farming protect beans consumers?",
+    "reference_answer": "It ensures food safety and quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How government program fit help maize farmer?",
+    "reference_answer": "Dem dey teach farmer and give support.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How poor seed quality dey affect yield?",
+    "reference_answer": "Stand no go even and loss go happen.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which insect pest commonly attacks yam tubers in the soil?",
+    "reference_answer": "Yam beetles bore into tubers and cause holes and rotting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should damaged yam tubers not be stored with healthy ones?",
+    "reference_answer": "Damaged tubers spread rot to healthy yams during storage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When yam ready for harvest?",
+    "reference_answer": "When leaf yellow and vine dry.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does early pest scouting reduce plantain losses?",
+    "reference_answer": "Early detection allows timely control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil fertility affect cassava leaf formation?",
+    "reference_answer": "Poor soil fertility reduces leaf size and number.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does late harvesting affect plantain shelf life?",
+    "reference_answer": "Late harvest shortens shelf life due to quick ripening.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does farmer training reduce banana disease losses?",
+    "reference_answer": "Training improves early detection and control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit reduce maize weevil without chemical?",
+    "reference_answer": "Dry grain well, use airtight storage and clean store.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does delayed harvesting affect vegetable taste?",
+    "reference_answer": "Delayed harvest causes bitterness and toughness.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dry season dey affect waterleaf?",
+    "reference_answer": "E go slow unless dem water am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How termite dey affect yam?",
+    "reference_answer": "Dem dey chop yam sett and stop sprouting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dirty farm dey increase vegetable disease?",
+    "reference_answer": "Disease dey hide for old plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does overwatering affect crops?",
+    "reference_answer": "Overwatering causes root rot and nutrient leaching.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does mulching benefit cassava production?",
+    "reference_answer": "Yes. Mulching conserves soil moisture and reduces weed growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does cassava respond to poor drainage?",
+    "reference_answer": "Roots become small and rot due to lack of aeration.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvest leafy vegetable early morning?",
+    "reference_answer": "To reduce drying and water loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why handle banana gently after harvest?",
+    "reference_answer": "To avoid bruise and spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are beans suitable for climate-smart agriculture?",
+    "reference_answer": "They mature quickly and enrich soil nitrogen.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is consistent water supply important for plantain?",
+    "reference_answer": "Water supports leaf growth and fruit filling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How weevil damage dey affect nutrient uptake?",
+    "reference_answer": "Root no go absorb food well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does overcrowding increase disease spread in vegetables?",
+    "reference_answer": "Crowded plants trap moisture, encouraging pathogens.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How overcooking dey reduce vegetable nutrients?",
+    "reference_answer": "Heat dey destroy vitamin.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How training dey help yam farmer?",
+    "reference_answer": "E dey teach better method.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvest banana before fully ripe?",
+    "reference_answer": "To reduce spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pests suck sap from vegetable plants?",
+    "reference_answer": "Aphids and whiteflies suck plant sap.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why pineapple no dey like too much water?",
+    "reference_answer": "Root go rot and plant fit die.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is continuous training important for maize farmers?",
+    "reference_answer": "Training updates farmers on new technologies and best practices.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farming method suppose change?",
+    "reference_answer": "Climate and soil dey change.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why women dey important for plantain processing?",
+    "reference_answer": "E fit house-based work.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers improve moisture retention in cassava fields?",
+    "reference_answer": "They can use mulching, cover crops, and organic matter to keep soil moist.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is maize farming attractive to young farmers?",
+    "reference_answer": "Maize has a short growth cycle, multiple uses, and wide adaptability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can waterleaf freshness be maintained after harvest?",
+    "reference_answer": "Keeping leaves cool and moist slows spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why e good to uproot cassava wey get disease?",
+    "reference_answer": "If dem comot am, disease no go spread to others.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is proper land preparation important in cassava farming?",
+    "reference_answer": "It improves soil structure, ensures deeper root penetration, and reduces weeds before planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Intercropping fit help reduce cassava pest?",
+    "reference_answer": "E fit help because crop mix dey break pest life circle.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Should cassava stems be planted horizontally, vertically, or slanted?",
+    "reference_answer": "They grow best when planted slanted or vertically, depending on soil moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How cassava dey react to bad drainage?",
+    "reference_answer": "Root go small and fit rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do farmers identify cassava green mite?",
+    "reference_answer": "Leaves show yellow patches and fine webbing on the underside.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does prolonged drought affect banana production?",
+    "reference_answer": "Drought reduces fruit size and delays flowering.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why maize residue important for sustainability?",
+    "reference_answer": "E dey protect soil and add organic matter.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers reduce labor costs during cassava weeding?",
+    "reference_answer": "Using herbicides early reduces the need for manual weeding.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does continuous pepper cultivation affect soil health?",
+    "reference_answer": "It depletes nutrients and increases disease buildup.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does improper drying affect rice milling quality?",
+    "reference_answer": "It increases grain breakage during milling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What type of fertilizer is best for cassava?",
+    "reference_answer": "Balanced fertilizers like NPK 15-15-15 or organic manure work well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why crop rotation dey help reduce yam pest?",
+    "reference_answer": "Pest no go see food again.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do extension services promote improved rice practices?",
+    "reference_answer": "They increase yield and reduce losses.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How uncontrolled flood dey reduce rice yield?",
+    "reference_answer": "Root no go get oxygen.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mulching reduce weed pressure in pepper farms?",
+    "reference_answer": "Mulch blocks sunlight and suppresses weed germination.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does climate change threaten banana production?",
+    "reference_answer": "It increases stress from heat and irregular rainfall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why some cassava variety dey mature quick pass others?",
+    "reference_answer": "Na because of genetics. Some dey ready in 8 months, some need 12 months.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is field hygiene important for reducing carryover of maize pests?",
+    "reference_answer": "Clean fields remove pest shelters and reduce survival between seasons.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should herbicide use be carefully managed in pineapple farms?",
+    "reference_answer": "Improper use damages crops and contaminates soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How nematode attack dey reduce banana yield?",
+    "reference_answer": "Root no go collect water and food.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How planting beans every year dey affect soil?",
+    "reference_answer": "Disease and nutrient problem go increase.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is plantain considered an energy food?",
+    "reference_answer": "Plantain is rich in carbohydrates.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should beans farmers keep production records?",
+    "reference_answer": "Records help evaluate farm performance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early weeding important in pepper farms?",
+    "reference_answer": "Early weeding prevents weeds from competing with young plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the role of potassium in cassava growth?",
+    "reference_answer": "Potassium improves root development and starch content.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does wastewater irrigation affect waterleaf safety?",
+    "reference_answer": "It increases contamination risk and foodborne illness.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does weed seed bank buildup affect future maize crops?",
+    "reference_answer": "A large weed seed bank increases weed pressure in subsequent seasons, raising control costs.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Person fit plant cassava for flat land?",
+    "reference_answer": "Yes, but ridge or mound go make root yield better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does magnesium deficiency affect banana leaves?",
+    "reference_answer": "Leaves show yellowing between veins.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should cassava be harvested on time?",
+    "reference_answer": "Timely harvest maintains quality and prevents theft or pest damage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why encourage youth to farm pepper?",
+    "reference_answer": "E dey give skill and food.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How plantain dey help digestion?",
+    "reference_answer": "Fiber dey help digestion.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why pepper important for Nigerian food?",
+    "reference_answer": "E get vitamin and dey improve appetite.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the difference between dessert bananas and cooking bananas?",
+    "reference_answer": "Dessert bananas are eaten raw, while cooking bananas are cooked before eating.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are women important in beans seed selection?",
+    "reference_answer": "Women often manage household seed storage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early weeding important in yam farms?",
+    "reference_answer": "Early weeding prevents weeds from competing for nutrients and space.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are vegetables recommended for diabetic diets?",
+    "reference_answer": "They are low in sugar and high in fiber.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How drip irrigation dey help pepper watering?",
+    "reference_answer": "Water dey go straight to root.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How climate-smart practice dey secure vegetable?",
+    "reference_answer": "E dey reduce climate problem.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why vegetable important for Nigerian food security?",
+    "reference_answer": "Dem dey give fast and cheap nutrition.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why handpicking dey work for pest control?",
+    "reference_answer": "Because farm small and pest easy to see.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late weeding dey affect cassava yield?",
+    "reference_answer": "If farmer delay weeding, weed go chop nutrient and cassava yield go drop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How many varieties should farmers plant to reduce risk?",
+    "reference_answer": "At least two different improved varieties.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why leaf wetness dey affect plantain disease?",
+    "reference_answer": "Water dey help fungus grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does frequent harvesting help suppress weeds in waterleaf plots?",
+    "reference_answer": "Dense regrowth shades the soil and limits weed emergence.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why good seed important for vegetable farming?",
+    "reference_answer": "Good seed dey make plant grow well and equal.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How rat dey damage yam?",
+    "reference_answer": "Dem dey dig soil chop yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does delayed harvesting increase storage losses in beans?",
+    "reference_answer": "Over-dry pods crack and invite pests.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does uneven land affect rice nutrient efficiency?",
+    "reference_answer": "Some areas receive excess or insufficient nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers reduce erosion in cassava farms?",
+    "reference_answer": "Building ridges across slopes reduces runoff and soil loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How maize dey work with mixed farming?",
+    "reference_answer": "E dey give food, feed and residue for animal.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why thresh rice quick after harvest?",
+    "reference_answer": "E go reduce spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer dey use heap or ridge plant yam?",
+    "reference_answer": "Heap and ridge dey help water pass, give air and space for yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How better irrigation fit change rice production?",
+    "reference_answer": "Rice fit grow all year.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why hermetic storage good for maize?",
+    "reference_answer": "E dey block air, kill insect and keep grain well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does lack of skilled labor affect banana yield?",
+    "reference_answer": "Poor practices lead to losses and low productivity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How slice thickness dey affect drying?",
+    "reference_answer": "Uneven slice no go dry well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is balanced management key to successful pepper production?",
+    "reference_answer": "Balanced practices ensure healthy growth and stable yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early pest checking important for vegetable?",
+    "reference_answer": "Make pest no destroy farm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin be best way to harvest cassava?",
+    "reference_answer": "You go loosen soil and pull am out with hand or small tool.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is yam considered a strategic food crop in Nigeria?",
+    "reference_answer": "It contributes significantly to food security and rural livelihoods.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How stem borer dey reduce grain filling?",
+    "reference_answer": "Nutrient no go reach grain.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin fit happen if maize too plenty for one area?",
+    "reference_answer": "If maize crowd, stem go weak, air no go move well and cob go small.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How raised bed dey help vegetable farm?",
+    "reference_answer": "Water go drain well and root go grow better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana need water often?",
+    "reference_answer": "Root shallow and water need plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does dry weather increase sucking pest population?",
+    "reference_answer": "Dry conditions favor rapid pest reproduction.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How soil pH dey affect beans nutrient?",
+    "reference_answer": "Bad pH go block nutrient uptake.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is uniform grain color important for beans quality assessment?",
+    "reference_answer": "Uniform color indicates good maturity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor field drainage increase rice disease incidence?",
+    "reference_answer": "Excess moisture favors pathogen growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer field school dey work well?",
+    "reference_answer": "Farmer dey learn by doing and sharing.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit reduce grasshopper attack?",
+    "reference_answer": "Dem fit pack am early morning or use neem spray.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is harvesting during dry weather recommended for yam?",
+    "reference_answer": "Dry conditions reduce soil adhesion and lower rot risk.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How pest resistance dey happen for vegetable farm?",
+    "reference_answer": "When same chemical dey used always.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is night monitoring useful for controlling fruit borers?",
+    "reference_answer": "Adult moths are active at night and easier to detect.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why e important to control weed for cassava farm?",
+    "reference_answer": "Weed dey drag nutrient, sun, and water with cassava, e fit reduce yield well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does infected planting material spread plantain diseases?",
+    "reference_answer": "Diseases move from suckers to new fields.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What disease causes heart rot in pineapple?",
+    "reference_answer": "Fungal infection commonly causes heart rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be grown on flat land?",
+    "reference_answer": "Yes, but ridging or mounding is recommended for better root yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why person suppose remove sick cassava plant?",
+    "reference_answer": "E stop disease from spreading for the farm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do pests and diseases increase production risk in maize farming?",
+    "reference_answer": "They reduce yield and increase uncertainty if not managed early.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why rice no like dry condition?",
+    "reference_answer": "E need steady water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin dey cause cassava stem to rot before planting?",
+    "reference_answer": "If stem dey wet or fungus attack am, e go rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How seed selection dey affect uniform crop?",
+    "reference_answer": "Better seed dey grow same way.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How nutrient imbalance dey affect plantain bunch?",
+    "reference_answer": "Finger go reduce and small.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why women dey dominate plantain processing?",
+    "reference_answer": "E align with house business.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be intercropped with cassava?",
+    "reference_answer": "No. Planting cassava too close together increases competition and reduces yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why person no suppose plant cassava too deep?",
+    "reference_answer": "If e deep too much, e go slow sprout and reduce root.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should weeds be controlled in young plantain farms?",
+    "reference_answer": "Weeds compete for nutrients and water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why monitoring maize important during season?",
+    "reference_answer": "E dey help farmer see problem early.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer involvement dey help maize innovation?",
+    "reference_answer": "Farmer go trust am and use am well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How organic matter recycling dey help soil?",
+    "reference_answer": "Nutrient go return to soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which fertilizer fit cassava pass?",
+    "reference_answer": "NPK 15-15-15 or organic manure dey work well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should damaged tubers not be left in the field after harvest?",
+    "reference_answer": "They attract pests and increase infestation in future seasons.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin be the best age of cassava stem to cut for planting?",
+    "reference_answer": "Stem wey don reach 8–12 months dey sprout well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava tolerate drought?",
+    "reference_answer": "Yes, cassava is drought-tolerant but early growth stages need moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why vegetable farmer suppose protect water source?",
+    "reference_answer": "Chemical fit enter drinking water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How too much mulch fit cause problem for plantain?",
+    "reference_answer": "Pest and rot fit hide inside.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How backyard waterleaf farming dey help nutrition?",
+    "reference_answer": "Family fit get fresh vegetable anytime.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How rough harvest dey affect plantain?",
+    "reference_answer": "E dey bruise and spoil quick.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit make cassava root big?",
+    "reference_answer": "Good spacing, timely weeding and soil nutrient dey help root big.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is banana farming attractive to smallholder farmers?",
+    "reference_answer": "Banana provides continuous harvest over time.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is mulching beneficial in pepper production?",
+    "reference_answer": "Mulching conserves moisture and suppresses weeds.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why no need plenty weeding when yam cover ground?",
+    "reference_answer": "Leaf don cover ground, weed no go grow well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why IPM better for maize pest control?",
+    "reference_answer": "IPM dey join many method together make pest control last and no spoil farm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why plantain important for southern Nigeria?",
+    "reference_answer": "Plantain dey give food, money, and better nutrition.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does long-term record keeping improve beans productivity?",
+    "reference_answer": "Trends guide better management decisions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should cassava stems be cut with a sharp knife?",
+    "reference_answer": "Sharp knives reduce stem bruising and improve sprouting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How magnesium lack dey affect banana leaf?",
+    "reference_answer": "Leaf go yellow between vein.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do farmers choose early-maturing bean varieties?",
+    "reference_answer": "They escape drought and reduce risk of crop failure.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava grow in alkaline soil?",
+    "reference_answer": "Cassava prefers slightly acidic soil and may perform poorly in alkaline soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why vegetable important for food security?",
+    "reference_answer": "Dem grow fast and feed people.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How poor drainage dey increase rice disease?",
+    "reference_answer": "Too much water dey help disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How windbreak dey help banana farm?",
+    "reference_answer": "E dey reduce wind strength.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest commonly damages maize stems and causes plant lodging?",
+    "reference_answer": "Maize stem borers tunnel into stems, weakening plants and causing them to fall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should spraying equipment be cleaned after use?",
+    "reference_answer": "Cleaning prevents chemical residue buildup and corrosion.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What rainfall pattern is ideal for yam cultivation?",
+    "reference_answer": "Yam performs best with moderate, well-distributed rainfall during the growing season.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which tool dem dey use harvest yam?",
+    "reference_answer": "Hoe and cutlass.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why ventilation important during transport?",
+    "reference_answer": "Heat no go gather and fruit no go spoil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why careful harvesting important for yam?",
+    "reference_answer": "If yam wound, e no go store well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is monitoring crop performance important during the maize season?",
+    "reference_answer": "Monitoring helps detect problems early and guides corrective actions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why teach pepper farming for agri school?",
+    "reference_answer": "Students go learn vegetable farming.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How caterpillar dey affect waterleaf harvest?",
+    "reference_answer": "Dem dey chop leaf reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which part whitefly dey attack for cassava?",
+    "reference_answer": "Dem dey stay for under leaf and dem fit carry disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should weeding be reduced once yam canopy closes?",
+    "reference_answer": "Closed canopy suppresses weeds naturally and reduces soil disturbance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why yam farmer suppose ask extension officer?",
+    "reference_answer": "Dem dey teach better farming.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does polishing reduce rice micronutrient content?",
+    "reference_answer": "Polishing removes vitamin-rich outer layers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How diversification dey reduce vegetable risk?",
+    "reference_answer": "If one fail, others go survive.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What part of cassava do whiteflies damage?",
+    "reference_answer": "Whiteflies attack the underside of cassava leaves and transmit viral diseases.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why timely labor important for beans harvest?",
+    "reference_answer": "Delay go cause loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is continuous training important for farmers?",
+    "reference_answer": "Training helps farmers adopt improved and safer practices.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava dey grow well for shade?",
+    "reference_answer": "No. Cassava need full sunlight to yield well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey transplant rice shallow?",
+    "reference_answer": "E help rice branch quick.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is waterlogging harmful to yam farms?",
+    "reference_answer": "Waterlogging causes root suffocation and increases tuber rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem suppose eat pineapple with care?",
+    "reference_answer": "Too much fit irritate mouth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What disease causes wilting in pepper plants despite adequate water?",
+    "reference_answer": "Bacterial wilt causes sudden wilting even when soil is moist.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which natural enemy dey help control maize pest?",
+    "reference_answer": "Some wasp, bird and other insect dey help chop maize pest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad drainage dey cause disease?",
+    "reference_answer": "Too much water dey help disease grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does water stress at pod filling stage reduce beans yield?",
+    "reference_answer": "Stress limits seed development inside pods.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers learn from demonstration farms?",
+    "reference_answer": "Demonstration farms show practical use of improved practices.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is handpicking effective for pest control in waterleaf farms?",
+    "reference_answer": "Waterleaf farms are small-scale, making manual removal practical.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin dey cause leaf yellow for waterleaf?",
+    "reference_answer": "Bad drainage or lack of nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit know say maize get nitrogen problem?",
+    "reference_answer": "Old maize leaf go start turn yellow from tip go down if nitrogen no enough.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why handle pepper gently after harvest?",
+    "reference_answer": "Make fruit no bruise and spoil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why uniform banana size important?",
+    "reference_answer": "Handling go easy.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer-to-farmer learning dey help maize?",
+    "reference_answer": "Farmer dey learn real solution from others.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can climate-smart practices secure vegetable production?",
+    "reference_answer": "They reduce climate risks and improve resilience.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be grown for leaf production?",
+    "reference_answer": "Yes, some varieties produce edible leaves for soups.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor handling during transport affect yam quality?",
+    "reference_answer": "Bruising and cuts reduce storage life and increase rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which NPK ratio is good for cassava farming?",
+    "reference_answer": "NPK 15-15-15 or 12-12-17 is commonly recommended.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be used for livestock feed?",
+    "reference_answer": "Yes. Cassava roots and peels can be processed into animal feed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey damage beans pod?",
+    "reference_answer": "Pod borer.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor waste disposal affect banana farm health?",
+    "reference_answer": "Waste attracts pests and spreads disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad management dey reduce banana gain?",
+    "reference_answer": "Loss go plenty and yield go drop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does delayed flowering affect banana harvest time?",
+    "reference_answer": "It postpones fruit maturity and harvest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should banana farmers attend training programs?",
+    "reference_answer": "Training improves yield and disease control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does banana consumption help muscle function?",
+    "reference_answer": "Potassium supports muscle contraction.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does access to training empower women plantain processors?",
+    "reference_answer": "Training improves efficiency and product quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How water stress dey affect leaf growth?",
+    "reference_answer": "Leaf no go expand well and plant go weak.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does cassava sometimes produce very small roots?",
+    "reference_answer": "Poor soil fertility, late planting, or heavy shade can cause small roots.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should cassava not be left too long after maturity?",
+    "reference_answer": "Over-mature cassava becomes fibrous and loses quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey use sucker plant banana?",
+    "reference_answer": "Sucker dey grow fast and equal.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why grass weed hard to control for rice?",
+    "reference_answer": "Dem resemble rice.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What land preparation method is recommended for cassava?",
+    "reference_answer": "Ridges or mounds are recommended, especially in heavy soils, to improve drainage and root formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why crop rotation good for beans?",
+    "reference_answer": "E dey reduce pest and disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana good as energy food?",
+    "reference_answer": "E get sugar and carbohydrate.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early weed control important in newly planted banana fields?",
+    "reference_answer": "Early weed control reduces competition for nutrients and water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is responsible pesticide use important in pepper farming?",
+    "reference_answer": "It protects consumers, farmers, and the environment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana farmer no suppose overuse chemical?",
+    "reference_answer": "E fit harm health and environment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is plantain vulnerable to strong winds?",
+    "reference_answer": "Tall plants with shallow roots are unstable.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which climate plantain dey like?",
+    "reference_answer": "Warm weather and steady rain.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why balanced fertilizer better pass too much fertilizer?",
+    "reference_answer": "Too much fit spoil tuber formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should vegetable land be well cleared before planting?",
+    "reference_answer": "Clearing removes weeds and pest hiding places.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why long cloudy weather dey delay pineapple maturity?",
+    "reference_answer": "Sun no dey enough, so plant no dey make food well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are short-duration maize varieties useful under changing climate conditions?",
+    "reference_answer": "Short-duration varieties mature quickly and reduce exposure to drought or flooding.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why soil test important before fertilizer for maize?",
+    "reference_answer": "Soil test dey show wetin soil need make fertilizer no waste.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does collective action improve beans pest management?",
+    "reference_answer": "Joint control reduces pest spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How rotation dey reduce yam disease?",
+    "reference_answer": "Disease no go see yam every year.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What problems can arise if maize is planted too late in the season?",
+    "reference_answer": "Late planting exposes maize to moisture stress, higher pest pressure, and poor grain filling before harvest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil fertility influence yam taste and texture?",
+    "reference_answer": "Balanced nutrients improve starch content and texture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why person no suppose harvest cassava when rain dey heavy?",
+    "reference_answer": "Wet soil dey make harvest hard and root fit break.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How planting time dey affect fall armyworm for maize?",
+    "reference_answer": "If maize plant early, e fit avoid time wey armyworm plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is record keeping useful for yam farmers?",
+    "reference_answer": "Records help track practices and improve future decisions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do beans require phosphorus during early growth?",
+    "reference_answer": "Phosphorus supports root development and flowering.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why frequent harvest dey increase pepper yield?",
+    "reference_answer": "E dey make plant produce more flower.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What soil type is best for pineapple farming?",
+    "reference_answer": "Well-drained sandy loam soil is best for pineapple.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does humidity affect cassava diseases?",
+    "reference_answer": "High humidity encourages fungal diseases on cassava leaves.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How seed rate for nursery dey affect transplant?",
+    "reference_answer": "Too much seed go make seedling weak.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why cassava dey considered strong crop?",
+    "reference_answer": "E dey survive drought, poor soil and no too need heavy work.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does sustainable management improve long-term plantain yield?",
+    "reference_answer": "It maintains soil health and reduces losses.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava survive flooding?",
+    "reference_answer": "Short-term flooding is tolerable, but prolonged flooding kills the plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can climate-smart practices protect banana farms?",
+    "reference_answer": "They reduce climate risks and improve resilience.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should seeds be stored in a cool and dry place?",
+    "reference_answer": "Cool and dry conditions maintain seed viability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does prolonged dry season affect plantain yield?",
+    "reference_answer": "Extended dryness reduces bunch size and delays maturity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How precision farming dey help vegetable?",
+    "reference_answer": "E dey reduce waste and save input.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What cultural practices reduce fall armyworm pressure in maize farms?",
+    "reference_answer": "Crop rotation, timely planting, field sanitation, and destruction of infested residues reduce pest buildup.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What happens if cassava is harvested too late?",
+    "reference_answer": "Roots become woody and lose quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is mulching beneficial in plantain farms?",
+    "reference_answer": "Mulching conserves moisture and improves soil health.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey recommend waterleaf for blood health?",
+    "reference_answer": "Waterleaf get iron wey dey help blood formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do nematodes pose a problem in yam production?",
+    "reference_answer": "Nematodes cause tuber cracks and reduce yam quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How too much fertilizer dey affect soil?",
+    "reference_answer": "E dey spoil soil and dirty water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do rice farmers benefit from shared irrigation systems?",
+    "reference_answer": "Shared systems ensure consistent water supply.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor drainage increase disease incidence in pineapple?",
+    "reference_answer": "It creates moist conditions that favor pathogens.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do women participate actively in banana processing?",
+    "reference_answer": "Processing fits household-based activities.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be planted on flat land?",
+    "reference_answer": "Yes, but ridges or mounds are better in heavy soils.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How mulching dey affect yam pest?",
+    "reference_answer": "Mulch fit reduce pest but if bad, pest fit hide.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does rice processing attract youth enterprises?",
+    "reference_answer": "It creates value-added opportunities.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why only healthy yam sett good for planting?",
+    "reference_answer": "Healthy sett go sprout well and no carry disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans harvest need plenty labor?",
+    "reference_answer": "Harvest time short.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How training dey reduce beans risk?",
+    "reference_answer": "Decision go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why long-term farming better?",
+    "reference_answer": "E dey protect soil and resources.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How urban vegetable farming dey help nutrition?",
+    "reference_answer": "E dey give fresh vegetable easy.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does plant stress during growth affect plantain texture?",
+    "reference_answer": "Stress leads to poor fruit filling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does pest damage increase banana plant lodging?",
+    "reference_answer": "Weakened stems break easily under wind.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does potassium deficiency affect maize yield?",
+    "reference_answer": "Potassium deficiency weakens stalks, reduces drought tolerance, and leads to poor grain filling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How safe pesticide use dey protect ecosystem?",
+    "reference_answer": "Good organisms go survive.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How temperature dey affect beans seed?",
+    "reference_answer": "High heat go reduce germination.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why plantain farm need regular check?",
+    "reference_answer": "To detect pest and disease early.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does backyard pepper farming support urban households?",
+    "reference_answer": "It supplements diets and reduces dependence on markets.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow for northern Nigeria?",
+    "reference_answer": "Yes, but irrigation dey help because north dey dry.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dem suppose store yam?",
+    "reference_answer": "For cool, dry place with air.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is joint pest monitoring useful in plantain communities?",
+    "reference_answer": "It enables early warning and control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit handle acidic soil?",
+    "reference_answer": "Small acidity no bad, but too much go reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Neem extract fit control cassava pest?",
+    "reference_answer": "Yes. Neem dey reduce green mite and whitefly for farm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which spacing dey give big cassava root?",
+    "reference_answer": "1.2 m × 1.0 m fit help cassava root grow big.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin rat dey do yam farm?",
+    "reference_answer": "Rat dey chop yam and spoil am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava do well in swampy areas?",
+    "reference_answer": "No. Stagnant water affects root development.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why yam farmer suppose plant other crops?",
+    "reference_answer": "Make loss no too much if yam fail.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why bacterial wilt hard to control?",
+    "reference_answer": "E dey stay for soil and spread easily.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How banana farming dey support village people?",
+    "reference_answer": "E dey give food and work.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey disturb pineapple?",
+    "reference_answer": "Mealybug and rat dey disturb am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is seed certification important for maize sector development?",
+    "reference_answer": "Certification ensures seed quality, genetic purity, and farmer confidence.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why drip irrigation good for pineapple?",
+    "reference_answer": "E dey give water well and avoid waterlogging.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How soil fertility dey affect yam taste?",
+    "reference_answer": "Good soil dey improve starch and texture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Person fit reuse cassava stick?",
+    "reference_answer": "Yes, but old stick no dey sprout well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin improved cassava variety dey do?",
+    "reference_answer": "Dem dey yield more, resist disease, and mature quick.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why brown rice dey more nutritious?",
+    "reference_answer": "E still get bran and germ.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey chop cassava leaf pass?",
+    "reference_answer": "Variegated grasshopper dey chop cassava leaf well-well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How often pineapple need water?",
+    "reference_answer": "Moderate watering, especially dry season.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which kind rain yam dey like?",
+    "reference_answer": "Yam dey do well when rain steady and no too much.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is plantain recommended for physically active people?",
+    "reference_answer": "It supplies sustained energy.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pests dey worry cassava pass for Nigeria?",
+    "reference_answer": "Common pests na cassava mealybug, green mite, variegated grasshopper, and whiteflies.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit know say fall armyworm don attack maize?",
+    "reference_answer": "Leaf go get hole, tear-tear and black dirt inside maize whorl.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin dey make cassava root bitter?",
+    "reference_answer": "Bad variety or stress like drought fit make cassava bitter.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Is cassava suitable for northern Nigeria?",
+    "reference_answer": "Yes, with irrigation and drought-tolerant varieties.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is crop rotation important in cassava farming?",
+    "reference_answer": "Crop rotation prevents soil nutrient depletion and reduces pest buildup.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is crop rotation difficult in banana pest control?",
+    "reference_answer": "Banana is perennial and stays long on the field.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad seed storage dey affect vegetable seed?",
+    "reference_answer": "Seed strength go reduce and germination go poor.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why wrong machine fit cause problem for maize farm?",
+    "reference_answer": "E fit harden soil and waste money.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers monitor pest levels effectively?",
+    "reference_answer": "By regular field scouting, especially early mornings and evenings.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil pH influence nutrient availability for beans?",
+    "reference_answer": "Extreme pH limits uptake of essential nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How air dey help yam storage?",
+    "reference_answer": "E dey reduce heat and moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Person fit use pesticide for cassava pest?",
+    "reference_answer": "Yes, but use am only when e necessary and follow instruction well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does excessive vegetative growth affect pepper fruiting?",
+    "reference_answer": "Too much leaf growth reduces energy available for fruit formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How local seed saving dey help pepper farming?",
+    "reference_answer": "E dey keep local pepper and reduce dependence.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does heat stress affect pepper pollination?",
+    "reference_answer": "High temperatures reduce pollen viability and fruit set.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How wrong harvest fit spoil cassava root?",
+    "reference_answer": "If root break, quality go drop and e go hard to process.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why training important for value chain?",
+    "reference_answer": "E dey improve efficiency and quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow for clay soil?",
+    "reference_answer": "Yes, if drainage good.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is rice important for Nigeria’s food security?",
+    "reference_answer": "Rice is a major staple food.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is fair land access important for sustainable yam production?",
+    "reference_answer": "Fair access ensures long-term farming continuity and equity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should weeds be controlled in pineapple farms?",
+    "reference_answer": "Weeds compete for nutrients and harbor pests.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can partial mechanization support large-scale yam farms?",
+    "reference_answer": "Machines assist land preparation while manual methods protect tubers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers avoid overcrowding crops?",
+    "reference_answer": "Overcrowding causes competition for nutrients and light.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does harvesting yam too early affect tuber quality?",
+    "reference_answer": "Early harvesting produces immature tubers with poor storage ability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How partial mechanization fit help big yam farm?",
+    "reference_answer": "Machine fit help land prep while hand work protect yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How too much water dey affect vegetable root?",
+    "reference_answer": "Root fit rot and food go waste.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey chop young plantain leaf for night?",
+    "reference_answer": "Caterpillar.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are some vegetables sliced before drying?",
+    "reference_answer": "Slicing increases drying speed and uniformity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is climate-smart agriculture important for maize farmers in Nigeria?",
+    "reference_answer": "It helps farmers adapt to climate risks while maintaining productivity and soil health.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey make hole for vegetable leaf at night?",
+    "reference_answer": "Na cutworm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do cassava leaves turn reddish?",
+    "reference_answer": "It may indicate nutrient deficiency or viral infection.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How often should cassava be weeded?",
+    "reference_answer": "At least two major weeding operations are needed within the first 3 months.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is straight-row transplanting recommended for rice?",
+    "reference_answer": "It improves spacing and eases weeding.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mulching help manage weeds?",
+    "reference_answer": "Mulching blocks sunlight and suppresses weed germination.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late weeding dey affect nutrient uptake?",
+    "reference_answer": "Weed go collect nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why improved maize seed dey perform better pass local one?",
+    "reference_answer": "Improved seed dey produce better yield and resist disease pass local seed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor ventilation affect stored yam?",
+    "reference_answer": "Poor airflow increases heat and moisture, leading to rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should vegetables be washed after harvest?",
+    "reference_answer": "Washing removes soil, pests, and contaminants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmer cooperatives improve pineapple production?",
+    "reference_answer": "They enable shared knowledge, inputs, and technical support.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does farmer training reduce beans production risks?",
+    "reference_answer": "Training improves management decisions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why mulching good for vegetable farm?",
+    "reference_answer": "E dey keep water and stop weed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does responsible farming contribute to rural development?",
+    "reference_answer": "It creates stable food supply and employment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is correct spacing important in vegetable farming?",
+    "reference_answer": "Proper spacing reduces competition and improves airflow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How too much water dey increase plantain disease?",
+    "reference_answer": "Fungus go grow well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does urban vegetable farming support household nutrition?",
+    "reference_answer": "It improves access to fresh vegetables.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why shared storage good for beans farmers?",
+    "reference_answer": "Loss go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey raise some vegetable for nursery?",
+    "reference_answer": "Nursery dey help seedling survive and grow well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer dey know say banana don ready?",
+    "reference_answer": "Fruit go full and edge go smooth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can drip irrigation improve pepper water efficiency?",
+    "reference_answer": "It delivers water directly to roots with minimal waste.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How infected sucker dey affect yield?",
+    "reference_answer": "Disease go spread and yield go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which time maize dey suffer water stress pass?",
+    "reference_answer": "Maize dey suffer pass when e dey tassel, silk and form grain.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does field stress influence rice grain chalkiness?",
+    "reference_answer": "Stress increases chalky grains.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How organic matter dey help yam tuber grow?",
+    "reference_answer": "E dey loosen soil and hold water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does diversification reduce risk in pepper farming?",
+    "reference_answer": "Diversification spreads risk across crops and seasons.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer dey apply fertilizer in parts for maize?",
+    "reference_answer": "E dey reduce waste and help maize get food when e need am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil conservation support long-term farming?",
+    "reference_answer": "It maintains productivity and prevents land degradation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How poor labor management dey affect plantain?",
+    "reference_answer": "Late work go reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How processing dey affect maize nutrition?",
+    "reference_answer": "E fit help digestion but fit reduce vitamin.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How beans consumption dey help nutrition?",
+    "reference_answer": "E dey give protein, fiber and minerals.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do vegetable farmers stagger planting dates?",
+    "reference_answer": "Staggering reduces risk of total crop loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad drainage dey cause yam disease?",
+    "reference_answer": "Water dey help fungus and bacteria grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do irrigation associations support rice production?",
+    "reference_answer": "They manage shared water resources.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does high humidity encourage maize fungal diseases?",
+    "reference_answer": "High humidity creates favorable conditions for fungal spores to germinate and spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey damage plantain corm?",
+    "reference_answer": "Banana weevil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is proper spacing important in waterleaf farming?",
+    "reference_answer": "Proper spacing reduces overcrowding and improves leaf development.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is integrated pest management recommended for maize production?",
+    "reference_answer": "IPM combines cultural, biological, and chemical methods to control pests sustainably and reduce resistance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor drying encourage bruchid infestation in stored beans?",
+    "reference_answer": "Moist grains favor pest survival and breeding.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava require pruning?",
+    "reference_answer": "Cassava is rarely pruned, but removing diseased leaves helps control infection.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which soil pineapple dey like?",
+    "reference_answer": "Well-drained sandy loam soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What farm practice helps control yam anthracnose?",
+    "reference_answer": "Using resistant varieties and removing infected plants helps.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why control weed for young plantain?",
+    "reference_answer": "Weed dey compete for food and water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How IPM dey help pineapple farmers?",
+    "reference_answer": "E dey reduce chemical and still control pest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why local knowledge important for yam?",
+    "reference_answer": "E match local soil and weather.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does crop rotation control pests in cassava?",
+    "reference_answer": "Rotating with legumes breaks pest cycles and reduces soil pest populations.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the best time of day to plant cassava?",
+    "reference_answer": "Early morning or late afternoon to avoid stem dehydration.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does land misuse affect future yam farming generations?",
+    "reference_answer": "Land degradation reduces productivity for future farmers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How long should cassava stem cuttings be?",
+    "reference_answer": "Cuttings should be 20–25 cm long with at least 5–7 nodes.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is ventilation important during pineapple transportation?",
+    "reference_answer": "Ventilation prevents heat buildup and spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does varietal resistance reduce pest damage in beans?",
+    "reference_answer": "Resistant varieties limit pest feeding and survival.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How crowding dey increase pepper disease?",
+    "reference_answer": "Air no go pass well and disease go grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should diseased cassava stems not be used for planting?",
+    "reference_answer": "Diseased stems spread infections to the new crop and reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers wear protective gear during field operations?",
+    "reference_answer": "Protective gear reduces injury and exposure to hazards.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How mite dey damage pepper during dry season?",
+    "reference_answer": "Dem dey suck leaf juice make leaf yellow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin phosphorus dey do for maize?",
+    "reference_answer": "Phosphorus dey help root strong, early growth and grain formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why record keeping important for banana?",
+    "reference_answer": "To track farm work and yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How mulching dey stop weed?",
+    "reference_answer": "E dey block sunlight make weed no grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be grown from seeds?",
+    "reference_answer": "Cassava is usually grown from stem cuttings, not seeds.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do farmers avoid stem dehydration?",
+    "reference_answer": "Store stems in moist sacks or under shade.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why some farmers dey use double-row planting?",
+    "reference_answer": "E dey help use land well and still allow air pass.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which insect dey attack maize leaf for Nigeria?",
+    "reference_answer": "Fall armyworm na common pest wey dey chop maize leaf.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why people dey plant banana for house?",
+    "reference_answer": "E dey give food and shade.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why record keeping important for vegetable?",
+    "reference_answer": "To track farm work and result.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dem fit extend pineapple life?",
+    "reference_answer": "Good storage and careful handling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How too much nitrogen dey affect leafy vegetable?",
+    "reference_answer": "Leaf go soft and pest go plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey process plantain to chips?",
+    "reference_answer": "To make am last long.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How phone extension dey help vegetable farmer?",
+    "reference_answer": "Dem dey get advice on time.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is long-term planning important for farm sustainability?",
+    "reference_answer": "Planning ensures consistent productivity and resource protection.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava require pruning?",
+    "reference_answer": "Only when branches are excessive.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does delayed transport affect plantain shelf life?",
+    "reference_answer": "Delay increases respiration and spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can digital tools support youth in plantain farming?",
+    "reference_answer": "Digital tools improve planning and monitoring.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do some cassava plants fall over during heavy wind?",
+    "reference_answer": "Weak stems or shallow root systems cause lodging during strong winds.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does planting depth influence maize seedling emergence?",
+    "reference_answer": "Seeds planted too deep emerge slowly, while shallow planting exposes seeds to drying and bird damage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early detection important in managing pepper pests?",
+    "reference_answer": "Early control prevents rapid pest multiplication and crop loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How leafy vegetable different from fruit vegetable?",
+    "reference_answer": "Leafy na leaf dem dey harvest, fruit vegetable na fruit.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is research into climate-resilient pepper varieties important?",
+    "reference_answer": "Climate-resilient varieties help stabilize production under changing weather.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does milling degree affect rice nutritional content?",
+    "reference_answer": "Excessive milling removes vitamins and minerals.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor drainage increase fungal diseases in pepper?",
+    "reference_answer": "Waterlogged soil promotes fungal growth around roots.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be grown in northern Nigeria?",
+    "reference_answer": "Yes, but it requires early planting and drought-tolerant varieties.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How nitrogen dey affect yam vine?",
+    "reference_answer": "Nitrogen dey help vine and leaf grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mechanical damage during harvest affect beans quality?",
+    "reference_answer": "Damage lowers market and storage quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mulching reduce weed growth in waterleaf plots?",
+    "reference_answer": "Mulching blocks sunlight and suppresses weed germination.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does staggered planting reduce total pepper crop failure?",
+    "reference_answer": "It spreads risk across different growth periods.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin be the spacing for cassava planting?",
+    "reference_answer": "Normal spacing na 1 m × 1 m to get good root size and yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does deep hoeing damage pepper plants?",
+    "reference_answer": "Deep hoeing cuts shallow roots and stresses the plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava dey do well for swampy place?",
+    "reference_answer": "No. Water wey no dey move dey spoil cassava root.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans farmer suppose keep record?",
+    "reference_answer": "To check farm performance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How overcrowding dey increase vegetable disease?",
+    "reference_answer": "Water go trap and disease go grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are yam farms near bushes more prone to rodent attack?",
+    "reference_answer": "Bushes provide hiding places and breeding grounds for rodents.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is soil testing important before fertilizer application in maize farming?",
+    "reference_answer": "Soil testing identifies nutrient deficiencies and prevents over- or under-fertilization.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does pineapple not tolerate waterlogged soil?",
+    "reference_answer": "Waterlogging causes root rot and plant death.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How processing dey reduce postharvest loss?",
+    "reference_answer": "E dey preserve fruit make e no waste.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How long do cassava stems remain viable for planting?",
+    "reference_answer": "Up to 2–3 months if stored properly.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How overcrowding dey affect beans yield?",
+    "reference_answer": "Plants go fight for food and light.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why people dey plant pepper for backyard?",
+    "reference_answer": "Pepper easy to manage and people dey use am daily.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why plantain good for active people?",
+    "reference_answer": "E dey give steady energy.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why irrigation good for dry-season maize?",
+    "reference_answer": "E dey give maize water when rain no dey.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does poor field sanitation increase pepper pest pressure?",
+    "reference_answer": "Crop residues provide shelter and breeding sites for pests.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does nutrient imbalance affect plantain bunch formation?",
+    "reference_answer": "Imbalance reduces finger number and size.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why uneven vegetable size dey reduce quality?",
+    "reference_answer": "People like uniform vegetable.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do bananas show nutrient deficiency symptoms quickly?",
+    "reference_answer": "Bananas grow fast and require continuous nutrient supply.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should fertilizer be applied in small amounts to waterleaf?",
+    "reference_answer": "Excess fertilizer causes leaf burn and weak growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can erosion be controlled in cassava farms?",
+    "reference_answer": "Use ridges, contour planting, and cover crops.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Intercropping fit help reduce cassava pest?",
+    "reference_answer": "Yes, mixing cassava with legume dey reduce pest and improve farm balance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Warm soil dey help cassava sprout?",
+    "reference_answer": "Yes, warm soil dey make cassava sprout fast.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does intercropping improve banana farm sustainability?",
+    "reference_answer": "Intercropping reduces erosion and improves land use.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why too much water bad for yam farm?",
+    "reference_answer": "Water go choke root and cause yam rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which disease dey make vegetable leaf yellow?",
+    "reference_answer": "Virus and nutrient disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does planting date influence fall armyworm infestation in maize fields?",
+    "reference_answer": "Early planting can help maize escape peak fall armyworm populations that occur later in the season.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana harvest need teamwork?",
+    "reference_answer": "Bunch heavy and need care.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why straight-row transplant good for rice?",
+    "reference_answer": "E help spacing and weeding.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How machine land preparation dey help maize?",
+    "reference_answer": "E dey save time, labor and prepare soil well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are rodents common pests in rice farms?",
+    "reference_answer": "Rice fields provide food and cover.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why community dey protect banana from animal?",
+    "reference_answer": "Animal fit destroy young plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why integrated management dey help plantain farming?",
+    "reference_answer": "All good practice dey work together.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do cassava mealybugs damage cassava plants?",
+    "reference_answer": "They suck plant sap, causing leaf distortion, stunted growth, and reduced tuber formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can cassava farmers conserve soil moisture?",
+    "reference_answer": "Mulching and early planting help conserve moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit control cassava mealybug without chemical?",
+    "reference_answer": "Dem fit use neem spray, soap-water mix, or put lady beetle wey dey chop mealybug.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does integrated crop management improve beans productivity?",
+    "reference_answer": "It combines good practices for stable yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What nutrients are abundant in waterleaf?",
+    "reference_answer": "Waterleaf contains vitamins, iron, and dietary fiber.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers wear protective gear during chemical application?",
+    "reference_answer": "Protective gear reduces health risks and chemical exposure.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How seedling age dey affect rice after transplant?",
+    "reference_answer": "Old seedling go slow and reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do farmers choose different pepper varieties for fresh and dried use?",
+    "reference_answer": "Some varieties have thicker flesh for fresh use while others dry faster and retain color.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How person fit stop erosion for cassava farm?",
+    "reference_answer": "Use contour ridge and cover crop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How timely harvest dey reduce pod borer damage?",
+    "reference_answer": "Larvae no go develop inside pod.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the best way to store cassava stems?",
+    "reference_answer": "Tie them in bundles and store in shaded, well-ventilated areas.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why curing yam sett good before planting?",
+    "reference_answer": "E dey reduce rot and protect cut side.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How plenty weed dey affect yam tuber?",
+    "reference_answer": "Yam go small or bend because food no enough.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How digital tools fit help youth for rice farming?",
+    "reference_answer": "Info and planning go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil compaction affect pepper root development?",
+    "reference_answer": "Compacted soil restricts root growth and reduces nutrient uptake.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why better use well-rotten manure for yam?",
+    "reference_answer": "E dey release food small small and soften soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does anthracnose affect yam yield?",
+    "reference_answer": "It damages leaves, reducing photosynthesis and yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does poor field sanitation increase pineapple pest problems?",
+    "reference_answer": "Dirty fields provide hiding places for pests.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is environmental protection important in agriculture?",
+    "reference_answer": "Protecting the environment sustains farming and livelihoods.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad drying dey affect milling?",
+    "reference_answer": "Grain go break plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How extension service dey help vegetable production?",
+    "reference_answer": "Farmer go learn better method.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is regular inspection important during beans storage?",
+    "reference_answer": "Inspection detects early pest or mold problems.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why pineapple dey spoil after harvest?",
+    "reference_answer": "Bad handling and heat.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why good management important for plantain?",
+    "reference_answer": "E dey ensure healthy plant and steady yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dem dey control green mite?",
+    "reference_answer": "Use resistant varieties, predatory mite, and keep farm clean.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How moisture dey affect threshing?",
+    "reference_answer": "Grain no go separate well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is stem handling important in cassava farming?",
+    "reference_answer": "Rough handling damages buds that are needed for sprouting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How continuous yam farming dey affect soil?",
+    "reference_answer": "Soil food go finish and erosion go increase.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does crop rotation reduce disease buildup in beans farms?",
+    "reference_answer": "Rotation breaks disease life cycles.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does farm data help improve banana decision making?",
+    "reference_answer": "Data supports planning and efficiency.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can youth use technology to improve beans productivity?",
+    "reference_answer": "Technology supports planning and monitoring.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers continuously improve their practices?",
+    "reference_answer": "Continuous improvement increases efficiency and resilience.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why environment protection important?",
+    "reference_answer": "E dey support farming and life.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dirty tool dey spread banana disease?",
+    "reference_answer": "Tool go carry disease go other plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which disease dey make pepper wilt even with water?",
+    "reference_answer": "Na bacterial wilt.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early detection of fall armyworm important?",
+    "reference_answer": "If farmer see am early, e go control am before damage plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why herbicide use need care?",
+    "reference_answer": "Wrong use fit spoil crop and soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How record keeping dey help planning?",
+    "reference_answer": "E dey help decision.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do beans leaves develop spots during wet seasons?",
+    "reference_answer": "Fungal diseases spread under wet conditions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How improved pepper fit help Nigerian farmer?",
+    "reference_answer": "E go give better yield and disease resistance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farming for steep slope no good?",
+    "reference_answer": "E dey cause erosion and soil nutrient loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How potassium lack dey affect plantain?",
+    "reference_answer": "Fruit go small and quality go drop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor soil structure reduce vegetable yield?",
+    "reference_answer": "Poor structure limits root growth and water infiltration.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does soil pH affect cassava?",
+    "reference_answer": "Cassava grows best in slightly acidic soils with a pH of 5.5–7.0.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do beans farmers benefit from extension services?",
+    "reference_answer": "They gain access to improved practices.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When is the best time to transplant pepper seedlings in Nigeria?",
+    "reference_answer": "Transplanting is best done during cool hours in the rainy season.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do rodents damage yam fields?",
+    "reference_answer": "Rodents dig up and feed on developing yam tubers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why sanitation important to control weevil?",
+    "reference_answer": "E dey remove breeding place.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are grasses difficult to control in rice fields?",
+    "reference_answer": "They closely resemble rice plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How clean farm dey reduce yam pest?",
+    "reference_answer": "If farm clean, pest no get place hide.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should waterleaf be grown away from polluted water sources?",
+    "reference_answer": "Polluted water introduces harmful microbes and chemicals.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvest rice when e fully mature?",
+    "reference_answer": "Grain weight go full.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do thrips contribute to viral disease spread in pepper?",
+    "reference_answer": "They transmit viruses while feeding on infected plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How responsible farming dey protect consumers?",
+    "reference_answer": "Food safety go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why good management important for pepper farming?",
+    "reference_answer": "E dey ensure healthy plant and steady yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does crop rotation disrupt vegetable pest life cycles?",
+    "reference_answer": "Rotation removes host plants pests depend on.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should harvested crops be handled carefully?",
+    "reference_answer": "Careful handling reduces postharvest losses and spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow without chemical?",
+    "reference_answer": "Yes, use organic manure and plant-based pest control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers control cassava mealybug organically?",
+    "reference_answer": "They can use neem extract spray, soap-water mixtures, or introduce natural predators like lady beetles.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava survive short dry spells?",
+    "reference_answer": "Yes, cassava is drought-tolerant and can survive short dry spells.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When is the best planting time for yam in southern Nigeria?",
+    "reference_answer": "Planting usually starts at the beginning of the rainy season between March and April.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When person suppose put fertiliser for cassava?",
+    "reference_answer": "Put fertiliser 4–6 weeks after planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans need phosphorus early?",
+    "reference_answer": "E help root and flower develop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How synchronized planting dey reduce bird damage?",
+    "reference_answer": "Exposure time go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why biodiversity important for farm?",
+    "reference_answer": "E dey help control pest naturally.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are airtight containers recommended for storing beans?",
+    "reference_answer": "They prevent insect infestation and moisture entry.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why record processing steps for plantain?",
+    "reference_answer": "To keep quality steady.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does early planting help yam escape severe pest attack?",
+    "reference_answer": "Early planting allows tubers to establish before pest populations peak.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest feeds on young plantain leaves at night?",
+    "reference_answer": "Caterpillars feed on young leaves at night.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does plantain require regular nutrient supply?",
+    "reference_answer": "Plantain grows fast and produces heavy bunches.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How uneven drying dey affect storage?",
+    "reference_answer": "Wet grain go spoil fast.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is pepper considered nutritionally important in Nigerian diets?",
+    "reference_answer": "It supplies vitamins, antioxidants, and enhances appetite.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans good for school demo plot?",
+    "reference_answer": "E grow fast show result.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can extension workers help waterleaf farmers?",
+    "reference_answer": "They provide training on improved practices and pest control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dry rice immediately after threshing?",
+    "reference_answer": "To stop mold.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why remove sick yam plant?",
+    "reference_answer": "Make disease no spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is good management key to successful banana production?",
+    "reference_answer": "Good management ensures healthy plants and steady harvest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How desuckering dey improve banana bunch?",
+    "reference_answer": "Food go go main plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Fresh cassava stick fit plant immediately?",
+    "reference_answer": "Yes, fresh stick dey sprout better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How wet harvest dey affect banana?",
+    "reference_answer": "Fruit go bruise and disease fit enter.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why rice dey grow well for clay soil?",
+    "reference_answer": "Clay soil dey hold water well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer education important for maize pest control?",
+    "reference_answer": "If farmer sabi pest early, control go easy.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvesting tool suppose clean?",
+    "reference_answer": "Dirty tool fit spread disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Spacing fit affect cassava yield?",
+    "reference_answer": "Yes. If spacing correct, cassava go get sun and food well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How clean store dey affect beans shelf life?",
+    "reference_answer": "Pest no go plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What fungal disease causes leaf spots on maize plants?",
+    "reference_answer": "Northern corn leaf blight is a common fungal disease that creates elongated leaf lesions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How extension advice dey reduce beans failure?",
+    "reference_answer": "Timing and management go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late harvest dey affect pepper yield?",
+    "reference_answer": "Plant no go produce more flower.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is rice straw management important after harvest?",
+    "reference_answer": "It affects soil fertility and pest carryover.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How soil acidity dey affect pineapple?",
+    "reference_answer": "Small acidity dey help plant absorb nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does long storage duration affect rice aroma?",
+    "reference_answer": "Aroma reduces as volatile compounds escape.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which soil good for plantain?",
+    "reference_answer": "Deep loamy soil wey water dey pass.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the best way to harvest cassava?",
+    "reference_answer": "Loosen the soil and uproot the plant manually or with simple tools.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is waterleaf suitable for teaching basic farming skills?",
+    "reference_answer": "Its fast growth allows learners to see results quickly.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How training fit attract youth to beans business?",
+    "reference_answer": "Dem go see business opportunity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late harvest dey affect vegetable taste?",
+    "reference_answer": "Vegetable go bitter and hard.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmers dey prefer sucker?",
+    "reference_answer": "Because e dey fruit faster.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why too much water dey reduce yield?",
+    "reference_answer": "E dey damage root and cause disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why wash vegetable after harvest?",
+    "reference_answer": "To remove sand, pest and dirt.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin fit happen if cassava dey planted too close?",
+    "reference_answer": "E go cause small root, nutrient drag, and low yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why rice suppose dry well before storage?",
+    "reference_answer": "To stop mold.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does potassium deficiency affect beans drought tolerance?",
+    "reference_answer": "Low potassium reduces water-use efficiency.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can youth use technology to improve vegetable farming?",
+    "reference_answer": "Technology improves monitoring and management.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does drought during flowering affect maize production?",
+    "reference_answer": "Drought at flowering reduces pollination success, leading to poor cob formation and yield loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What are the effects of uncontrolled weeds on maize yield?",
+    "reference_answer": "Uncontrolled weeds reduce plant vigor, increase pest habitats, and significantly lower grain yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should only healthy planting materials be used for pineapple?",
+    "reference_answer": "Healthy materials reduce disease spread and improve establishment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does regular consumption of waterleaf support digestion?",
+    "reference_answer": "Dietary fiber in waterleaf improves bowel movement and digestion.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why water dey stand for rice farm?",
+    "reference_answer": "Water dey stop weed and help growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How nutrient-poor soil dey affect cassava leaf?",
+    "reference_answer": "Leaf fit yellow, curl, or slow growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava need plenty labor compared to other crops?",
+    "reference_answer": "E need average labor, mostly for weeding and harvest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is crop rotation effective in reducing yam pest buildup?",
+    "reference_answer": "Rotation breaks pest life cycles by removing host crops.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the role of potassium in cassava growth?",
+    "reference_answer": "It improves tuber formation and disease resistance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is pepper usually raised in a nursery before transplanting?",
+    "reference_answer": "Nurseries allow better seedling care and selection of healthy plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How intercropping dey reduce maize pest?",
+    "reference_answer": "E dey confuse pest and attract helper insect.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How deep should cassava stems be planted?",
+    "reference_answer": "Cassava stem cuttings should be planted 5–10 cm deep depending on soil moisture.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why good banana management important?",
+    "reference_answer": "E dey ensure healthy plant and good fruit.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is cassava important in food security?",
+    "reference_answer": "It is reliable, drought-tolerant, and productive in many conditions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which waterleaf variety grows fastest in Nigeria?",
+    "reference_answer": "Local spreading varieties grow faster and are commonly cultivated by Nigerian farmers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why no good to harvest maize early?",
+    "reference_answer": "Early harvest go make grain wet and spoil for storage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How fertilizer split dey help rice?",
+    "reference_answer": "Loss go reduce and uptake go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad farming dey affect vegetable trust?",
+    "reference_answer": "People no go trust am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How poor airflow dey increase plantain disease?",
+    "reference_answer": "Moisture go trap and disease go spread.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pests commonly attack vegetable seedlings?",
+    "reference_answer": "Cutworms and beetles attack young seedlings.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How different pepper variety dey reduce farming risk?",
+    "reference_answer": "Some fit survive pest or weather wey others no fit.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin dey determine yam quality for eating?",
+    "reference_answer": "Yam type, maturity and storage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How seed disease dey affect beans field?",
+    "reference_answer": "Seed no go come out strong.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is cassava spacing important?",
+    "reference_answer": "Proper spacing prevents root competition and increases yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does waterleaf respond quickly to fertile soil?",
+    "reference_answer": "Waterleaf has shallow roots that absorb nutrients rapidly.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit make cassava sprout well?",
+    "reference_answer": "Use fresh stem, no damage the buds, and plant am for correct depth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is good management essential for successful pepper farming?",
+    "reference_answer": "Good management ensures healthy plants and consistent yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How erosion dey reduce vegetable yield?",
+    "reference_answer": "Topsoil go wash comot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which insect dey attack rice stem?",
+    "reference_answer": "Stem borer.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why rotation important for pepper farming?",
+    "reference_answer": "E dey reduce pest and soil tiredness.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early land preparation dey important for cassava?",
+    "reference_answer": "E help farmer plant on time and use early rain well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What damage do ants cause in yam fields?",
+    "reference_answer": "Ants expose tubers by removing soil and encourage secondary pests.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is banana considered a staple fruit in many Nigerian homes?",
+    "reference_answer": "Banana is nutritious, filling, and easy to prepare.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early morning pest inspection effective for waterleaf farms?",
+    "reference_answer": "Many pests are active early in the morning and can be easily controlled then.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should yam farming be included in agricultural training curricula?",
+    "reference_answer": "It builds skills for one of Nigeria’s major staple crops.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do some yam varieties produce longer tubers than others?",
+    "reference_answer": "Genetic traits and soil depth influence tuber shape and length among yam varieties.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does maize streak disease affect plant productivity?",
+    "reference_answer": "It reduces leaf photosynthesis, stunts growth, and lowers grain yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How plenty yam for one place dey affect vine?",
+    "reference_answer": "Vine go weak and leaf no go work well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does pineapple farming contribute to food diversity?",
+    "reference_answer": "It provides nutritious fruit options for households.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad tool handling dey cause accident?",
+    "reference_answer": "E fit cause cut and injury.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit improve cassava soil fertility naturally?",
+    "reference_answer": "Dem fit use compost, animal dung, or plant cassava with legume.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does pepper require regular but moderate watering?",
+    "reference_answer": "Pepper is sensitive to both drought and waterlogging.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Should farmers use fertilizer on cassava?",
+    "reference_answer": "Yes, applying NPK or organic compost improves yield and tuber size.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are women important in rice processing activities?",
+    "reference_answer": "Women dominate parboiling and milling operations.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What soil type is best for growing waterleaf?",
+    "reference_answer": "Loose, fertile, and well-drained soil supports healthy waterleaf growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should yam stores be inspected regularly?",
+    "reference_answer": "Regular inspection helps remove rotting tubers early.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer-to-farmer learning dey help?",
+    "reference_answer": "Trust go increase.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is residue management important after pineapple harvest?",
+    "reference_answer": "Proper residue handling prevents pest buildup and improves soil health.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be intercropped with maize?",
+    "reference_answer": "Yes, cassava can be intercropped with maize, especially in early stages before canopy formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin go happen if cassava too stay for soil?",
+    "reference_answer": "Root go strong, fiber go plenty and quality go drop.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How poor drying dey encourage bruchid?",
+    "reference_answer": "Moist beans dey help pest survive.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How responsible farming dey help rural area?",
+    "reference_answer": "E dey create food and work.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How termite dey reduce yam yield?",
+    "reference_answer": "Dem dey chop sett and weaken tuber.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which kind crop be pineapple?",
+    "reference_answer": "Pineapple na perennial fruit crop for tropics.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why keep some yam as seed?",
+    "reference_answer": "For next planting season.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How delayed harvest dey cause grain loss?",
+    "reference_answer": "Dry grain go fall easily.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava cutting suppose get many node?",
+    "reference_answer": "Yes. 5–7 node dey make sprout and root formation better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which NPK fertilizer dey good for cassava?",
+    "reference_answer": "NPK 15-15-15 or 12-12-17 dey work well for cassava.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which weather pineapple dey like for Nigeria?",
+    "reference_answer": "Warm weather with moderate rain.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem suppose use sharp knife cut cassava stem?",
+    "reference_answer": "Sharp knife no go wound the stem and e go sprout better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey disturb waterleaf?",
+    "reference_answer": "Snail, caterpillar and grasshopper dey worry am.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does erosion reduce vegetable productivity?",
+    "reference_answer": "Erosion removes fertile topsoil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How is pineapple commonly propagated?",
+    "reference_answer": "Pineapple is propagated using suckers, slips, or crowns.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late weeding dey affect vegetable?",
+    "reference_answer": "Weed go compete and reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why sunlight important for yam?",
+    "reference_answer": "E dey help leaf make food.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How deep person suppose bury cassava stem?",
+    "reference_answer": "Cassava stick suppose enter 5–10 cm for soil, based on soil water level.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava require heavy rainfall?",
+    "reference_answer": "Moderate rainfall is enough; too much water causes rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does excessive nitrogen application affect maize plants?",
+    "reference_answer": "Too much nitrogen causes excessive leaf growth, weak stalks, delayed maturity, and lodging.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does leaf feeding by beetles affect beans yield?",
+    "reference_answer": "Leaf loss reduces photosynthesis.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest attacks stored beans grains?",
+    "reference_answer": "Bruchid beetles attack stored beans.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How many times person suppose weed cassava farm?",
+    "reference_answer": "At least two big weeding dey needed for the first 3 months.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer dey prune cassava branch?",
+    "reference_answer": "To stop wind damage and make root grow better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How packaging innovation dey reduce spoilage?",
+    "reference_answer": "Moisture and damage go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is protected vegetable farming gaining attention?",
+    "reference_answer": "It reduces climate and pest risks.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why cassava suppose plant early when rain start?",
+    "reference_answer": "E give cassava enough water to form root well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why clean farm dey help reduce maize pest?",
+    "reference_answer": "Pest no go get place hide or survive.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do women dominate plantain retail processing activities?",
+    "reference_answer": "Activities align with household enterprises.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What harvesting tool is best for cassava?",
+    "reference_answer": "A long hoe or digging fork is ideal for lifting roots without cutting them.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are beans often sorted by size before processing?",
+    "reference_answer": "Uniform size improves cooking consistency.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be used for animal feed?",
+    "reference_answer": "Yes. Cassava peels and chips are used in livestock feed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey dry pepper for Nigeria?",
+    "reference_answer": "Drying dey remove water and stop spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit serve as animal food?",
+    "reference_answer": "Yes, peel and leaf fit feed animal after proper processing.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is land clearing done carefully before establishing a plantain farm?",
+    "reference_answer": "Careful clearing preserves soil structure and beneficial organisms.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers wear gloves when handling hot pepper varieties?",
+    "reference_answer": "Gloves prevent skin irritation caused by capsaicin.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why adapt practice to local area?",
+    "reference_answer": "E dey improve success.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why too much rain bad for beans?",
+    "reference_answer": "Root go rot and pod no go set.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which tool better for cassava harvest?",
+    "reference_answer": "Long hoe or fork dey good because dem no dey cut root.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why land preparation important for cassava farming?",
+    "reference_answer": "E help soil loosen well, make root fit enter deep, and reduce weed before planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why plantain important for future food?",
+    "reference_answer": "E dey give steady carbohydrate.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor ventilation affect stored pepper fruits?",
+    "reference_answer": "Poor airflow increases heat buildup and accelerates decay.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is soil depth important for yam tuber development?",
+    "reference_answer": "Deep soil allows yam tubers to grow long and large without physical restriction.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers avoid replanting grain from hybrid maize?",
+    "reference_answer": "Hybrid grain loses vigor and yield potential when replanted.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava require staking?",
+    "reference_answer": "No. Cassava does not require staking like yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetín be difference between eating banana and cooking banana?",
+    "reference_answer": "One dem dey chop raw, the other dem dey cook.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How yield change dey affect maize planning?",
+    "reference_answer": "Farmer no go sure how much e go harvest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is cassava considered a hardy crop?",
+    "reference_answer": "It tolerates drought, poor soils, and low management.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does cassava compete with weeds in early growth?",
+    "reference_answer": "Poorly, because the canopy develops slowly.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late planting dey increase pest for beans?",
+    "reference_answer": "Crop go meet pest plenty time.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How insurance fit help yam farmer?",
+    "reference_answer": "E go help recover after loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does farmer field school training improve pepper productivity?",
+    "reference_answer": "Practical learning improves adoption of best practices.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava tolerate acidic soils?",
+    "reference_answer": "Moderately acidic soils are fine, but very acidic soils reduce yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is good management essential for successful plantain production?",
+    "reference_answer": "Good management ensures healthy plants and stable yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How soil pH dey affect crop?",
+    "reference_answer": "E dey affect how plant fit collect nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How waterleaf dey help digestion?",
+    "reference_answer": "Fiber wey dey inside am dey help toilet work well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How banana dey help muscle?",
+    "reference_answer": "Potassium dey help muscle work.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why clean spraying machine?",
+    "reference_answer": "So chemical no go remain.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is threshing done soon after rice harvest?",
+    "reference_answer": "Early threshing reduces spoilage and losses.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does high humidity encourage banana disease development?",
+    "reference_answer": "Moist conditions favor fungal growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is composting encouraged in banana farms?",
+    "reference_answer": "Compost improves soil fertility naturally.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why pepper no dey do well for acidic soil?",
+    "reference_answer": "Food for soil no dey available well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does vegetable diversity improve household nutrition?",
+    "reference_answer": "Different vegetables supply different nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is research on drought-tolerant yam varieties important?",
+    "reference_answer": "It helps farmers adapt to unpredictable rainfall patterns.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should farmers avoid planting cassava too deep?",
+    "reference_answer": "Deep planting slows sprouting and reduces root formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why mulching good for banana farm?",
+    "reference_answer": "E dey keep water and soil health.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer dey choose fast-maturing beans?",
+    "reference_answer": "E dey avoid drought and loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do extension services help pepper farmers reduce losses?",
+    "reference_answer": "They provide training on pest control and proper harvesting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is vegetable production important for food security?",
+    "reference_answer": "Vegetables provide fast-growing food sources.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does organic mulch improve soil fertility in vegetables?",
+    "reference_answer": "Organic mulch decomposes and adds nutrients to soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmers dey like white yam pass water yam?",
+    "reference_answer": "White yam sweet well and fit store longer.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does regular beans consumption support household nutrition?",
+    "reference_answer": "It supplies protein, fiber, and minerals.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How leaf miner dey affect vegetable photosynthesis?",
+    "reference_answer": "Leaf surface go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is biodiversity important on farms?",
+    "reference_answer": "Biodiversity supports pest control and ecosystem balance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How clean planting material dey reduce disease?",
+    "reference_answer": "E stop disease enter farm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does record keeping improve rice farm planning?",
+    "reference_answer": "It supports informed decision-making.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvest vegetable at correct maturity?",
+    "reference_answer": "If overgrow, quality go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How poor drainage dey cause pepper disease?",
+    "reference_answer": "Too much water dey help fungus grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should beans be harvested when pods turn yellow?",
+    "reference_answer": "Yellow pods indicate physiological maturity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How beans for rotation dey reduce fertilizer need?",
+    "reference_answer": "Nitrogen go remain for soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should produce be shaded immediately after harvest?",
+    "reference_answer": "Shade reduces heat stress and moisture loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How organic matter dey help pepper soil?",
+    "reference_answer": "E dey improve soil life and structure.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why seed certification important for maize?",
+    "reference_answer": "E dey make seed reliable and trusted.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why vegetable farmer dey stagger planting?",
+    "reference_answer": "If one fail, others go survive.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does irregular watering affect pepper fruit development?",
+    "reference_answer": "Irregular watering causes flower drop and uneven fruit size.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava dey grow well for acidic soil?",
+    "reference_answer": "Cassava fit manage small acidic soil but no dey do well for pH below 5.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How training dey improve rice yield?",
+    "reference_answer": "Decision and timing go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does improper land preparation affect yam yield?",
+    "reference_answer": "Poor preparation causes waterlogging, compact soil, and malformed tubers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why training important for yam farming?",
+    "reference_answer": "Training dey help farmer farm well and reduce loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How temperature dey affect banana ripening?",
+    "reference_answer": "Heat go make am ripe fast.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How good practice dey support food security?",
+    "reference_answer": "E dey ensure steady food supply.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bruise dey affect pineapple?",
+    "reference_answer": "E dey spoil fast and reduce quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does farmer cooperation improve pepper pest control?",
+    "reference_answer": "Collective action reduces reinfestation from nearby farms.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does overcrowding in vegetable nurseries affect seedlings?",
+    "reference_answer": "Overcrowding causes weak stems and increases disease risk.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does collective marketing improve beans production planning?",
+    "reference_answer": "Farmers coordinate planting and harvesting schedules.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which cassava varieties are commonly grown in Nigeria?",
+    "reference_answer": "Popular varieties include TMS 30572, TME 419, NR 8082, and TMS 98/0581.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should pepper farmers monitor weather forecasts?",
+    "reference_answer": "Weather awareness helps plan irrigation and disease control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why uniform maturity important?",
+    "reference_answer": "Processing and storage go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is leveling important in rice fields?",
+    "reference_answer": "Level fields ensure uniform water distribution.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin person dey use plant cassava?",
+    "reference_answer": "Na healthy stem wey be 20–25 cm long.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should pest control methods be rotated?",
+    "reference_answer": "Rotation prevents pests from developing resistance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why plantain value addition good for youth?",
+    "reference_answer": "No too much capital and skill.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What type of soil supports good pepper growth in Nigeria?",
+    "reference_answer": "Pepper grows best in well-drained loamy soil rich in organic matter.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does rice perform poorly on sandy soils without water control?",
+    "reference_answer": "Sandy soils drain water too quickly for rice needs.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How humidity dey encourage banana disease?",
+    "reference_answer": "Water dey help fungus grow.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin be the best land preparation for cassava?",
+    "reference_answer": "Ridge or mound dey better, especially for heavy soil, because e help drainage and root development.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How soil pH dey affect cassava?",
+    "reference_answer": "Cassava dey do well for small acidic soil pH 5.5–7.0.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dry weather during flowering dey affect maize?",
+    "reference_answer": "If rain no fall during flowering, pollination no go work well and cob go poor.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans good for climate-smart farming?",
+    "reference_answer": "E mature fast and improve soil.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why organic matter important for soil?",
+    "reference_answer": "E dey make soil rich and hold water well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How field stress dey affect beans hardness?",
+    "reference_answer": "Grain go hard.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How to stop cassava stick from drying?",
+    "reference_answer": "Keep am for moist sack or shade.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does sustainable pepper farming protect surrounding ecosystems?",
+    "reference_answer": "It minimizes chemical runoff and biodiversity loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does field stress affect rice milling recovery?",
+    "reference_answer": "Stressed grains break easily during milling.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is plantain farming attractive to young farmers?",
+    "reference_answer": "It offers steady harvest and learning opportunities.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Too much fertilizer fit affect cassava?",
+    "reference_answer": "Yes. If nitrogen too much, leaf go plenty but root go small.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does insurance improve resilience for yam farmers?",
+    "reference_answer": "Insurance helps farmers recover from climate and production losses.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farmer no dey plant cassava for waterlogged place?",
+    "reference_answer": "Because waterlogging dey make root rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why farm wey get plenty weed dey attract cassava pest?",
+    "reference_answer": "Weed dey hide pest and later dem go move reach cassava.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava need shade net?",
+    "reference_answer": "No, cassava like full sun.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why waterleaf important for Nigerian soup?",
+    "reference_answer": "E dey add taste, water and nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is seed purity important for beans planting?",
+    "reference_answer": "Pure seeds give uniform growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow for starch business?",
+    "reference_answer": "Yes. Variety wey get plenty starch dey used for industry starch.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why harvest beans when pod yellow?",
+    "reference_answer": "E show say beans don mature.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How conservation agriculture dey help maize?",
+    "reference_answer": "E dey keep soil healthy and hold water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why protected farming good for pepper?",
+    "reference_answer": "E dey protect plant from rain and pest.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are cassava fields with heavy weed growth more prone to pests?",
+    "reference_answer": "Weeds harbor pests that later migrate to cassava plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Person fit grow cassava organically?",
+    "reference_answer": "Yes, use compost, green manure, and organic pest control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can neem extract control cassava pests?",
+    "reference_answer": "Yes. Neem extract helps reduce populations of mites and whiteflies.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dirty farm dey increase pepper pest?",
+    "reference_answer": "Pest dey hide and breed for waste.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be grown in clay soils?",
+    "reference_answer": "Yes, but drainage must be improved.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is waterleaf recommended for improving blood health?",
+    "reference_answer": "Waterleaf contains iron which supports red blood cell formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does excessive rainfall affect cassava?",
+    "reference_answer": "Too much rain causes waterlogging, reducing tuber growth and increasing rot risk.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why beans important for future protein?",
+    "reference_answer": "E dey give plant protein.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does good agricultural practice improve farmer resilience?",
+    "reference_answer": "It reduces losses and improves adaptation capacity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana farming good for youth?",
+    "reference_answer": "Harvest dey steady and learning dey.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin dey make cassava stem rot after planting?",
+    "reference_answer": "Na sick or old stem dey rot quick.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should irrigation be reduced during heavy rainfall periods?",
+    "reference_answer": "Natural rainfall supplies enough water and prevents waterlogging.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does banana require high potassium supply?",
+    "reference_answer": "Potassium supports fruit development and quality.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does planting during extreme heat affect vegetable establishment?",
+    "reference_answer": "Heat stress reduces seedling survival and growth rate.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why remove fallen banana leaf?",
+    "reference_answer": "Pest and disease fit hide there.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How intercropping dey help banana farm?",
+    "reference_answer": "E dey reduce erosion and use land well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does climate variability affect rice planting decisions?",
+    "reference_answer": "Unpredictable rains affect timing and water supply.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do plantain farmers benefit from demonstration plots?",
+    "reference_answer": "They see improved practices in action.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How agroforestry dey help farming?",
+    "reference_answer": "Tree dey protect soil and improve environment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why no good store waterleaf for airtight container?",
+    "reference_answer": "Air no go pass and e go spoil quick.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is labor demand high during beans harvesting period?",
+    "reference_answer": "Harvesting must be done within a short time.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why women important for rice postharvest?",
+    "reference_answer": "Dem dey dry and parboil rice.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does organic matter improve yam yield?",
+    "reference_answer": "Organic matter improves soil structure and nutrients.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How extension worker fit help yam farmer?",
+    "reference_answer": "Dem dey teach better farming and disease control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow for flat land?",
+    "reference_answer": "Yes, but ridge go help water drain and help root grow better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is seed quality important in vegetable production?",
+    "reference_answer": "Good seed ensures uniform germination and healthy plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does slice thickness affect plantain drying quality?",
+    "reference_answer": "Uneven slices dry poorly.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is organic manure commonly used in vegetable production?",
+    "reference_answer": "It improves soil fertility and structure.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does nematode damage affect plantain stability?",
+    "reference_answer": "Root damage makes plants weak and easy to fall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does mobile extension service help vegetable farmers?",
+    "reference_answer": "It provides timely farming advice.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why are demonstration farms useful for beans farmers?",
+    "reference_answer": "They show improved practices in real conditions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmer cooperatives improve yam production outcomes?",
+    "reference_answer": "Cooperatives encourage knowledge sharing and access to services.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why plantain farming good for youth?",
+    "reference_answer": "Harvest dey steady and learning dey.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What planting material is used for cassava?",
+    "reference_answer": "Healthy stem cuttings of 20–25 cm length are used.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why planting maize every year dey increase pest?",
+    "reference_answer": "Pest go always get food and multiply.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is cleaning beans grains necessary after threshing?",
+    "reference_answer": "Cleaning removes debris and damaged grains.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do farmers prefer white yam over water yam in many Nigerian communities?",
+    "reference_answer": "White yam has better taste, texture, and storage ability than water yam.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Does cassava require pesticide application?",
+    "reference_answer": "Pesticides are used only when pest infestation becomes severe.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How field stress dey affect milling recovery?",
+    "reference_answer": "Grain go break.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How mealybug dey affect pineapple?",
+    "reference_answer": "Dem dey suck sap and spread disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit produce root for poor soil?",
+    "reference_answer": "E fit grow but e no go yield plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How long dry season dey affect banana?",
+    "reference_answer": "Fruit go small and flowering go delay.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does poor labor management affect banana yield?",
+    "reference_answer": "Neglected farms suffer pest and nutrient problems.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can cassava be intercropped with vegetables?",
+    "reference_answer": "Yes, vegetables with short growing cycles fit well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana farming go remain important?",
+    "reference_answer": "Food dey come steady.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is early planting effective in reducing maize streak disease incidence?",
+    "reference_answer": "Early planting avoids peak populations of leafhopper vectors that spread the disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do caterpillars affect waterleaf yield?",
+    "reference_answer": "Caterpillars eat the leaves, reducing harvest quantity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does banana consumption support digestion?",
+    "reference_answer": "It supplies dietary fiber that aids digestion.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How early planting dey reduce yam pest?",
+    "reference_answer": "Yam go strong before pest plenty.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Person fit intercrop cassava with cassava?",
+    "reference_answer": "No. If cassava too near each other, dem go compete and yield go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why record keeping important?",
+    "reference_answer": "E dey help farmer know wetin work and wetin no work.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does processing affect the nutritional value of maize?",
+    "reference_answer": "Processing can improve digestibility but may reduce some vitamins if poorly done.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest damages banana roots underground?",
+    "reference_answer": "Nematodes commonly damage banana roots.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How machine dey encourage youth?",
+    "reference_answer": "Hard work go reduce.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How rat dey spoil pineapple farm?",
+    "reference_answer": "Dem dey chop fruit and spoil plant.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does processing reduce postharvest losses in pineapple?",
+    "reference_answer": "Processing preserves excess fruits and extends usability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why hardening-off important before transplant?",
+    "reference_answer": "E dey prepare seedling for outside environment.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Can intercropping help reduce cassava pests?",
+    "reference_answer": "Yes. Intercropping with legumes reduces pest infestation by breaking pest cycles.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How resistant variety dey reduce pest damage for beans?",
+    "reference_answer": "Pest no fit feed or survive well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit use for animal food?",
+    "reference_answer": "Yes. Cassava peel and chips dey used feed animals.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava need plenty irrigation?",
+    "reference_answer": "No. E just need water when e small.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How late harvest dey affect yam storage?",
+    "reference_answer": "Overmature yam dey spoil faster.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is beans farming suitable for school demonstration plots?",
+    "reference_answer": "Beans grow fast and show results quickly.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why does pineapple spoil after harvest?",
+    "reference_answer": "Improper handling and high temperature cause spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is uniform planting depth important for maize field management?",
+    "reference_answer": "Uniform depth ensures even emergence, synchronized growth, and efficient fertilizer use.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does rough handling during harvest affect plantain quality?",
+    "reference_answer": "It causes bruises and early spoilage.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does conservation agriculture benefit maize farmers?",
+    "reference_answer": "It improves soil health, conserves moisture, and stabilizes yields over time.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which weeds commonly compete with yam during early growth?",
+    "reference_answer": "Fast-growing grasses and broadleaf weeds compete strongly with young yam plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit stop cassava stem from rotting before planting?",
+    "reference_answer": "Make dem use healthy stick wey no get disease and keep am for cool shade before planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which insect pest commonly attacks beans seedlings?",
+    "reference_answer": "Bean aphids commonly attack young seedlings.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How dry season dey increase vegetable pest?",
+    "reference_answer": "Dry weather dey help insect multiply.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does weed pressure affect beans flowering time?",
+    "reference_answer": "Competition delays flowering and maturity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is rice farming attractive to young farmers?",
+    "reference_answer": "It has quick turnover and high demand.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey turn banana to flour?",
+    "reference_answer": "To make am last long.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early land preparation important for beans farming?",
+    "reference_answer": "E help farmer plant early when rain start.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do rice fields attract armyworms?",
+    "reference_answer": "Dense foliage provides food and shelter.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does synchronized planting reduce bird damage in rice fields?",
+    "reference_answer": "It reduces the period grains are exposed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farm data dey help banana decision?",
+    "reference_answer": "E dey help planning.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do women play key roles in plantain processing?",
+    "reference_answer": "Processing fits household-based enterprises.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should fallen banana leaves be removed from the field?",
+    "reference_answer": "They can harbor pests and diseases.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How extension worker dey help pepper farmer?",
+    "reference_answer": "Dem dey teach pest control and harvesting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does backyard waterleaf farming support household nutrition?",
+    "reference_answer": "It provides quick access to fresh vegetables.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad ventilation dey affect yam for store?",
+    "reference_answer": "Heat and moisture go cause rot.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem no suppose cut stem from sick cassava plant?",
+    "reference_answer": "E go carry disease go new farm.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What happens if cassava is left too long in the soil?",
+    "reference_answer": "Roots become fibrous and the quality reduces.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does residue recycling reduce banana production cost?",
+    "reference_answer": "Recycled residues reduce need for external inputs.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why too much rain dey reduce pepper yield?",
+    "reference_answer": "Disease go increase and flower go fall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early weed control important for new banana farm?",
+    "reference_answer": "Weed no go compete for food and water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why banana dey suffer fast if water no dey?",
+    "reference_answer": "Big leaf dey lose water quick.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why vegetable farming important for sustainable agriculture?",
+    "reference_answer": "E dey support food, money and nutrition.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do seasonal records support rice input planning?",
+    "reference_answer": "They guide fertilizer and seed decisions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How banana weevil dey weaken plant?",
+    "reference_answer": "Dem dey dig hole inside stem.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow for waterlogged land?",
+    "reference_answer": "No. Waterlogged place dey make cassava rot and e no go sprout well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does field sanitation reduce banana disease pressure?",
+    "reference_answer": "It removes sources of infection.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does wrong fertilizer timing affect vegetable yield?",
+    "reference_answer": "Late or early application reduces nutrient uptake.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does seed selection affect crop uniformity?",
+    "reference_answer": "Good seed selection leads to uniform growth and maturity.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does planting density affect rice tiller formation?",
+    "reference_answer": "High density reduces space for tillering.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How bad harvesting dey affect produce?",
+    "reference_answer": "E dey damage crop and reduce shelf life.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early harvest bad for rice?",
+    "reference_answer": "Grain no mature well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How shade cooling dey help vegetable last?",
+    "reference_answer": "E dey reduce heat and water loss.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava need fertilizer to grow well?",
+    "reference_answer": "E fit grow without fertilizer, but if you add NPK, e go yield better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How planting material size dey affect yield?",
+    "reference_answer": "Bigger sucker dey give bigger fruit.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does sun drying duration affect beans seed quality?",
+    "reference_answer": "Excessive drying reduces seed viability.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does transplant shock affect early rice growth?",
+    "reference_answer": "Roots take time to recover, slowing early growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should tools be disinfected when working in pepper farms?",
+    "reference_answer": "Disinfection prevents disease transmission between plants.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should plantain farmers keep farm records?",
+    "reference_answer": "Records help track farm performance.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can mobile advisory services improve maize farm decision-making?",
+    "reference_answer": "They provide timely weather, pest, and management information.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why will banana remain important in Nigerian agriculture?",
+    "reference_answer": "It meets food, nutrition, and income needs.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why can excessive nitrogen reduce yam tuber formation?",
+    "reference_answer": "Too much nitrogen favors vines over tubers, reducing yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is farmer training important for vegetable production?",
+    "reference_answer": "Training improves adoption of good farming practices.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is drying commonly used to preserve pepper in Nigeria?",
+    "reference_answer": "Drying reduces moisture and prevents microbial growth.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why is farmer training important for sustainable pepper production?",
+    "reference_answer": "Training improves decision-making and resource management.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should fertilizers be applied based on crop needs?",
+    "reference_answer": "Correct fertilizer use prevents waste and improves crop yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do weeds affect pineapple nutrient availability?",
+    "reference_answer": "Weeds compete for soil nutrients and water.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava fit grow for poor soil?",
+    "reference_answer": "Cassava fit survive for poor soil but yield go reduce if fertiliser no dey.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Should cassava cuttings have many nodes?",
+    "reference_answer": "Yes. 5–7 nodes improve sprouting and root formation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers select good seed yams from harvest?",
+    "reference_answer": "Select healthy, medium-sized, disease-free tubers.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How seasonal record dey help planning?",
+    "reference_answer": "Input decision go better.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does correct row alignment improve farm management?",
+    "reference_answer": "Row alignment allows easy weeding and harvesting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does selecting drought-tolerant maize varieties help farmers in northern Nigeria?",
+    "reference_answer": "Drought-tolerant varieties maintain growth and yield under low rainfall conditions common in northern regions.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How modern research fit help traditional yam farming?",
+    "reference_answer": "E dey add better method without spoil local one.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What happens if cassava is harvested too early?",
+    "reference_answer": "Roots are small and not fully developed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How windbreak dey help plantain?",
+    "reference_answer": "E dey reduce wind strength.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When pineapple ready to harvest?",
+    "reference_answer": "When color change and e get smell.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Cassava stem fit plant flat?",
+    "reference_answer": "Yes, e good for dry area because e dey pick water well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why early warning important for maize pest?",
+    "reference_answer": "E dey give farmer time to act early.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem dey raise rice for nursery first?",
+    "reference_answer": "Nursery dey help seedling grow uniform.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does alternate wetting and drying affect rice yield?",
+    "reference_answer": "It saves water without reducing yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How many times person suppose weed cassava after first weeding?",
+    "reference_answer": "You suppose weed am two to three times for the first three months.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Which pest dey curl pepper leaf?",
+    "reference_answer": "Aphid dey suck juice make leaf bend.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Dem suppose put fertilizer after cassava planting?",
+    "reference_answer": "Yes. You fit add fertilizer 6–8 weeks after planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why correct planting depth important for beans?",
+    "reference_answer": "Seed go come out strong.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Wetin happen if nitrogen too much for maize?",
+    "reference_answer": "Leaf go too grow, stem go weak and maize fit fall.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why should rice be harvested at full maturity?",
+    "reference_answer": "Full maturity ensures maximum grain weight.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why hard to notice weevil early?",
+    "reference_answer": "Dem dey feed inside stem.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Should cassava leaves be removed to increase tuber yield?",
+    "reference_answer": "No, removing leaves reduces photosynthesis and lowers yield.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the recommended method to control cassava green mite?",
+    "reference_answer": "Use resistant varieties, biological control with predatory mites, and proper field sanitation.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How does community coordination reduce rice crop losses?",
+    "reference_answer": "Farmers synchronize planting and pest control.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why planting depth important for vegetable seed?",
+    "reference_answer": "If depth wrong, seed no go germinate well.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When yam planting dey start for south Nigeria?",
+    "reference_answer": "Dem dey plant yam when rain just start around March to April.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why mulching good for pepper?",
+    "reference_answer": "E dey hold water and stop weed.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How farmer fit choose good seed yam?",
+    "reference_answer": "Choose healthy yam wey no get disease.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can improved irrigation infrastructure transform rice production?",
+    "reference_answer": "It enables year-round cultivation and stable yields.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What type of soil is most suitable for yam cultivation in Nigeria?",
+    "reference_answer": "Yam grows best in deep, loose, well-drained sandy loam or loam soils that allow tubers to expand freely.",
+    "generated_answer": ""
+  },
+  {
+    "query": "What is the major cause of cassava root bitterness?",
+    "reference_answer": "Poor variety selection and stress conditions increase bitterness.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do records help monitor pest outbreaks?",
+    "reference_answer": "Records show when and where pests occurred.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How can farmers reduce whitefly populations?",
+    "reference_answer": "Use resistant varieties, maintain field hygiene, and avoid late planting.",
+    "generated_answer": ""
+  },
+  {
+    "query": "How do rodents contribute to maize post-harvest losses?",
+    "reference_answer": "Rodents consume grains, contaminate stores, and create entry points for insects.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why dem suppose harvest waterleaf gently?",
+    "reference_answer": "So e fit grow again.",
+    "generated_answer": ""
+  },
+  {
+    "query": "When should cassava stems be collected for replanting?",
+    "reference_answer": "Stems should be collected immediately after harvesting when they are still fresh.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why do some cassava varieties mature earlier than others?",
+    "reference_answer": "Genetic differences make some varieties mature in 8 months while others take 12 months or more.",
+    "generated_answer": ""
+  },
+  {
+    "query": "Why no mix bad yam with good one?",
+    "reference_answer": "Bad yam fit spoil good one.",
+    "generated_answer": ""
+  }
+]

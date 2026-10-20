@@ -1,0 +1,266 @@
+[
+  {
+    "id": "yam_1",
+    "crop": "yam",
+    "pest": "Nematodes",
+    "symptoms": "Root galls, stunting",
+    "management_en": "Use nematode-free seed, rotate with cereals, apply organic matter, use nematicides when confirmed.",
+    "management_pg": "Use nematode-free seed, rotate with cereals, spray organic matter, use nematicides when confirmed."
+  },
+  {
+    "id": "yam_2",
+    "crop": "yam",
+    "pest": "Anthracnose",
+    "symptoms": "Black lesions, stem canker",
+    "management_en": "Use clean seed, avoid overhead irrigation, apply copper fungicides.",
+    "management_pg": "Use clean seed, avoid overhead irrigation, spray copper fungicides."
+  },
+  {
+    "id": "yam_3",
+    "crop": "yam",
+    "pest": "Yam Beetle",
+    "symptoms": "Holes in tubers",
+    "management_en": "Plant early, use traps, treat soil with approved insecticides.",
+    "management_pg": "Plant early, use traps, treat soil with approved insecticides."
+  },
+  {
+    "id": "rice_4",
+    "crop": "rice",
+    "pest": "Rice Blast",
+    "symptoms": "Diamond lesions",
+    "management_en": "Use resistant varieties, balanced N, apply triazole/strobilurin fungicides.",
+    "management_pg": "Use resistant varieties, balanced N, spray triazole/strobilurin fungicides."
+  },
+  {
+    "id": "rice_5",
+    "crop": "rice",
+    "pest": "BPH",
+    "symptoms": "Hopperburn",
+    "management_en": "Use resistant varieties, avoid excess N, use biological control.",
+    "management_pg": "Use resistant varieties, avoid excess N, use biological control."
+  },
+  {
+    "id": "rice_6",
+    "crop": "rice",
+    "pest": "Stem Borer",
+    "symptoms": "Dead hearts",
+    "management_en": "Destroy stubble, use pheromone traps, apply selective insecticides.",
+    "management_pg": "Destroy stubble, use pheromone traps, spray selective insecticides."
+  },
+  {
+    "id": "maize_7",
+    "crop": "maize",
+    "pest": "Fall Armyworm",
+    "symptoms": "Leaf damage",
+    "management_en": "Scout early, Bt biopesticide, selective insecticides.",
+    "management_pg": "Scout early, Bt biopesticide, selective insecticides."
+  },
+  {
+    "id": "maize_8",
+    "crop": "maize",
+    "pest": "MSV",
+    "symptoms": "Streaks",
+    "management_en": "Plant resistant hybrids, rogue infected plants.",
+    "management_pg": "Plant resistant hybrids, rogue infected plants."
+  },
+  {
+    "id": "maize_9",
+    "crop": "maize",
+    "pest": "Stem Borer",
+    "symptoms": "Tunneling",
+    "management_en": "Use push-pull, pheromone traps, treat seeds with approved insecticide.",
+    "management_pg": "Use push-pull, pheromone traps, treat seeds with approved insecticide."
+  },
+  {
+    "id": "plantain_10",
+    "crop": "plantain",
+    "pest": "Black Sigatoka",
+    "symptoms": "Leaf streaks",
+    "management_en": "Remove infected leaves, rotate fungicides.",
+    "management_pg": "Remove infected leaves, rotate fungicides."
+  },
+  {
+    "id": "plantain_11",
+    "crop": "plantain",
+    "pest": "Weevil",
+    "symptoms": "Corm damage",
+    "management_en": "Trap adults, use clean suckers.",
+    "management_pg": "Trap adults, use clean suckers."
+  },
+  {
+    "id": "plantain_12",
+    "crop": "plantain",
+    "pest": "Banana Aphid",
+    "symptoms": "Virus vector",
+    "management_en": "Control aphids, remove infected mats.",
+    "management_pg": "Control aphids, remove infected mats."
+  },
+  {
+    "id": "cassava_13",
+    "crop": "cassava",
+    "pest": "CMD",
+    "symptoms": "Mosaic",
+    "management_en": "Use clean cuttings, rogue infected.",
+    "management_pg": "Use clean cuttings, rogue infected."
+  },
+  {
+    "id": "cassava_14",
+    "crop": "cassava",
+    "pest": "CGM",
+    "symptoms": "Leaf yellowing",
+    "management_en": "Natural enemies, neem sprays.",
+    "management_pg": "Natural enemies, neem sprays."
+  },
+  {
+    "id": "cassava_15",
+    "crop": "cassava",
+    "pest": "Whiteflies",
+    "symptoms": "Sooty mold",
+    "management_en": "Remove weeds, use reflective mulch.",
+    "management_pg": "Remove weeds, use reflective mulch."
+  },
+  {
+    "id": "beans_16",
+    "crop": "beans",
+    "pest": "Aphids",
+    "symptoms": "Honeydew",
+    "management_en": "Introduce predators, neem.",
+    "management_pg": "Introduce predators, neem."
+  },
+  {
+    "id": "beans_17",
+    "crop": "beans",
+    "pest": "Bean Rust",
+    "symptoms": "Pustules",
+    "management_en": "Apply fungicide.",
+    "management_pg": "Spray fungicide."
+  },
+  {
+    "id": "beans_18",
+    "crop": "beans",
+    "pest": "Pod Borers",
+    "symptoms": "Holes",
+    "management_en": "Handpick larvae, Bt sprays.",
+    "management_pg": "Handpick larvae, Bt sprays."
+  },
+  {
+    "id": "pineapple_19",
+    "crop": "pineapple",
+    "pest": "Mealybug",
+    "symptoms": "Sooty mold",
+    "management_en": "Control ants, systemic insecticides.",
+    "management_pg": "Control ants, systemic insecticides."
+  },
+  {
+    "id": "pineapple_20",
+    "crop": "pineapple",
+    "pest": "Heart Rot",
+    "symptoms": "Rotting center",
+    "management_en": "Improve drainage, fungicides.",
+    "management_pg": "Improve drainage, fungicides."
+  },
+  {
+    "id": "pineapple_21",
+    "crop": "pineapple",
+    "pest": "Scale Insects",
+    "symptoms": "Leaf yellowing",
+    "management_en": "Use horticultural oil.",
+    "management_pg": "Use horticultural oil."
+  },
+  {
+    "id": "banana_22",
+    "crop": "banana",
+    "pest": "BBTV",
+    "symptoms": "Bunching",
+    "management_en": "Use clean suckers, control aphids.",
+    "management_pg": "Use clean suckers, control aphids."
+  },
+  {
+    "id": "banana_23",
+    "crop": "banana",
+    "pest": "Weevils",
+    "symptoms": "Corm tunneling",
+    "management_en": "Use traps, sanitation.",
+    "management_pg": "Use traps, sanitation."
+  },
+  {
+    "id": "banana_24",
+    "crop": "banana",
+    "pest": "Sigatoka",
+    "symptoms": "Leaf streaks",
+    "management_en": "Remove infected leaves.",
+    "management_pg": "Remove infected leaves."
+  },
+  {
+    "id": "waterleaf_25",
+    "crop": "waterleaf",
+    "pest": "Leaf Miner",
+    "symptoms": "Mines",
+    "management_en": "Remove affected leaves.",
+    "management_pg": "Remove affected leaves."
+  },
+  {
+    "id": "waterleaf_26",
+    "crop": "waterleaf",
+    "pest": "Leaf Spot",
+    "symptoms": "Brown patches",
+    "management_en": "Fungicide spray.",
+    "management_pg": "Fungicide spray."
+  },
+  {
+    "id": "waterleaf_27",
+    "crop": "waterleaf",
+    "pest": "Caterpillars",
+    "symptoms": "Defoliation",
+    "management_en": "Hand removal, Bt.",
+    "management_pg": "Hand removal, Bt."
+  },
+  {
+    "id": "vegetables_28",
+    "crop": "vegetables",
+    "pest": "Cutworms",
+    "symptoms": "Cut stems",
+    "management_en": "Soil tilling, barriers.",
+    "management_pg": "Soil tilling, barriers."
+  },
+  {
+    "id": "vegetables_29",
+    "crop": "vegetables",
+    "pest": "Powdery Mildew",
+    "symptoms": "White film",
+    "management_en": "Sulphur spray.",
+    "management_pg": "Sulphur spray."
+  },
+  {
+    "id": "vegetables_30",
+    "crop": "vegetables",
+    "pest": "Aphids",
+    "symptoms": "Distortion",
+    "management_en": "Use soap spray.",
+    "management_pg": "Use soap spray."
+  },
+  {
+    "id": "pepper_31",
+    "crop": "pepper",
+    "pest": "Bacterial Spot",
+    "symptoms": "Spots",
+    "management_en": "Copper spray, avoid overhead watering.",
+    "management_pg": "Copper spray, avoid overhead watering."
+  },
+  {
+    "id": "pepper_32",
+    "crop": "pepper",
+    "pest": "Thrips",
+    "symptoms": "Silvering",
+    "management_en": "Sticky traps.",
+    "management_pg": "Sticky traps."
+  },
+  {
+    "id": "pepper_33",
+    "crop": "pepper",
+    "pest": "Fruit Borer",
+    "symptoms": "Holes",
+    "management_en": "Bt spray, sanitation.",
+    "management_pg": "Bt spray, sanitation."
+  }
+]

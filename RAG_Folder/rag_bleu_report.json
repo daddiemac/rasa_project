@@ -1,0 +1,8 @@
+{
+  "total_queries": 1000,
+  "bleu_1": 0.9478,
+  "bleu_2": 0.9417,
+  "bleu_4": 0.9274,
+  "average_bleu": 0.9274,
+  "top_k": 5
+}

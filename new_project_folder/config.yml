@@ -1,0 +1,42 @@
+version: "3.1"
+
+language: en
+
+pipeline:
+- name: WhitespaceTokenizer
+
+- name: RegexFeaturizer
+
+  # Character n-grams (sub-word representations for pidgin & orthographic variation)
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 3
+  max_ngram: 5
+
+  # AfroXLM-R Multilingual Transformer Backbone
+- name: LanguageModelFeaturizer
+  model_name: "xlmroberta"
+  model_weights: "Davlan/afro-xlmr-base"
+
+  # DIET Classifier (Multi-Task Intent Recognition)
+- name: DIETClassifier
+  epochs: 100
+  constrain_similarities: true
+  entity_recognition: false
+  tensorboard_log_directory: "./tensorboard_logs"
+  tensorboard_log_level: "epoch"
+
+- name: EntitySynonymMapper
+
+  # Fallback Classifier for out-of-scope & RAG routing
+- name: FallbackClassifier
+  threshold: 0.009
+  ambiguity_threshold: 0.009
+
+policies:
+- name: MemoizationPolicy
+- name: RulePolicy
+  core_fallback_threshold: 0.3
+  nlu_threshold: 0.3
+
+assistant_id: 20251218-215237-one-hotel

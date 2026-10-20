@@ -1,0 +1,6268 @@
+version: "3.1"
+
+nlu:
+- intent: ask_maize_1
+  examples: |
+    - What soil characteristics are most suitable for maize production in southern Nigeria?
+    - Which kind soil maize dey like pass for southern Nigeria?
+
+- intent: ask_maize_2
+  examples: |
+    - Why is good drainage important for maize farms during the rainy season?
+    - Why good drainage important for maize farm when rain plenty?
+
+- intent: ask_maize_3
+  examples: |
+    - How does planting maize early in the rainy season benefit farmers in Nigeria?
+    - How early planting dey help maize farmer for Nigeria?
+
+- intent: ask_maize_4
+  examples: |
+    - What problems can arise if maize is planted too late in the season?
+    - Wetin fit happen if farmer plant maize late?
+
+- intent: ask_maize_5
+  examples: |
+    - Why is nitrogen important for maize growth?
+    - Why nitrogen important for maize?
+
+- intent: ask_maize_6
+  examples: |
+    - How can farmers recognize nitrogen deficiency in maize fields?
+    - How farmer fit know say maize get nitrogen problem?
+
+- intent: ask_maize_7
+  examples: |
+    - What is the role of phosphorus in maize development?
+    - Wetin phosphorus dey do for maize?
+
+- intent: ask_maize_8
+  examples: |
+    - How does potassium deficiency affect maize yield?
+    - How potassium problem fit affect maize yield?
+
+- intent: ask_maize_9
+  examples: |
+    - Which growth stage of maize is most sensitive to water stress?
+    - Which time maize dey suffer water stress pass?
+
+- intent: ask_maize_10
+  examples: |
+    - How does drought during flowering affect maize production?
+    - How dry weather during flowering dey affect maize?
+
+- intent: ask_maize_11
+  examples: |
+    - Why is early weed control important in maize farms?
+    - Why early weeding important for maize?
+
+- intent: ask_maize_12
+  examples: |
+    - What are the effects of uncontrolled weeds on maize yield?
+    - Wetin weed wey no controlled fit do maize?
+
+- intent: ask_maize_13
+  examples: |
+    - What insect pest commonly attacks maize leaves in Nigerian farms?
+    - Which insect dey attack maize leaf for Nigeria?
+
+- intent: ask_maize_14
+  examples: |
+    - How can farmers identify fall armyworm damage on maize?
+    - How farmer fit know say fall armyworm don attack maize?
+
+- intent: ask_maize_15
+  examples: |
+    - Why is early detection of fall armyworm important?
+    - Why early detection of fall armyworm important?
+
+- intent: ask_maize_16
+  examples: |
+    - How does planting date influence fall armyworm infestation in maize fields?
+    - How planting time dey affect fall armyworm for maize?
+
+- intent: ask_maize_17
+  examples: |
+    - What cultural practices reduce fall armyworm pressure in maize farms?
+    - Which farm practice fit reduce fall armyworm for maize?
+
+- intent: ask_maize_18
+  examples: |
+    - How can farmers distinguish fall armyworm damage from nutrient deficiency?
+    - How farmer fit know pest damage from nutrient problem?
+
+- intent: ask_maize_19
+  examples: |
+    - What natural enemies help control maize insect pests?
+    - Which natural enemy dey help control maize pest?
+
+- intent: ask_maize_20
+  examples: |
+    - Why is integrated pest management recommended for maize production?
+    - Why IPM better for maize pest control?
+
+- intent: ask_maize_21
+  examples: |
+    - How does plant spacing influence maize cob size and yield?
+    - How spacing fit affect maize cob and yield?
+
+- intent: ask_maize_22
+  examples: |
+    - What risks are associated with overcrowding maize plants on the field?
+    - Wetin fit happen if maize too plenty for one area?
+
+- intent: ask_maize_23
+  examples: |
+    - Why is thinning sometimes necessary after maize germination?
+    - Why farmer dey thin maize after e germinate?
+
+- intent: ask_maize_24
+  examples: |
+    - Why do improved maize varieties perform better than local varieties in many Nigerian farms?
+    - Why improved maize seed dey perform better pass local one?
+
+- intent: ask_maize_25
+  examples: |
+    - How does selecting drought-tolerant maize varieties help farmers in northern Nigeria?
+    - How drought-tolerant maize seed dey help farmer for north?
+
+- intent: ask_maize_26
+  examples: |
+    - Why should fertilizer be applied in split doses for maize?
+    - Why farmer dey apply fertilizer in parts for maize?
+
+- intent: ask_maize_27
+  examples: |
+    - How does excessive nitrogen application affect maize plants?
+    - Wetin happen if nitrogen too much for maize?
+
+- intent: ask_maize_28
+  examples: |
+    - Why is soil testing important before fertilizer application in maize farming?
+    - Why soil test important before fertilizer for maize?
+
+- intent: ask_maize_29
+  examples: |
+    - How does delayed weeding affect maize nutrient uptake?
+    - How late weeding dey affect maize food?
+
+- intent: ask_maize_30
+  examples: |
+    - Why are weeds more competitive with maize during early growth stages?
+    - Why weed dey worry maize pass when e small?
+
+- intent: ask_maize_31
+  examples: |
+    - Which pest commonly damages maize stems and causes plant lodging?
+    - Which pest dey damage maize stem make plant fall?
+
+- intent: ask_maize_32
+  examples: |
+    - How can farmers detect stem borer infestation in maize fields?
+    - How farmer fit know say stem borer don attack maize?
+
+- intent: ask_maize_33
+  examples: |
+    - Why are maize stem borers difficult to control once inside the plant?
+    - Why stem borer hard to control when e enter maize?
+
+- intent: ask_maize_34
+  examples: |
+    - How does timely planting help reduce stem borer infestation?
+    - How early planting dey reduce stem borer problem?
+
+- intent: ask_maize_35
+  examples: |
+    - What role does field sanitation play in controlling maize stem borers?
+    - How field cleaning dey help control stem borer?
+
+- intent: ask_maize_36
+  examples: |
+    - Why is crop rotation effective against maize insect pests?
+    - Why crop rotation dey help against maize pest?
+
+- intent: ask_maize_37
+  examples: |
+    - What fungal disease causes leaf spots on maize plants?
+    - Which disease dey cause spot for maize leaf?
+
+- intent: ask_maize_38
+  examples: |
+    - How does high humidity encourage maize fungal diseases?
+    - How high humidity dey cause maize disease?
+
+- intent: ask_maize_39
+  examples: |
+    - Why is resistant maize variety selection important for disease management?
+    - Why resistant maize seed important against disease?
+
+- intent: ask_maize_40
+  examples: |
+    - How can farmers know when maize is ready for harvest?
+    - How farmer fit know say maize don ready harvest?
+
+- intent: ask_maize_41
+  examples: |
+    - Why should maize not be harvested too early?
+    - Why no good to harvest maize early?
+
+- intent: ask_maize_42
+  examples: |
+    - How does delayed harvesting affect maize grain quality?
+    - How late harvest dey affect maize grain?
+
+- intent: ask_maize_43
+  examples: |
+    - Why is proper drying important before storing maize grains?
+    - Why drying maize important before storage?
+
+- intent: ask_maize_44
+  examples: |
+    - How can poor storage practices increase maize losses?
+    - How bad storage dey cause maize loss?
+
+- intent: ask_maize_45
+  examples: |
+    - Why are hermetic storage methods recommended for maize in Nigeria?
+    - Why hermetic storage good for maize?
+
+- intent: ask_maize_46
+  examples: |
+    - How does climate variability affect maize planting decisions in Nigeria?
+    - How climate change dey affect maize planting?
+
+- intent: ask_maize_47
+  examples: |
+    - Why are short-duration maize varieties useful under changing climate conditions?
+    - Why short-time maize seed good for climate wahala?
+
+- intent: ask_maize_48
+  examples: |
+    - How can extension services improve maize productivity among smallholder farmers?
+    - How extension worker fit help maize farmer?
+
+- intent: ask_maize_49
+  examples: |
+    - Why is farmer education important for effective maize pest management?
+    - Why farmer education important for maize pest control?
+
+- intent: ask_maize_50
+  examples: |
+    - How does farmer record-keeping support improved maize farm management?
+    - How record-keeping dey help maize farmer?
+
+- intent: ask_maize_51
+  examples: |
+    - How does soil compaction affect maize root development?
+    - How hard soil dey affect maize root?
+
+- intent: ask_maize_52
+  examples: |
+    - Why is organic matter important for sustaining maize production over time?
+    - Why organic matter important for maize farm long term?
+
+- intent: ask_maize_53
+  examples: |
+    - How does planting depth influence maize seedling emergence?
+    - How planting depth dey affect maize emergence?
+
+- intent: ask_maize_54
+  examples: |
+    - Why is uniform planting depth important for maize field management?
+    - Why equal planting depth important for maize?
+
+- intent: ask_maize_55
+  examples: |
+    - How does zinc deficiency manifest in maize plants?
+    - How zinc problem dey show for maize?
+
+- intent: ask_maize_56
+  examples: |
+    - Why are micronutrients important even when major nutrients are sufficient?
+    - Why small nutrients still important for maize?
+
+- intent: ask_maize_57
+  examples: |
+    - How does poor water management increase nutrient loss in maize fields?
+    - How bad water management dey waste maize fertilizer?
+
+- intent: ask_maize_58
+  examples: |
+    - Why is supplemental irrigation useful for dry-season maize farming?
+    - Why irrigation good for dry-season maize?
+
+- intent: ask_maize_59
+  examples: |
+    - How does weed seed bank buildup affect future maize crops?
+    - How weed seed plenty dey affect future maize?
+
+- intent: ask_maize_60
+  examples: |
+    - Why is integrated weed management important for sustainable maize production?
+    - Why combine weed control method for maize?
+
+- intent: ask_maize_61
+  examples: |
+    - Which pest commonly attacks maize grains during storage in Nigeria?
+    - Which pest dey attack maize grain for storage?
+
+- intent: ask_maize_62
+  examples: |
+    - How can farmers reduce maize weevil infestation without chemicals?
+    - How farmer fit reduce maize weevil without chemical?
+
+- intent: ask_maize_63
+  examples: |
+    - Why does delayed drying increase storage pest damage in maize?
+    - Why late drying dey increase storage pest?
+
+- intent: ask_maize_64
+  examples: |
+    - How do rodents contribute to maize post-harvest losses?
+    - How rat dey cause maize loss after harvest?
+
+- intent: ask_maize_65
+  examples: |
+    - Why is field hygiene important for reducing carryover of maize pests?
+    - Why clean farm dey help reduce maize pest?
+
+- intent: ask_maize_66
+  examples: |
+    - How does maize streak disease affect plant productivity?
+    - How maize streak disease dey affect yield?
+
+- intent: ask_maize_67
+  examples: |
+    - Why is early planting effective in reducing maize streak disease incidence?
+    - Why early planting dey reduce maize streak disease?
+
+- intent: ask_maize_68
+  examples: |
+    - How does harvesting maize at physiological maturity improve grain quality?
+    - Why harvesting maize at maturity good?
+
+- intent: ask_maize_69
+  examples: |
+    - How does aflatoxin contamination occur in poorly stored maize?
+    - How aflatoxin dey enter maize for storage?
+
+- intent: ask_maize_70
+  examples: |
+    - Why is sorting damaged maize grains before storage important?
+    - Why remove bad maize grain before storage?
+
+- intent: ask_maize_71
+  examples: |
+    - How does excessive rainfall affect maize root health?
+    - How too much rain dey affect maize root?
+
+- intent: ask_maize_72
+  examples: |
+    - Why is climate-smart agriculture important for maize farmers in Nigeria?
+    - Why climate-smart farming important for maize?
+
+- intent: ask_maize_73
+  examples: |
+    - How does mechanized land preparation benefit maize production?
+    - How machine land preparation dey help maize?
+
+- intent: ask_maize_74
+  examples: |
+    - Why is inappropriate mechanization risky for small maize farms?
+    - Why wrong machine fit cause problem for maize farm?
+
+- intent: ask_maize_75
+  examples: |
+    - Why should farmers avoid replanting grain from hybrid maize?
+    - Why no good to replant hybrid maize grain?
+
+- intent: ask_maize_76
+  examples: |
+    - How does seed quality influence maize stand establishment?
+    - How good seed dey affect maize stand?
+
+- intent: ask_maize_77
+  examples: |
+    - Why does monocropping increase pest pressure in maize fields?
+    - Why planting maize every year dey increase pest?
+
+- intent: ask_maize_78
+  examples: |
+    - How can intercropping reduce pest damage in maize farms?
+    - How intercropping dey reduce maize pest?
+
+- intent: ask_maize_79
+  examples: |
+    - Why is farmer field school effective for maize knowledge transfer?
+    - Why farmer field school dey work well?
+
+- intent: ask_maize_80
+  examples: |
+    - How does participatory research improve maize technology adoption?
+    - How farmer involvement dey help maize innovation?
+
+- intent: ask_maize_81
+  examples: |
+    - How does yield variability affect maize farm planning?
+    - How yield change dey affect maize planning?
+
+- intent: ask_maize_82
+  examples: |
+    - Why is diversification important for maize-based farming systems?
+    - Why mixing crops important with maize?
+
+- intent: ask_maize_83
+  examples: |
+    - Why is maize an important staple food in Nigeria?
+    - Why maize important food for Nigeria?
+
+- intent: ask_maize_84
+  examples: |
+    - How does processing affect the nutritional value of maize?
+    - How processing dey affect maize nutrition?
+
+- intent: ask_maize_85
+  examples: |
+    - Why is residue management important in sustainable maize farming?
+    - Why maize residue important for sustainability?
+
+- intent: ask_maize_86
+  examples: |
+    - How does conservation agriculture benefit maize farmers?
+    - How conservation agriculture dey help maize?
+
+- intent: ask_maize_87
+  examples: |
+    - How can government extension programs support maize productivity?
+    - How government program fit help maize farmer?
+
+- intent: ask_maize_88
+  examples: |
+    - Why is seed certification important for maize sector development?
+    - Why seed certification important for maize?
+
+- intent: ask_maize_89
+  examples: |
+    - How does women's participation influence maize production outcomes?
+    - How women involvement dey affect maize production?
+
+- intent: ask_maize_90
+  examples: |
+    - Why is maize farming attractive to young farmers?
+    - Why maize dey attract young farmer?
+
+- intent: ask_maize_91
+  examples: |
+    - How can mobile advisory services improve maize farm decision-making?
+    - How phone advisory fit help maize farmer?
+
+- intent: ask_maize_92
+  examples: |
+    - Why is data collection important for maize research and extension?
+    - Why data important for maize research?
+
+- intent: ask_maize_93
+  examples: |
+    - How do pests and diseases increase production risk in maize farming?
+    - How pest and disease dey increase risk for maize?
+
+- intent: ask_maize_94
+  examples: |
+    - Why is early warning important for maize pest outbreaks?
+    - Why early warning important for maize pest?
+
+- intent: ask_maize_95
+  examples: |
+    - Why is continuous training important for maize farmers?
+    - Why training important for maize farmer?
+
+- intent: ask_maize_96
+  examples: |
+    - How does peer learning strengthen maize production systems?
+    - How farmer-to-farmer learning dey help maize?
+
+- intent: ask_maize_97
+  examples: |
+    - Why is monitoring crop performance important during the maize season?
+    - Why monitoring maize important during season?
+
+- intent: ask_maize_98
+  examples: |
+    - How does yield assessment support future maize planning?
+    - How yield assessment dey help maize planning?
+
+- intent: ask_maize_99
+  examples: |
+    - How does maize fit into mixed farming systems in Nigeria?
+    - How maize dey work with mixed farming?
+
+- intent: ask_maize_100
+  examples: |
+    - Why is systems thinking important for sustainable maize production?
+    - Why systems thinking important for maize farming?
+
+- intent: ask_yam_101
+  examples: |
+    - What type of soil is most suitable for yam cultivation in Nigeria?
+    - Which kind soil yam dey like for Nigeria?
+
+- intent: ask_yam_102
+  examples: |
+    - Why is soil depth important for yam tuber development?
+    - Why soil depth important for yam tuber?
+
+- intent: ask_yam_103
+  examples: |
+    - Why are heaps or ridges commonly used for yam planting?
+    - Why farmer dey use heap or ridge plant yam?
+
+- intent: ask_yam_104
+  examples: |
+    - How does improper land preparation affect yam yield?
+    - How bad land preparation dey affect yam?
+
+- intent: ask_yam_105
+  examples: |
+    - What planting material is commonly used for yam propagation?
+    - Wetin dem dey use take plant yam?
+
+- intent: ask_yam_106
+  examples: |
+    - Why should only healthy yam setts be used for planting?
+    - Why only healthy yam sett good for planting?
+
+- intent: ask_yam_107
+  examples: |
+    - When is the best planting time for yam in southern Nigeria?
+    - When yam planting dey start for south Nigeria?
+
+- intent: ask_yam_108
+  examples: |
+    - How does delayed yam planting affect tuber yield?
+    - How late planting dey affect yam yield?
+
+- intent: ask_yam_109
+  examples: |
+    - Why is staking important in yam production?
+    - Why staking important for yam?
+
+- intent: ask_yam_110
+  examples: |
+    - What problems occur when yam vines are not staked?
+    - Wetin happen if yam no get stake?
+
+- intent: ask_yam_111
+  examples: |
+    - Why does yam require fertile soil for good yield?
+    - Why yam need fertile soil?
+
+- intent: ask_yam_112
+  examples: |
+    - How does nitrogen affect yam vine growth?
+    - How nitrogen dey affect yam vine?
+
+- intent: ask_yam_113
+  examples: |
+    - Why can excessive nitrogen reduce yam tuber formation?
+    - Why too much nitrogen fit reduce yam tuber?
+
+- intent: ask_yam_114
+  examples: |
+    - Why is early weeding important in yam farms?
+    - Why early weeding important for yam?
+
+- intent: ask_yam_115
+  examples: |
+    - How does heavy weed infestation affect yam tuber quality?
+    - How plenty weed dey affect yam tuber?
+
+- intent: ask_yam_116
+  examples: |
+    - Which insect pest commonly attacks yam tubers in the soil?
+    - Which insect dey attack yam tuber for ground?
+
+- intent: ask_yam_117
+  examples: |
+    - How can farmers identify yam beetle damage?
+    - How farmer fit know yam beetle damage?
+
+- intent: ask_yam_118
+  examples: |
+    - Why does late harvesting increase yam beetle damage?
+    - Why late harvest dey increase yam beetle?
+
+- intent: ask_yam_119
+  examples: |
+    - How does mulching influence pest pressure in yam fields?
+    - How mulching dey affect yam pest?
+
+- intent: ask_yam_120
+  examples: |
+    - Why is crop rotation effective in reducing yam pest buildup?
+    - Why crop rotation dey help reduce yam pest?
+
+- intent: ask_yam_121
+  examples: |
+    - What disease causes yam tuber rot during storage?
+    - Which disease dey cause yam rot for store?
+
+- intent: ask_yam_122
+  examples: |
+    - Why is curing important before storing yam tubers?
+    - Why curing important before storing yam?
+
+- intent: ask_yam_123
+  examples: |
+    - How can farmers know when yam is ready for harvest?
+    - How farmer fit know yam don mature?
+
+- intent: ask_yam_124
+  examples: |
+    - Why should yam harvesting be done carefully?
+    - Why careful harvesting important for yam?
+
+- intent: ask_yam_125
+  examples: |
+    - How does poor ventilation affect stored yam?
+    - How bad ventilation dey affect yam for store?
+
+- intent: ask_yam_126
+  examples: |
+    - Why is periodic inspection important in yam storage barns?
+    - Why dey inspect yam store often?
+
+- intent: ask_yam_127
+  examples: |
+    - What yam species is most commonly grown for food in Nigeria?
+    - Which yam type dem dey plant pass for food for Nigeria?
+
+- intent: ask_yam_128
+  examples: |
+    - Why do farmers prefer white yam over water yam in many Nigerian communities?
+    - Why farmers dey like white yam pass water yam?
+
+- intent: ask_yam_129
+  examples: |
+    - What rainfall pattern is ideal for yam cultivation?
+    - Which kind rain yam dey like?
+
+- intent: ask_yam_130
+  examples: |
+    - How does prolonged drought affect yam tuber initiation?
+    - How long dry season dey affect yam tuber start?
+
+- intent: ask_yam_131
+  examples: |
+    - Why is waterlogging harmful to yam farms?
+    - Why too much water bad for yam farm?
+
+- intent: ask_yam_132
+  examples: |
+    - How do raised heaps help yam survive heavy rainfall?
+    - How heap dey help yam when rain plenty?
+
+- intent: ask_yam_133
+  examples: |
+    - Why is proper spacing important in yam cultivation?
+    - Why spacing important when planting yam?
+
+- intent: ask_yam_134
+  examples: |
+    - How does overcrowding affect yam vine development?
+    - How plenty yam for one place dey affect vine?
+
+- intent: ask_yam_135
+  examples: |
+    - What damage do rodents cause to yam farms?
+    - Wetin rat dey do yam farm?
+
+- intent: ask_yam_136
+  examples: |
+    - Why are yam farms near bushes more prone to rodent attack?
+    - Why yam farm near bush dey get rat problem?
+
+- intent: ask_yam_137
+  examples: |
+    - How does field sanitation reduce pest pressure in yam cultivation?
+    - How clean farm dey reduce yam pest?
+
+- intent: ask_yam_138
+  examples: |
+    - How can farmers reduce termite damage in yam heaps?
+    - How farmer fit reduce termite for yam heap?
+
+- intent: ask_yam_139
+  examples: |
+    - What symptoms indicate fungal infection on yam vines?
+    - Which sign show say fungus don attack yam vine?
+
+- intent: ask_yam_140
+  examples: |
+    - Why does high humidity favor yam fungal diseases?
+    - Why high moisture dey help yam disease?
+
+- intent: ask_yam_141
+  examples: |
+    - How can crop rotation reduce disease incidence in yam fields?
+    - How rotation dey reduce yam disease?
+
+- intent: ask_yam_142
+  examples: |
+    - Which weeds commonly compete with yam during early growth?
+    - Which weed dey disturb yam early?
+
+- intent: ask_yam_143
+  examples: |
+    - Why should weeding be reduced once yam canopy closes?
+    - Why no need plenty weeding when yam cover ground?
+
+- intent: ask_yam_144
+  examples: |
+    - How does harvesting yam too early affect tuber quality?
+    - How early harvest dey affect yam quality?
+
+- intent: ask_yam_145
+  examples: |
+    - Why is harvesting during dry weather recommended for yam?
+    - Why better harvest yam during dry weather?
+
+- intent: ask_yam_146
+  examples: |
+    - Why should damaged yam tubers not be stored with healthy ones?
+    - Why no good store damaged yam with good ones?
+
+- intent: ask_yam_147
+  examples: |
+    - How does temperature affect yam storage life?
+    - How temperature dey affect yam storage?
+
+- intent: ask_yam_148
+  examples: |
+    - Why is raised platform storage preferred for yam barns?
+    - Why dem dey store yam for raised platform?
+
+- intent: ask_yam_149
+  examples: |
+    - How can extension services improve yam productivity in Nigeria?
+    - How extension worker fit help yam farmer?
+
+- intent: ask_yam_150
+  examples: |
+    - Why is farmer training important for sustainable yam production?
+    - Why training important for yam farming?
+
+- intent: ask_yam_151
+  examples: |
+    - Why do some yam varieties produce longer tubers than others?
+    - Why some yam type dey long pass others?
+
+- intent: ask_yam_152
+  examples: |
+    - How does the size of yam setts affect sprouting strength?
+    - How size of yam sett dey affect sprouting?
+
+- intent: ask_yam_153
+  examples: |
+    - Why is curing yam setts before planting beneficial?
+    - Why curing yam sett good before planting?
+
+- intent: ask_yam_154
+  examples: |
+    - How does planting depth influence yam emergence?
+    - How planting depth dey affect yam coming out?
+
+- intent: ask_yam_155
+  examples: |
+    - Why is orientation of yam setts important during planting?
+    - Why how dem place yam sett important?
+
+- intent: ask_yam_156
+  examples: |
+    - How does potassium influence yam tuber quality?
+    - How potassium dey affect yam quality?
+
+- intent: ask_yam_157
+  examples: |
+    - Why is balanced fertilization more important than heavy fertilizer use in yam?
+    - Why balanced fertilizer better pass too much fertilizer?
+
+- intent: ask_yam_158
+  examples: |
+    - Why is well-decomposed manure preferred for yam farming?
+    - Why better use well-rotten manure for yam?
+
+- intent: ask_yam_159
+  examples: |
+    - How does organic matter improve yam tuber expansion?
+    - How organic matter dey help yam tuber grow?
+
+- intent: ask_yam_160
+  examples: |
+    - What damage do ants cause in yam fields?
+    - Wetin ant dey do yam field?
+
+- intent: ask_yam_161
+  examples: |
+    - How can termite activity reduce yam yield?
+    - How termite dey reduce yam yield?
+
+- intent: ask_yam_162
+  examples: |
+    - Why does continuous yam cropping increase soil pest populations?
+    - Why planting yam every year dey increase pest?
+
+- intent: ask_yam_163
+  examples: |
+    - How does early planting help yam escape severe pest attack?
+    - How early planting dey reduce yam pest?
+
+- intent: ask_yam_164
+  examples: |
+    - Why should damaged tubers not be left in the field after harvest?
+    - Why no good leave damaged yam for field?
+
+- intent: ask_yam_165
+  examples: |
+    - How does poor drainage encourage yam root diseases?
+    - How bad drainage dey cause yam disease?
+
+- intent: ask_yam_166
+  examples: |
+    - Why should diseased yam plants be removed from the field?
+    - Why remove sick yam plant?
+
+- intent: ask_yam_167
+  examples: |
+    - How can clean planting materials reduce yam disease incidence?
+    - How clean planting material dey reduce disease?
+
+- intent: ask_yam_168
+  examples: |
+    - How does excessive heat stress affect yam photosynthesis?
+    - How too much heat dey affect yam leaf work?
+
+- intent: ask_yam_169
+  examples: |
+    - Why does yam perform better in areas with distinct rainy and dry seasons?
+    - Why yam dey do well where rain and dry season clear?
+
+- intent: ask_yam_170
+  examples: |
+    - How do weeds increase pest and disease pressure in yam fields?
+    - How weed dey increase pest and disease?
+
+- intent: ask_yam_171
+  examples: |
+    - Why is shallow weeding preferred in yam cultivation?
+    - Why shallow weeding better for yam?
+
+- intent: ask_yam_172
+  examples: |
+    - How does delayed harvesting affect yam shelf life?
+    - How late harvest dey affect yam storage?
+
+- intent: ask_yam_173
+  examples: |
+    - Why should yam harvesting tools be kept clean?
+    - Why harvesting tool suppose clean?
+
+- intent: ask_yam_174
+  examples: |
+    - How does poor handling during transport affect yam quality?
+    - How bad handling dey affect yam?
+
+- intent: ask_yam_175
+  examples: |
+    - Why should yam storage structures be protected from rain?
+    - Why yam store no suppose see rain?
+
+- intent: ask_yam_176
+  examples: |
+    - Why is record keeping useful for yam farmers?
+    - Why record keeping important for yam farmer?
+
+- intent: ask_yam_177
+  examples: |
+    - How can farmer cooperatives improve yam production outcomes?
+    - How cooperative fit help yam farmer?
+
+- intent: ask_yam_178
+  examples: |
+    - Why is fallowing important in traditional yam systems?
+    - Why fallow important for yam?
+
+- intent: ask_yam_179
+  examples: |
+    - How does continuous yam cultivation affect long-term soil health?
+    - How continuous yam farming dey affect soil?
+
+- intent: ask_yam_180
+  examples: |
+    - Why should farmers wear protective gear during field operations?
+    - Why farmer suppose wear protection for farm?
+
+- intent: ask_yam_181
+  examples: |
+    - How does improper tool handling increase accident risk on yam farms?
+    - How bad tool handling dey cause accident?
+
+- intent: ask_yam_182
+  examples: |
+    - Why is indigenous knowledge important in yam farming?
+    - Why local knowledge important for yam?
+
+- intent: ask_yam_183
+  examples: |
+    - How can modern research complement traditional yam farming practices?
+    - How modern research fit help traditional yam farming?
+
+- intent: ask_yam_184
+  examples: |
+    - Why is mechanization limited in yam production?
+    - Why machine no plenty for yam farming?
+
+- intent: ask_yam_185
+  examples: |
+    - How can partial mechanization support large-scale yam farms?
+    - How partial mechanization fit help big yam farm?
+
+- intent: ask_yam_186
+  examples: |
+    - Why is yam considered a strategic food crop in Nigeria?
+    - Why yam important for Nigeria food?
+
+- intent: ask_yam_187
+  examples: |
+    - How can government programs support sustainable yam production?
+    - How government fit support yam farming?
+
+- intent: ask_yam_188
+  examples: |
+    - Why should yam farming be included in agricultural training curricula?
+    - Why include yam farming for agri training?
+
+- intent: ask_yam_189
+  examples: |
+    - How can school demonstration farms improve yam production knowledge?
+    - How school demo farm fit help yam learning?
+
+- intent: ask_yam_190
+  examples: |
+    - How may climate change affect yam production in Nigeria?
+    - How climate change fit affect yam farming?
+
+- intent: ask_yam_191
+  examples: |
+    - Why is research on drought-tolerant yam varieties important?
+    - Why drought-tolerant yam research important?
+
+- intent: ask_yam_192
+  examples: |
+    - What factors determine yam eating quality?
+    - Wetin dey determine yam quality for eating?
+
+- intent: ask_yam_193
+  examples: |
+    - How does soil fertility influence yam taste and texture?
+    - How soil fertility dey affect yam taste?
+
+- intent: ask_yam_194
+  examples: |
+    - Why should yam farmers diversify crops?
+    - Why yam farmer suppose plant other crops?
+
+- intent: ask_yam_195
+  examples: |
+    - How does insurance improve resilience for yam farmers?
+    - How insurance fit help yam farmer?
+
+- intent: ask_yam_196
+  examples: |
+    - Why is communal labor common in traditional yam farming?
+    - Why people dey help each other plant yam?
+
+- intent: ask_yam_197
+  examples: |
+    - How do yam festivals promote cultural and agricultural values?
+    - How yam festival dey help culture and farming?
+
+- intent: ask_yam_198
+  examples: |
+    - Why is fair land access important for sustainable yam production?
+    - Why fair land access important for yam?
+
+- intent: ask_yam_199
+  examples: |
+    - How does land misuse affect future yam farming generations?
+    - How land misuse dey affect future yam farmers?
+
+- intent: ask_yam_200
+  examples: |
+    - Why is proper management essential for successful yam farming?
+    - Why good management important for yam farming?
+
+- intent: ask_pepper_201
+  examples: |
+    - What type of soil supports good pepper growth in Nigeria?
+    - Which kind soil pepper dey grow well for Nigeria?
+
+- intent: ask_pepper_202
+  examples: |
+    - How does soil compaction affect pepper root development?
+    - How hard soil dey affect pepper root?
+
+- intent: ask_pepper_203
+  examples: |
+    - Why is pepper usually raised in a nursery before transplanting?
+    - Why dem dey raise pepper for nursery first?
+
+- intent: ask_pepper_204
+  examples: |
+    - How does overcrowding in the nursery affect pepper seedlings?
+    - How too many seedling for nursery dey affect pepper?
+
+- intent: ask_pepper_205
+  examples: |
+    - Why is hardening-off important before transplanting pepper seedlings?
+    - Why hardening-off important before transplant?
+
+- intent: ask_pepper_206
+  examples: |
+    - When is the best time to transplant pepper seedlings in Nigeria?
+    - When better time to transplant pepper for Nigeria?
+
+- intent: ask_pepper_207
+  examples: |
+    - How does transplanting during high heat affect pepper survival?
+    - How hot sun dey affect pepper transplant?
+
+- intent: ask_pepper_208
+  examples: |
+    - Why is proper spacing important in pepper production?
+    - Why spacing important for pepper?
+
+- intent: ask_pepper_209
+  examples: |
+    - How does overcrowding increase disease incidence in pepper farms?
+    - How crowding dey increase pepper disease?
+
+- intent: ask_pepper_210
+  examples: |
+    - Why does pepper require regular but moderate watering?
+    - Why pepper need regular but not too much water?
+
+- intent: ask_pepper_211
+  examples: |
+    - How does irregular watering affect pepper fruit development?
+    - How irregular watering dey affect pepper fruit?
+
+- intent: ask_pepper_212
+  examples: |
+    - Why does pepper respond well to organic manure?
+    - Why organic manure good for pepper?
+
+- intent: ask_pepper_213
+  examples: |
+    - How does nitrogen imbalance affect pepper flowering?
+    - How too much nitrogen dey affect pepper flower?
+
+- intent: ask_pepper_214
+  examples: |
+    - Why is early weeding important in pepper farms?
+    - Why early weeding important for pepper?
+
+- intent: ask_pepper_215
+  examples: |
+    - How do weeds contribute to pest problems in pepper fields?
+    - How weed dey cause pest problem for pepper?
+
+- intent: ask_pepper_216
+  examples: |
+    - Which insect commonly causes holes in pepper leaves?
+    - Which insect dey make hole for pepper leaf?
+
+- intent: ask_pepper_217
+  examples: |
+    - How do aphids damage pepper plants?
+    - How aphid dey spoil pepper?
+
+- intent: ask_pepper_218
+  examples: |
+    - Why do aphid infestations increase during dry seasons?
+    - Why aphid dey plenty during dry season?
+
+- intent: ask_pepper_219
+  examples: |
+    - How does thrips infestation affect pepper yield?
+    - How thrips dey affect pepper yield?
+
+- intent: ask_pepper_220
+  examples: |
+    - Why is early detection important in managing pepper pests?
+    - Why early detection important for pepper pest?
+
+- intent: ask_pepper_221
+  examples: |
+    - What disease causes wilting in pepper plants despite adequate water?
+    - Which disease dey make pepper wilt even with water?
+
+- intent: ask_pepper_222
+  examples: |
+    - Why is bacterial wilt difficult to control once established?
+    - Why bacterial wilt hard to control?
+
+- intent: ask_pepper_223
+  examples: |
+    - How can crop rotation reduce pepper disease pressure?
+    - How rotation dey reduce pepper disease?
+
+- intent: ask_pepper_224
+  examples: |
+    - When should pepper fruits be harvested for best quality?
+    - When pepper suppose harvest for best quality?
+
+- intent: ask_pepper_225
+  examples: |
+    - Why does frequent harvesting increase pepper yield?
+    - Why frequent harvest dey increase pepper yield?
+
+- intent: ask_pepper_226
+  examples: |
+    - Why should harvested pepper fruits be handled gently?
+    - Why handle pepper gently after harvest?
+
+- intent: ask_pepper_227
+  examples: |
+    - How does poor ventilation affect stored pepper fruits?
+    - How bad ventilation dey affect pepper storage?
+
+- intent: ask_pepper_228
+  examples: |
+    - Why is drying commonly used to preserve pepper in Nigeria?
+    - Why dem dey dry pepper for Nigeria?
+
+- intent: ask_pepper_229
+  examples: |
+    - How does sun-drying under poor conditions affect pepper quality?
+    - How bad sun-drying dey affect pepper quality?
+
+- intent: ask_pepper_230
+  examples: |
+    - How do extension services help pepper farmers reduce losses?
+    - How extension worker dey help pepper farmer?
+
+- intent: ask_pepper_231
+  examples: |
+    - Why is farmer training important for sustainable pepper production?
+    - Why training important for pepper farming?
+
+- intent: ask_pepper_232
+  examples: |
+    - Why does excessive rainfall reduce pepper productivity?
+    - Why too much rain dey reduce pepper yield?
+
+- intent: ask_pepper_233
+  examples: |
+    - How does heat stress affect pepper pollination?
+    - How heat stress dey affect pepper pollination?
+
+- intent: ask_pepper_234
+  examples: |
+    - Why is mulching beneficial in pepper production?
+    - Why mulching good for pepper?
+
+- intent: ask_pepper_235
+  examples: |
+    - How does continuous pepper cultivation affect soil health?
+    - How continuous pepper farming dey affect soil?
+
+- intent: ask_pepper_236
+  examples: |
+    - Why should farmers wear gloves when handling hot pepper varieties?
+    - Why wear glove when handling hot pepper?
+
+- intent: ask_pepper_237
+  examples: |
+    - How does improper pesticide use endanger pepper farmers?
+    - How wrong pesticide use dey endanger farmer?
+
+- intent: ask_pepper_238
+  examples: |
+    - What factors influence pepper pungency?
+    - Wetin dey affect pepper hotness?
+
+- intent: ask_pepper_239
+  examples: |
+    - How does harvest timing affect pepper flavor?
+    - How harvest time dey affect pepper taste?
+
+- intent: ask_pepper_240
+  examples: |
+    - How can improved pepper varieties help Nigerian farmers?
+    - How improved pepper fit help Nigerian farmer?
+
+- intent: ask_pepper_241
+  examples: |
+    - Why is research into climate-resilient pepper varieties important?
+    - Why climate-resilient pepper research important?
+
+- intent: ask_pepper_242
+  examples: |
+    - Why is pepper commonly grown in home gardens in Nigeria?
+    - Why people dey plant pepper for backyard?
+
+- intent: ask_pepper_243
+  examples: |
+    - How does local seed saving support pepper production?
+    - How local seed saving dey help pepper farming?
+
+- intent: ask_pepper_244
+  examples: |
+    - Why should pepper farmers monitor weather forecasts?
+    - Why pepper farmer suppose watch weather forecast?
+
+- intent: ask_pepper_245
+  examples: |
+    - How does diversification reduce risk in pepper farming?
+    - How diversification dey reduce risk for pepper farmer?
+
+- intent: ask_pepper_246
+  examples: |
+    - Why is responsible pesticide use important in pepper farming?
+    - Why responsible pesticide use important for pepper?
+
+- intent: ask_pepper_247
+  examples: |
+    - How does misuse of chemicals affect pepper market acceptance?
+    - How chemical misuse dey affect pepper acceptance?
+
+- intent: ask_pepper_248
+  examples: |
+    - Why should pepper farming be taught in agricultural schools?
+    - Why teach pepper farming for agri school?
+
+- intent: ask_pepper_249
+  examples: |
+    - How can on-farm trials improve pepper production practices?
+    - How on-farm trial dey help pepper farming?
+
+- intent: ask_pepper_250
+  examples: |
+    - Why is good management essential for successful pepper farming?
+    - Why good management important for pepper farming?
+
+- intent: ask_pepper_251
+  examples: |
+    - Why do farmers choose different pepper varieties for fresh and dried use?
+    - Why farmer dey choose different pepper type for fresh and dry use?
+
+- intent: ask_pepper_252
+  examples: |
+    - How does genetic diversity among pepper varieties reduce production risk?
+    - How different pepper variety dey reduce farming risk?
+
+- intent: ask_pepper_253
+  examples: |
+    - Why do pepper plants shed flowers during stressful conditions?
+    - Why pepper plant dey drop flower when stress dey?
+
+- intent: ask_pepper_254
+  examples: |
+    - How does excessive vegetative growth affect pepper fruiting?
+    - How too much leaf growth dey affect pepper fruit?
+
+- intent: ask_pepper_255
+  examples: |
+    - Why does pepper perform poorly on acidic soils?
+    - Why pepper no dey do well for acidic soil?
+
+- intent: ask_pepper_256
+  examples: |
+    - How does organic matter improve pepper soil resilience?
+    - How organic matter dey help pepper soil?
+
+- intent: ask_pepper_257
+  examples: |
+    - Why should fertilizer be applied away from the pepper stem?
+    - Why fertilizer no suppose touch pepper stem?
+
+- intent: ask_pepper_258
+  examples: |
+    - How does split fertilizer application benefit pepper yield?
+    - How split fertilizer application dey help pepper?
+
+- intent: ask_pepper_259
+  examples: |
+    - Why does deep hoeing damage pepper plants?
+    - Why deep hoeing dey spoil pepper?
+
+- intent: ask_pepper_260
+  examples: |
+    - How does mulching reduce weed pressure in pepper farms?
+    - How mulch dey stop weed for pepper farm?
+
+- intent: ask_pepper_261
+  examples: |
+    - Which pest causes curling and distortion of pepper leaves?
+    - Which pest dey curl pepper leaf?
+
+- intent: ask_pepper_262
+  examples: |
+    - How do mites damage pepper plants during dry weather?
+    - How mite dey damage pepper during dry season?
+
+- intent: ask_pepper_263
+  examples: |
+    - Why are spider mite outbreaks common in dusty pepper fields?
+    - Why spider mite dey plenty for dusty pepper farm?
+
+- intent: ask_pepper_264
+  examples: |
+    - How do fruit borers reduce pepper market quality?
+    - How fruit borer dey spoil pepper quality?
+
+- intent: ask_pepper_265
+  examples: |
+    - Why is night monitoring useful for controlling fruit borers?
+    - Why night monitoring good for fruit borer?
+
+- intent: ask_pepper_266
+  examples: |
+    - Which pest causes silver streaks on pepper leaves?
+    - Which pest dey make silver mark for pepper leaf?
+
+- intent: ask_pepper_267
+  examples: |
+    - How do thrips contribute to viral disease spread in pepper?
+    - How thrips dey spread virus for pepper?
+
+- intent: ask_pepper_268
+  examples: |
+    - Why does poor field sanitation increase pepper pest pressure?
+    - Why dirty farm dey increase pepper pest?
+
+- intent: ask_pepper_269
+  examples: |
+    - How does integrated pest management reduce chemical dependence in pepper farming?
+    - How IPM dey reduce chemical use for pepper?
+
+- intent: ask_pepper_270
+  examples: |
+    - How does poor drainage increase fungal diseases in pepper?
+    - How poor drainage dey cause pepper disease?
+
+- intent: ask_pepper_271
+  examples: |
+    - Why are seed-borne diseases difficult to manage in pepper?
+    - Why seed-borne disease hard to control for pepper?
+
+- intent: ask_pepper_272
+  examples: |
+    - What symptom indicates viral infection in pepper plants?
+    - Which sign show virus for pepper?
+
+- intent: ask_pepper_273
+  examples: |
+    - Why does extreme heat cause pepper flower abortion?
+    - Why hot weather dey make pepper flower fall?
+
+- intent: ask_pepper_274
+  examples: |
+    - How does climate variability affect pepper planting decisions?
+    - How climate change dey affect pepper planting?
+
+- intent: ask_pepper_275
+  examples: |
+    - Why should pepper fruits be harvested with stalks attached?
+    - Why harvest pepper with stalk?
+
+- intent: ask_pepper_276
+  examples: |
+    - How does delayed harvesting affect pepper plant productivity?
+    - How late harvest dey affect pepper yield?
+
+- intent: ask_pepper_277
+  examples: |
+    - Why should pepper fruits be sorted after harvest?
+    - Why sort pepper after harvest?
+
+- intent: ask_pepper_278
+  examples: |
+    - How does moisture during storage affect pepper shelf life?
+    - How moisture for storage dey affect pepper?
+
+- intent: ask_pepper_279
+  examples: |
+    - Why does grinding dried pepper require proper drying?
+    - Why proper drying important before grinding pepper?
+
+- intent: ask_pepper_280
+  examples: |
+    - How does smoke contamination affect dried pepper quality?
+    - How smoke dey affect dried pepper?
+
+- intent: ask_pepper_281
+  examples: |
+    - Why is crop rotation important for sustainable pepper farming?
+    - Why rotation important for pepper farming?
+
+- intent: ask_pepper_282
+  examples: |
+    - How does sustainable pepper farming protect surrounding ecosystems?
+    - How sustainable pepper farming dey protect environment?
+
+- intent: ask_pepper_283
+  examples: |
+    - Why is record keeping useful for pepper farmers?
+    - Why record keeping important for pepper farmer?
+
+- intent: ask_pepper_284
+  examples: |
+    - How does farmer cooperation improve pepper pest control?
+    - How farmers working together dey help pest control?
+
+- intent: ask_pepper_285
+  examples: |
+    - Why is pepper considered nutritionally important in Nigerian diets?
+    - Why pepper important for Nigerian food?
+
+- intent: ask_pepper_286
+  examples: |
+    - How does excessive cooking reduce pepper nutritional value?
+    - How too much cooking dey reduce pepper nutrients?
+
+- intent: ask_pepper_287
+  examples: |
+    - Why should pepper farmers avoid continuous monocropping?
+    - Why pepper farmer no suppose plant only pepper every time?
+
+- intent: ask_pepper_288
+  examples: |
+    - How does staggered planting reduce total pepper crop failure?
+    - How staggered planting dey reduce pepper loss?
+
+- intent: ask_pepper_289
+  examples: |
+    - Why should tools be disinfected when working in pepper farms?
+    - Why disinfect tools for pepper farm?
+
+- intent: ask_pepper_290
+  examples: |
+    - How does improper waste disposal affect pepper farm hygiene?
+    - How bad waste disposal dey affect pepper farm?
+
+- intent: ask_pepper_291
+  examples: |
+    - How can drip irrigation improve pepper water efficiency?
+    - How drip irrigation dey help pepper watering?
+
+- intent: ask_pepper_292
+  examples: |
+    - Why is protected cultivation useful for pepper production?
+    - Why protected farming good for pepper?
+
+- intent: ask_pepper_293
+  examples: |
+    - Why should youth be encouraged to grow pepper?
+    - Why encourage youth to farm pepper?
+
+- intent: ask_pepper_294
+  examples: |
+    - How does farmer field school training improve pepper productivity?
+    - How field school training dey help pepper farmer?
+
+- intent: ask_pepper_295
+  examples: |
+    - Why does uneven ripening reduce pepper quality?
+    - Why uneven ripening dey reduce pepper quality?
+
+- intent: ask_pepper_296
+  examples: |
+    - How does nutrient imbalance affect pepper fruit shape?
+    - How nutrient problem dey affect pepper shape?
+
+- intent: ask_pepper_297
+  examples: |
+    - Why is pepper production important for household food security?
+    - Why pepper important for household food?
+
+- intent: ask_pepper_298
+  examples: |
+    - How does backyard pepper farming support urban households?
+    - How backyard pepper farming dey help city people?
+
+- intent: ask_pepper_299
+  examples: |
+    - Why should pepper farmers consider environmental impact?
+    - Why pepper farmer suppose think environment?
+
+- intent: ask_pepper_300
+  examples: |
+    - Why is balanced management key to successful pepper production?
+    - Why balanced management important for pepper?
+
+- intent: ask_vegetable_301
+  examples: |
+    - Why are vegetables important in Nigerian daily meals?
+    - Why vegetable important for Nigerian food?
+
+- intent: ask_vegetable_302
+  examples: |
+    - How are leafy vegetables different from fruit vegetables?
+    - How leafy vegetable different from fruit vegetable?
+
+- intent: ask_vegetable_303
+  examples: |
+    - Why do most vegetables require loose and fertile soil?
+    - Why vegetable need loose and fertile soil?
+
+- intent: ask_vegetable_304
+  examples: |
+    - How does poor soil structure reduce vegetable yield?
+    - How bad soil structure dey reduce vegetable yield?
+
+- intent: ask_vegetable_305
+  examples: |
+    - Why are some vegetables raised in nurseries before transplanting?
+    - Why dem dey raise some vegetable for nursery?
+
+- intent: ask_vegetable_306
+  examples: |
+    - How does overcrowding in vegetable nurseries affect seedlings?
+    - How crowding for nursery dey affect vegetable?
+
+- intent: ask_vegetable_307
+  examples: |
+    - Why is planting depth important for vegetable seeds?
+    - Why planting depth important for vegetable seed?
+
+- intent: ask_vegetable_308
+  examples: |
+    - How does planting during extreme heat affect vegetable establishment?
+    - How hot weather dey affect vegetable planting?
+
+- intent: ask_vegetable_309
+  examples: |
+    - Why is correct spacing important in vegetable farming?
+    - Why spacing important for vegetable?
+
+- intent: ask_vegetable_310
+  examples: |
+    - How does overcrowding increase disease spread in vegetables?
+    - How overcrowding dey increase vegetable disease?
+
+- intent: ask_vegetable_311
+  examples: |
+    - Why do vegetables require regular watering?
+    - Why vegetable need regular watering?
+
+- intent: ask_vegetable_312
+  examples: |
+    - How does waterlogging affect vegetable roots?
+    - How too much water dey affect vegetable root?
+
+- intent: ask_vegetable_313
+  examples: |
+    - Why do vegetables respond quickly to nutrient deficiency?
+    - Why vegetable dey show nutrient problem fast?
+
+- intent: ask_vegetable_314
+  examples: |
+    - How does excessive nitrogen affect leafy vegetables?
+    - How too much nitrogen dey affect leafy vegetable?
+
+- intent: ask_vegetable_315
+  examples: |
+    - Why are weeds a major problem in vegetable farms?
+    - Why weed dey worry vegetable farm?
+
+- intent: ask_vegetable_316
+  examples: |
+    - How do weeds serve as hosts for vegetable pests?
+    - How weed dey help vegetable pest?
+
+- intent: ask_vegetable_317
+  examples: |
+    - Which pests commonly feed on vegetable leaves?
+    - Which pest dey chop vegetable leaf?
+
+- intent: ask_vegetable_318
+  examples: |
+    - How do aphids damage vegetable crops?
+    - How aphid dey damage vegetable?
+
+- intent: ask_vegetable_319
+  examples: |
+    - Why do pest populations increase rapidly in vegetable farms?
+    - Why pest dey multiply fast for vegetable farm?
+
+- intent: ask_vegetable_320
+  examples: |
+    - How does leaf miner infestation affect vegetable photosynthesis?
+    - How leaf miner dey affect vegetable photosynthesis?
+
+- intent: ask_vegetable_321
+  examples: |
+    - Why is early pest scouting critical in vegetable production?
+    - Why early pest checking important for vegetable?
+
+- intent: ask_vegetable_322
+  examples: |
+    - Which pest causes holes in vegetable leaves at night?
+    - Which pest dey make hole for vegetable leaf at night?
+
+- intent: ask_vegetable_323
+  examples: |
+    - How does mixed cropping reduce pest damage in vegetables?
+    - How mixed cropping dey reduce vegetable pest?
+
+- intent: ask_vegetable_324
+  examples: |
+    - Why are vegetables prone to fungal diseases?
+    - Why vegetable dey prone to fungal disease?
+
+- intent: ask_vegetable_325
+  examples: |
+    - How does poor sanitation increase vegetable disease outbreaks?
+    - How dirty farm dey increase vegetable disease?
+
+- intent: ask_vegetable_326
+  examples: |
+    - Why should vegetables be harvested at the right maturity stage?
+    - Why harvest vegetable at correct maturity?
+
+- intent: ask_vegetable_327
+  examples: |
+    - How does frequent harvesting affect leafy vegetable yield?
+    - How frequent harvest dey affect leafy vegetable?
+
+- intent: ask_vegetable_328
+  examples: |
+    - Why do vegetables spoil quickly after harvest?
+    - Why vegetable dey spoil fast after harvest?
+
+- intent: ask_vegetable_329
+  examples: |
+    - How does shade cooling improve vegetable shelf life?
+    - How shade cooling dey help vegetable last?
+
+- intent: ask_vegetable_330
+  examples: |
+    - Why are some vegetables blanched before drying?
+    - Why dem dey blanch vegetable before drying?
+
+- intent: ask_vegetable_331
+  examples: |
+    - Why does excessive rainfall reduce vegetable yield?
+    - Why too much rain dey reduce vegetable yield?
+
+- intent: ask_vegetable_332
+  examples: |
+    - How does dry season farming increase pest pressure in vegetables?
+    - How dry season dey increase vegetable pest?
+
+- intent: ask_vegetable_333
+  examples: |
+    - Why is organic manure commonly used in vegetable production?
+    - Why organic manure common for vegetable?
+
+- intent: ask_vegetable_334
+  examples: |
+    - How does vegetable rotation improve long-term soil health?
+    - How rotation dey help vegetable soil long term?
+
+- intent: ask_vegetable_335
+  examples: |
+    - Why is farmer training important for vegetable production?
+    - Why training important for vegetable farmer?
+
+- intent: ask_vegetable_336
+  examples: |
+    - Why do vegetable farmers stagger planting dates?
+    - Why vegetable farmer dey stagger planting?
+
+- intent: ask_vegetable_337
+  examples: |
+    - Why should vegetables be washed after harvest?
+    - Why wash vegetable after harvest?
+
+- intent: ask_vegetable_338
+  examples: |
+    - How does misuse of pesticides affect vegetable consumers?
+    - How pesticide misuse dey affect people wey eat vegetable?
+
+- intent: ask_vegetable_339
+  examples: |
+    - Why are leafy vegetables recommended for pregnant women?
+    - Why leafy vegetable good for pregnant woman?
+
+- intent: ask_vegetable_340
+  examples: |
+    - How does overcooking reduce vegetable nutritional value?
+    - How overcooking dey reduce vegetable nutrients?
+
+- intent: ask_vegetable_341
+  examples: |
+    - How does drip irrigation benefit vegetable farmers?
+    - How drip irrigation dey help vegetable farmer?
+
+- intent: ask_vegetable_342
+  examples: |
+    - Why is protected vegetable farming gaining attention?
+    - Why protected vegetable farming dey increase?
+
+- intent: ask_vegetable_343
+  examples: |
+    - Why are vegetables commonly grown in home gardens?
+    - Why people dey plant vegetable for backyard?
+
+- intent: ask_vegetable_344
+  examples: |
+    - How does urban vegetable farming support household nutrition?
+    - How urban vegetable farming dey help nutrition?
+
+- intent: ask_vegetable_345
+  examples: |
+    - Why should vegetable farming be taught in schools?
+    - Why teach vegetable farming for school?
+
+- intent: ask_vegetable_346
+  examples: |
+    - Why should vegetable farmers protect water sources?
+    - Why vegetable farmer suppose protect water source?
+
+- intent: ask_vegetable_347
+  examples: |
+    - Why does uneven vegetable size reduce market quality?
+    - Why uneven vegetable size dey reduce quality?
+
+- intent: ask_vegetable_348
+  examples: |
+    - How does nutrient imbalance affect vegetable texture?
+    - How nutrient imbalance dey affect vegetable texture?
+
+- intent: ask_vegetable_349
+  examples: |
+    - Why is proper management essential in vegetable production?
+    - Why proper management important for vegetable?
+
+- intent: ask_vegetable_350
+  examples: |
+    - Why do vegetables play a key role in Nigerian food security?
+    - Why vegetable important for Nigerian food security?
+
+- intent: ask_vegetable_351
+  examples: |
+    - Why is seed quality important in vegetable production?
+    - Why good seed important for vegetable farming?
+
+- intent: ask_vegetable_352
+  examples: |
+    - How does poor seed storage affect vegetable germination?
+    - How bad seed storage dey affect vegetable seed?
+
+- intent: ask_vegetable_353
+  examples: |
+    - Why should vegetable land be well cleared before planting?
+    - Why clear land well before vegetable planting?
+
+- intent: ask_vegetable_354
+  examples: |
+    - How does raised bed preparation benefit vegetable farming?
+    - How raised bed dey help vegetable farm?
+
+- intent: ask_vegetable_355
+  examples: |
+    - Why is mulching useful in vegetable farms?
+    - Why mulching good for vegetable farm?
+
+- intent: ask_vegetable_356
+  examples: |
+    - How does organic mulch improve soil fertility in vegetables?
+    - How organic mulch dey improve vegetable soil?
+
+- intent: ask_vegetable_357
+  examples: |
+    - Why do vegetables require frequent nutrient application?
+    - Why vegetable need fertilizer often?
+
+- intent: ask_vegetable_358
+  examples: |
+    - How does wrong fertilizer timing affect vegetable yield?
+    - How wrong fertilizer timing dey affect vegetable?
+
+- intent: ask_vegetable_359
+  examples: |
+    - Which pests commonly attack vegetable seedlings?
+    - Which pest dey attack young vegetable?
+
+- intent: ask_vegetable_360
+  examples: |
+    - How do flea beetles damage vegetable crops?
+    - How flea beetle dey damage vegetable?
+
+- intent: ask_vegetable_361
+  examples: |
+    - Why are vegetable seedlings more vulnerable to pests?
+    - Why pest dey attack vegetable seedling more?
+
+- intent: ask_vegetable_362
+  examples: |
+    - How does neem extract help control vegetable pests?
+    - How neem dey control vegetable pest?
+
+- intent: ask_vegetable_363
+  examples: |
+    - How does pest resistance develop in vegetable farms?
+    - How pest resistance dey happen for vegetable farm?
+
+- intent: ask_vegetable_364
+  examples: |
+    - Which pests suck sap from vegetable plants?
+    - Which pest dey suck vegetable juice?
+
+- intent: ask_vegetable_365
+  examples: |
+    - Why does dry weather increase sucking pest population?
+    - Why dry weather dey increase sucking pest?
+
+- intent: ask_vegetable_366
+  examples: |
+    - Which diseases cause yellowing of vegetable leaves?
+    - Which disease dey make vegetable leaf yellow?
+
+- intent: ask_vegetable_367
+  examples: |
+    - How does water splash spread vegetable diseases?
+    - How water splash dey spread vegetable disease?
+
+- intent: ask_vegetable_368
+  examples: |
+    - Why should vegetables not be planted repeatedly on the same land?
+    - Why no good plant vegetable for same land always?
+
+- intent: ask_vegetable_369
+  examples: |
+    - How does crop rotation disrupt vegetable pest life cycles?
+    - How rotation dey stop vegetable pest?
+
+- intent: ask_vegetable_370
+  examples: |
+    - Why does vegetable farming require close supervision?
+    - Why vegetable farming need close attention?
+
+- intent: ask_vegetable_371
+  examples: |
+    - How does delayed weeding affect vegetable yield?
+    - How late weeding dey affect vegetable?
+
+- intent: ask_vegetable_372
+  examples: |
+    - Why should leafy vegetables be harvested early in the day?
+    - Why harvest leafy vegetable early morning?
+
+- intent: ask_vegetable_373
+  examples: |
+    - How does delayed harvesting affect vegetable taste?
+    - How late harvest dey affect vegetable taste?
+
+- intent: ask_vegetable_374
+  examples: |
+    - Why should damaged vegetables be removed after harvest?
+    - Why remove damaged vegetable after harvest?
+
+- intent: ask_vegetable_375
+  examples: |
+    - How does ventilation improve vegetable storage life?
+    - How ventilation dey help vegetable storage?
+
+- intent: ask_vegetable_376
+  examples: |
+    - Why are some vegetables sliced before drying?
+    - Why dem dey slice vegetable before drying?
+
+- intent: ask_vegetable_377
+  examples: |
+    - How does poor drying affect vegetable quality?
+    - How bad drying dey affect vegetable?
+
+- intent: ask_vegetable_378
+  examples: |
+    - Why should vegetable farms be protected from flooding?
+    - Why protect vegetable farm from flood?
+
+- intent: ask_vegetable_379
+  examples: |
+    - How does erosion reduce vegetable productivity?
+    - How erosion dey reduce vegetable yield?
+
+- intent: ask_vegetable_380
+  examples: |
+    - How does mobile extension service help vegetable farmers?
+    - How phone extension dey help vegetable farmer?
+
+- intent: ask_vegetable_381
+  examples: |
+    - How does precision farming improve vegetable efficiency?
+    - How precision farming dey help vegetable?
+
+- intent: ask_vegetable_382
+  examples: |
+    - Why are vegetables recommended for diabetic diets?
+    - Why vegetable good for diabetic?
+
+- intent: ask_vegetable_383
+  examples: |
+    - How does vegetable diversity improve household nutrition?
+    - How vegetable variety dey improve nutrition?
+
+- intent: ask_vegetable_384
+  examples: |
+    - Why is vegetable production important for food security?
+    - Why vegetable important for food security?
+
+- intent: ask_vegetable_385
+  examples: |
+    - How can extension services increase vegetable productivity?
+    - How extension service dey help vegetable production?
+
+- intent: ask_vegetable_386
+  examples: |
+    - Why is vegetable farming considered high risk?
+    - Why vegetable farming risky?
+
+- intent: ask_vegetable_387
+  examples: |
+    - How does diversification reduce vegetable farming risk?
+    - How diversification dey reduce vegetable risk?
+
+- intent: ask_vegetable_388
+  examples: |
+    - Why is vegetable farming suitable for young farmers?
+    - Why vegetable farming good for youth?
+
+- intent: ask_vegetable_389
+  examples: |
+    - How can youth use technology to improve vegetable farming?
+    - How youth fit use technology for vegetable farming?
+
+- intent: ask_vegetable_390
+  examples: |
+    - Why are women commonly involved in vegetable production?
+    - Why women dey plenty for vegetable farming?
+
+- intent: ask_vegetable_391
+  examples: |
+    - How does vegetable farming empower rural women?
+    - How vegetable farming dey empower rural women?
+
+- intent: ask_vegetable_392
+  examples: |
+    - Why is record keeping important in vegetable farming?
+    - Why record keeping important for vegetable?
+
+- intent: ask_vegetable_393
+  examples: |
+    - How does data collection improve vegetable farm decisions?
+    - How data dey help vegetable farm decision?
+
+- intent: ask_vegetable_394
+  examples: |
+    - Why should vegetable farmers follow safe chemical use?
+    - Why vegetable farmer suppose use chemical safely?
+
+- intent: ask_vegetable_395
+  examples: |
+    - How does irresponsible farming affect vegetable reputation?
+    - How bad farming dey affect vegetable trust?
+
+- intent: ask_vegetable_396
+  examples: |
+    - Why is uniform vegetable size important?
+    - Why uniform vegetable size important?
+
+- intent: ask_vegetable_397
+  examples: |
+    - How does stress during growth affect vegetable quality?
+    - How stress dey affect vegetable quality?
+
+- intent: ask_vegetable_398
+  examples: |
+    - Why will vegetable demand continue to rise?
+    - Why vegetable demand go increase?
+
+- intent: ask_vegetable_399
+  examples: |
+    - How can climate-smart practices secure vegetable production?
+    - How climate-smart practice dey secure vegetable?
+
+- intent: ask_vegetable_400
+  examples: |
+    - Why is vegetable farming important for sustainable agriculture?
+    - Why vegetable farming important for sustainable agriculture?
+
+- intent: ask_banana_401
+  examples: |
+    - Why is banana considered a staple fruit in many Nigerian homes?
+    - Why banana dey common for Nigerian house?
+
+- intent: ask_banana_402
+  examples: |
+    - What is the difference between dessert bananas and cooking bananas?
+    - Wetín be difference between eating banana and cooking banana?
+
+- intent: ask_banana_403
+  examples: |
+    - Why does banana grow well in warm and humid conditions?
+    - Why banana dey grow well for hot and humid area?
+
+- intent: ask_banana_404
+  examples: |
+    - How does prolonged drought affect banana production?
+    - How long dry season dey affect banana?
+
+- intent: ask_banana_405
+  examples: |
+    - Why does banana require deep and fertile soil?
+    - Why banana need deep and fertile soil?
+
+- intent: ask_banana_406
+  examples: |
+    - How does poor drainage affect banana roots?
+    - How bad drainage dey affect banana root?
+
+- intent: ask_banana_407
+  examples: |
+    - Why are banana suckers commonly used for planting?
+    - Why dem dey use sucker plant banana?
+
+- intent: ask_banana_408
+  examples: |
+    - How does using infected suckers affect banana farms?
+    - How sick sucker dey affect banana farm?
+
+- intent: ask_banana_409
+  examples: |
+    - Why is proper spacing important in banana plantations?
+    - Why spacing important for banana farm?
+
+- intent: ask_banana_410
+  examples: |
+    - How does overcrowding increase disease risk in banana farms?
+    - How overcrowding dey increase banana disease?
+
+- intent: ask_banana_411
+  examples: |
+    - Why does banana require high potassium supply?
+    - Why banana need plenty potassium?
+
+- intent: ask_banana_412
+  examples: |
+    - How does nutrient imbalance affect banana bunch size?
+    - How nutrient imbalance dey affect banana bunch?
+
+- intent: ask_banana_413
+  examples: |
+    - Why does banana need regular watering?
+    - Why banana need water often?
+
+- intent: ask_banana_414
+  examples: |
+    - How does water stress affect banana fruit filling?
+    - How water stress dey affect banana fruit?
+
+- intent: ask_banana_415
+  examples: |
+    - Which insect pest commonly attacks banana stems?
+    - Which insect dey attack banana stem?
+
+- intent: ask_banana_416
+  examples: |
+    - How do banana weevils reduce plant strength?
+    - How banana weevil dey weaken plant?
+
+- intent: ask_banana_417
+  examples: |
+    - Why is sanitation important in banana pest management?
+    - Why sanitation important for banana pest?
+
+- intent: ask_banana_418
+  examples: |
+    - Which pest feeds on banana leaves at night?
+    - Which pest dey chop banana leaf for night?
+
+- intent: ask_banana_419
+  examples: |
+    - How does nematode infestation affect banana roots?
+    - How nematode dey affect banana root?
+
+- intent: ask_banana_420
+  examples: |
+    - Why are banana farms prone to rapid pest spread?
+    - Why pest dey spread fast for banana farm?
+
+- intent: ask_banana_421
+  examples: |
+    - Which disease causes yellowing and wilting in bananas?
+    - Which disease dey make banana yellow and wither?
+
+- intent: ask_banana_422
+  examples: |
+    - How does poor tool hygiene spread banana diseases?
+    - How dirty tool dey spread banana disease?
+
+- intent: ask_banana_423
+  examples: |
+    - Why should excess banana suckers be removed?
+    - Why remove extra sucker for banana?
+
+- intent: ask_banana_424
+  examples: |
+    - How does desuckering improve banana bunch size?
+    - How desuckering dey improve banana bunch?
+
+- intent: ask_banana_425
+  examples: |
+    - Why does banana flower only once in its lifetime?
+    - Why banana dey flower once?
+
+- intent: ask_banana_426
+  examples: |
+    - How does delayed flowering affect banana harvest time?
+    - How late flowering dey affect banana harvest?
+
+- intent: ask_banana_427
+  examples: |
+    - How do farmers know when banana is ready for harvest?
+    - How farmer dey know say banana don ready?
+
+- intent: ask_banana_428
+  examples: |
+    - How does harvesting too late affect banana quality?
+    - How late harvest dey affect banana?
+
+- intent: ask_banana_429
+  examples: |
+    - Why should banana bunches be handled carefully after harvest?
+    - Why handle banana gently after harvest?
+
+- intent: ask_banana_430
+  examples: |
+    - How does temperature affect banana ripening speed?
+    - How temperature dey affect banana ripening?
+
+- intent: ask_banana_431
+  examples: |
+    - Why are bananas sometimes dried after harvest?
+    - Why dem dey dry banana?
+
+- intent: ask_banana_432
+  examples: |
+    - How does poor processing affect banana products?
+    - How bad processing dey affect banana product?
+
+- intent: ask_banana_433
+  examples: |
+    - Why is banana recommended as an energy food?
+    - Why banana good as energy food?
+
+- intent: ask_banana_434
+  examples: |
+    - How does banana consumption support digestion?
+    - How banana dey help digestion?
+
+- intent: ask_banana_435
+  examples: |
+    - Why is banana farming attractive to smallholder farmers?
+    - Why banana farming good for small farmer?
+
+- intent: ask_banana_436
+  examples: |
+    - How does poor farm management reduce banana profitability?
+    - How bad management dey reduce banana gain?
+
+- intent: ask_banana_437
+  examples: |
+    - Why is mulching encouraged in banana farms?
+    - Why mulching good for banana farm?
+
+- intent: ask_banana_438
+  examples: |
+    - How does intercropping improve banana farm sustainability?
+    - How intercropping dey help banana farm?
+
+- intent: ask_banana_439
+  examples: |
+    - How does climate change threaten banana production?
+    - How climate change dey affect banana?
+
+- intent: ask_banana_440
+  examples: |
+    - How can climate-smart practices protect banana farms?
+    - How climate-smart practice dey protect banana farm?
+
+- intent: ask_banana_441
+  examples: |
+    - Why is extension support important for banana farmers?
+    - Why extension important for banana farmer?
+
+- intent: ask_banana_442
+  examples: |
+    - How does farmer training reduce banana disease losses?
+    - How training dey reduce banana disease loss?
+
+- intent: ask_banana_443
+  examples: |
+    - Why does banana farming require regular field visits?
+    - Why banana farming need frequent checking?
+
+- intent: ask_banana_444
+  examples: |
+    - How does poor labor management affect banana yield?
+    - How poor labor management dey affect banana?
+
+- intent: ask_banana_445
+  examples: |
+    - Why should protective gear be used during banana spraying?
+    - Why use protective wear when spraying banana?
+
+- intent: ask_banana_446
+  examples: |
+    - How does improper chemical use affect banana consumers?
+    - How wrong chemical use dey affect people?
+
+- intent: ask_banana_447
+  examples: |
+    - Why are bananas commonly grown in home gardens?
+    - Why people dey plant banana for house?
+
+- intent: ask_banana_448
+  examples: |
+    - How does banana farming support rural livelihoods?
+    - How banana farming dey support village people?
+
+- intent: ask_banana_449
+  examples: |
+    - Why will banana remain important in Nigerian agriculture?
+    - Why banana go still important for Nigeria?
+
+- intent: ask_banana_450
+  examples: |
+    - Why is proper banana management essential for good yield?
+    - Why good banana management important?
+
+- intent: ask_banana_451
+  examples: |
+    - Why is early weed control important in newly planted banana fields?
+    - Why early weed control important for new banana farm?
+
+- intent: ask_banana_452
+  examples: |
+    - How does delayed field establishment affect banana stand strength?
+    - How late establishment dey affect banana stand?
+
+- intent: ask_banana_453
+  examples: |
+    - Which weeds commonly compete with banana plants?
+    - Which weed dey compete with banana?
+
+- intent: ask_banana_454
+  examples: |
+    - How does poor weed management increase banana pest problems?
+    - How poor weed control dey increase banana pest?
+
+- intent: ask_banana_455
+  examples: |
+    - Why do bananas show nutrient deficiency symptoms quickly?
+    - Why banana dey show nutrient problem fast?
+
+- intent: ask_banana_456
+  examples: |
+    - How does magnesium deficiency affect banana leaves?
+    - How magnesium lack dey affect banana leaf?
+
+- intent: ask_banana_457
+  examples: |
+    - Why does banana suffer quickly during water shortage?
+    - Why banana dey suffer fast if water no dey?
+
+- intent: ask_banana_458
+  examples: |
+    - How does excessive irrigation affect banana productivity?
+    - How too much water dey affect banana?
+
+- intent: ask_banana_459
+  examples: |
+    - Which pest damages banana roots underground?
+    - Which pest dey damage banana root underground?
+
+- intent: ask_banana_460
+  examples: |
+    - How does nematode attack reduce banana yield?
+    - How nematode attack dey reduce banana yield?
+
+- intent: ask_banana_461
+  examples: |
+    - Why is crop rotation difficult in banana pest control?
+    - Why rotation hard for banana pest control?
+
+- intent: ask_banana_462
+  examples: |
+    - Which pest causes shredding of banana leaves?
+    - Which pest dey tear banana leaf?
+
+- intent: ask_banana_463
+  examples: |
+    - How does pest damage increase banana plant lodging?
+    - How pest damage dey make banana fall?
+
+- intent: ask_banana_464
+  examples: |
+    - Which disease causes dark streaks on banana leaves?
+    - Which disease dey cause dark mark for banana leaf?
+
+- intent: ask_banana_465
+  examples: |
+    - How does high humidity encourage banana disease development?
+    - How humidity dey encourage banana disease?
+
+- intent: ask_banana_466
+  examples: |
+    - Why should fallen banana leaves be removed from the field?
+    - Why remove fallen banana leaf?
+
+- intent: ask_banana_467
+  examples: |
+    - How does field sanitation reduce banana disease pressure?
+    - How field sanitation dey reduce banana disease?
+
+- intent: ask_banana_468
+  examples: |
+    - Why is banana sensitive to strong wind?
+    - Why strong wind dey affect banana?
+
+- intent: ask_banana_469
+  examples: |
+    - How do windbreaks improve banana plantation stability?
+    - How windbreak dey help banana farm?
+
+- intent: ask_banana_470
+  examples: |
+    - Why should banana be harvested before full ripeness?
+    - Why harvest banana before fully ripe?
+
+- intent: ask_banana_471
+  examples: |
+    - How does harvesting in wet conditions affect banana quality?
+    - How wet harvest dey affect banana?
+
+- intent: ask_banana_472
+  examples: |
+    - Why should latex stains be avoided on harvested bananas?
+    - Why avoid latex stain for banana?
+
+- intent: ask_banana_473
+  examples: |
+    - How does poor packaging increase banana losses?
+    - How bad packaging dey increase banana loss?
+
+- intent: ask_banana_474
+  examples: |
+    - Why are bananas processed into flour?
+    - Why dem dey turn banana to flour?
+
+- intent: ask_banana_475
+  examples: |
+    - How does moisture content affect banana flour quality?
+    - How water content dey affect banana flour?
+
+- intent: ask_banana_476
+  examples: |
+    - Why is banana recommended for children?
+    - Why banana good for children?
+
+- intent: ask_banana_477
+  examples: |
+    - How does banana consumption help muscle function?
+    - How banana dey help muscle?
+
+- intent: ask_banana_478
+  examples: |
+    - Why does banana harvesting require teamwork?
+    - Why banana harvest need teamwork?
+
+- intent: ask_banana_479
+  examples: |
+    - How does lack of skilled labor affect banana yield?
+    - How lack of skilled labor dey affect banana?
+
+- intent: ask_banana_480
+  examples: |
+    - Why should tools be handled carefully in banana farms?
+    - Why handle tool carefully for banana farm?
+
+- intent: ask_banana_481
+  examples: |
+    - How does poor waste disposal affect banana farm health?
+    - How poor waste disposal dey affect banana farm?
+
+- intent: ask_banana_482
+  examples: |
+    - Why is composting encouraged in banana farms?
+    - Why compost good for banana farm?
+
+- intent: ask_banana_483
+  examples: |
+    - How does residue recycling reduce banana production cost?
+    - How residue recycling dey reduce banana cost?
+
+- intent: ask_banana_484
+  examples: |
+    - Why should banana farmers attend training programs?
+    - Why banana farmer suppose attend training?
+
+- intent: ask_banana_485
+  examples: |
+    - How does shared learning improve banana farming outcomes?
+    - How shared learning dey help banana farming?
+
+- intent: ask_banana_486
+  examples: |
+    - Why do communities protect banana farms from animals?
+    - Why community dey protect banana from animal?
+
+- intent: ask_banana_487
+  examples: |
+    - How does collective action improve banana pest control?
+    - How collective action dey help banana pest control?
+
+- intent: ask_banana_488
+  examples: |
+    - Why is banana farming suitable for youth enterprises?
+    - Why banana farming good for youth?
+
+- intent: ask_banana_489
+  examples: |
+    - How can youth innovate in banana value addition?
+    - How youth fit innovate for banana processing?
+
+- intent: ask_banana_490
+  examples: |
+    - Why do women participate actively in banana processing?
+    - Why women dey plenty for banana processing?
+
+- intent: ask_banana_491
+  examples: |
+    - How does banana farming support women-led enterprises?
+    - How banana farming dey support women business?
+
+- intent: ask_banana_492
+  examples: |
+    - Why is record keeping useful in banana production?
+    - Why record keeping important for banana?
+
+- intent: ask_banana_493
+  examples: |
+    - How does farm data help improve banana decision making?
+    - How farm data dey help banana decision?
+
+- intent: ask_banana_494
+  examples: |
+    - Why should banana farmers avoid overusing chemicals?
+    - Why banana farmer no suppose overuse chemical?
+
+- intent: ask_banana_495
+  examples: |
+    - How does responsible farming improve banana market trust?
+    - How responsible farming dey improve banana trust?
+
+- intent: ask_banana_496
+  examples: |
+    - Why is uniform banana size important after harvest?
+    - Why uniform banana size important?
+
+- intent: ask_banana_497
+  examples: |
+    - How does stress during growth affect banana texture?
+    - How stress dey affect banana texture?
+
+- intent: ask_banana_498
+  examples: |
+    - Why will banana farming remain relevant for food security?
+    - Why banana farming go remain important?
+
+- intent: ask_banana_499
+  examples: |
+    - How can improved varieties enhance banana resilience?
+    - How improved variety dey help banana?
+
+- intent: ask_banana_500
+  examples: |
+    - Why is good management key to successful banana production?
+    - Why good management important for banana?
+
+- intent: ask_plantain_501
+  examples: |
+    - Why is plantain an important staple crop in southern Nigeria?
+    - Why plantain important for southern Nigeria?
+
+- intent: ask_plantain_502
+  examples: |
+    - What type of plantain is commonly grown for cooking in Nigeria?
+    - Which plantain type dem dey plant for cooking?
+
+- intent: ask_plantain_503
+  examples: |
+    - What climate condition favors plantain growth?
+    - Which climate plantain dey like?
+
+- intent: ask_plantain_504
+  examples: |
+    - How does prolonged dry season affect plantain yield?
+    - How long dry season dey affect plantain yield?
+
+- intent: ask_plantain_505
+  examples: |
+    - What soil type is best for plantain cultivation?
+    - Which soil good for plantain?
+
+- intent: ask_plantain_506
+  examples: |
+    - Why does waterlogged soil reduce plantain performance?
+    - Why waterlogged soil bad for plantain?
+
+- intent: ask_plantain_507
+  examples: |
+    - What planting material is commonly used for plantain?
+    - Which planting material dem dey use for plantain?
+
+- intent: ask_plantain_508
+  examples: |
+    - Why should diseased suckers not be used for planting plantain?
+    - Why no good plant diseased sucker?
+
+- intent: ask_plantain_509
+  examples: |
+    - Why is proper spacing important in plantain farms?
+    - Why spacing important for plantain?
+
+- intent: ask_plantain_510
+  examples: |
+    - How does overcrowding affect plantain stem strength?
+    - How overcrowding dey affect plantain stem?
+
+- intent: ask_plantain_511
+  examples: |
+    - Why does plantain require regular nutrient supply?
+    - Why plantain need regular food?
+
+- intent: ask_plantain_512
+  examples: |
+    - How does potassium deficiency affect plantain yield?
+    - How potassium lack dey affect plantain?
+
+- intent: ask_plantain_513
+  examples: |
+    - Why is consistent water supply important for plantain?
+    - Why steady water important for plantain?
+
+- intent: ask_plantain_514
+  examples: |
+    - How does excessive irrigation increase plantain disease risk?
+    - How too much water dey increase plantain disease?
+
+- intent: ask_plantain_515
+  examples: |
+    - Which pest commonly attacks plantain roots?
+    - Which pest dey attack plantain root?
+
+- intent: ask_plantain_516
+  examples: |
+    - How does nematode damage affect plantain stability?
+    - How nematode damage dey affect plantain?
+
+- intent: ask_plantain_517
+  examples: |
+    - Which insect pest damages plantain stems internally?
+    - Which insect dey bore plantain stem?
+
+- intent: ask_plantain_518
+  examples: |
+    - Why is weevil infestation difficult to detect early?
+    - Why hard to notice weevil early?
+
+- intent: ask_plantain_519
+  examples: |
+    - What disease causes leaf yellowing in plantain?
+    - Which disease dey cause plantain leaf yellow?
+
+- intent: ask_plantain_520
+  examples: |
+    - How does poor airflow increase plantain disease pressure?
+    - How poor airflow dey increase plantain disease?
+
+- intent: ask_plantain_521
+  examples: |
+    - Why should weeds be controlled in young plantain farms?
+    - Why control weed for young plantain?
+
+- intent: ask_plantain_522
+  examples: |
+    - How does weed cover increase pest presence in plantain farms?
+    - How weed dey increase pest for plantain?
+
+- intent: ask_plantain_523
+  examples: |
+    - Why should excess suckers be removed from plantain stools?
+    - Why remove extra sucker for plantain?
+
+- intent: ask_plantain_524
+  examples: |
+    - How does poor sucker management affect plantain bunch size?
+    - How poor sucker control dey affect bunch size?
+
+- intent: ask_plantain_525
+  examples: |
+    - Why is plantain vulnerable to strong winds?
+    - Why strong wind dey affect plantain?
+
+- intent: ask_plantain_526
+  examples: |
+    - How do windbreaks help plantain farms?
+    - How windbreak dey help plantain?
+
+- intent: ask_plantain_527
+  examples: |
+    - When is the best time to harvest plantain?
+    - When be best time to harvest plantain?
+
+- intent: ask_plantain_528
+  examples: |
+    - How does late harvesting affect plantain shelf life?
+    - How late harvest dey affect plantain?
+
+- intent: ask_plantain_529
+  examples: |
+    - Why should harvested plantain be handled carefully?
+    - Why handle plantain carefully after harvest?
+
+- intent: ask_plantain_530
+  examples: |
+    - How does poor ventilation increase plantain spoilage?
+    - How poor ventilation dey spoil plantain?
+
+- intent: ask_plantain_531
+  examples: |
+    - Why is plantain processed into chips?
+    - Why dem dey process plantain to chips?
+
+- intent: ask_plantain_532
+  examples: |
+    - How does oil temperature affect plantain chip quality?
+    - How oil temperature dey affect plantain chips?
+
+- intent: ask_plantain_533
+  examples: |
+    - Why is plantain considered an energy food?
+    - Why plantain dey give energy?
+
+- intent: ask_plantain_534
+  examples: |
+    - How does plantain consumption support digestion?
+    - How plantain dey help digestion?
+
+- intent: ask_plantain_535
+  examples: |
+    - Why does plantain farming require regular field visits?
+    - Why plantain farm need regular check?
+
+- intent: ask_plantain_536
+  examples: |
+    - How does poor labor management reduce plantain productivity?
+    - How poor labor management dey affect plantain?
+
+- intent: ask_plantain_537
+  examples: |
+    - Why is mulching beneficial in plantain farms?
+    - Why mulching good for plantain?
+
+- intent: ask_plantain_538
+  examples: |
+    - How does organic matter recycling improve plantain soil fertility?
+    - How organic matter recycling dey help soil?
+
+- intent: ask_plantain_539
+  examples: |
+    - Why are extension services important for plantain farmers?
+    - Why extension service important for plantain farmer?
+
+- intent: ask_plantain_540
+  examples: |
+    - How does farmer training improve plantain farm sustainability?
+    - How training dey help plantain farming?
+
+- intent: ask_plantain_541
+  examples: |
+    - Why do communities support plantain farms?
+    - Why community dey support plantain farm?
+
+- intent: ask_plantain_542
+  examples: |
+    - How does community cooperation reduce plantain pest spread?
+    - How community cooperation dey reduce plantain pest?
+
+- intent: ask_plantain_543
+  examples: |
+    - Why is plantain farming attractive to young farmers?
+    - Why plantain farming good for youth?
+
+- intent: ask_plantain_544
+  examples: |
+    - How can youth add value to plantain production?
+    - How youth fit add value to plantain?
+
+- intent: ask_plantain_545
+  examples: |
+    - Why do women play key roles in plantain processing?
+    - Why women dey important for plantain processing?
+
+- intent: ask_plantain_546
+  examples: |
+    - How does plantain farming empower women economically?
+    - How plantain farming dey empower women?
+
+- intent: ask_plantain_547
+  examples: |
+    - Why should plantain farmers keep farm records?
+    - Why plantain farmer suppose keep record?
+
+- intent: ask_plantain_548
+  examples: |
+    - How does record keeping improve plantain planning?
+    - How record keeping dey help planning?
+
+- intent: ask_plantain_549
+  examples: |
+    - Why should chemicals be used carefully in plantain farms?
+    - Why use chemical carefully for plantain?
+
+- intent: ask_plantain_550
+  examples: |
+    - Why is good management essential for successful plantain production?
+    - Why good management important for plantain?
+
+- intent: ask_plantain_551
+  examples: |
+    - Why is land clearing done carefully before establishing a plantain farm?
+    - Why dem dey clear land carefully before plantain planting?
+
+- intent: ask_plantain_552
+  examples: |
+    - How does poor land preparation increase plantain pest pressure?
+    - How poor land prep dey increase plantain pest?
+
+- intent: ask_plantain_553
+  examples: |
+    - Why is mulching encouraged around plantain stands?
+    - Why mulching good for plantain?
+
+- intent: ask_plantain_554
+  examples: |
+    - How can excessive mulching cause problems in plantain farms?
+    - How too much mulch fit cause problem for plantain?
+
+- intent: ask_plantain_555
+  examples: |
+    - Why does nitrogen deficiency show quickly in plantain leaves?
+    - Why nitrogen lack dey show quick for plantain leaf?
+
+- intent: ask_plantain_556
+  examples: |
+    - How does nutrient imbalance affect plantain bunch formation?
+    - How nutrient imbalance dey affect plantain bunch?
+
+- intent: ask_plantain_557
+  examples: |
+    - Why should plantain farms avoid long periods of standing water?
+    - Why plantain farm suppose avoid standing water?
+
+- intent: ask_plantain_558
+  examples: |
+    - How does irregular watering affect plantain fruit filling?
+    - How irregular watering dey affect plantain fruit?
+
+- intent: ask_plantain_559
+  examples: |
+    - Which pest commonly damages plantain corms?
+    - Which pest dey damage plantain corm?
+
+- intent: ask_plantain_560
+  examples: |
+    - How does weevil damage affect plantain nutrient uptake?
+    - How weevil damage dey affect nutrient uptake?
+
+- intent: ask_plantain_561
+  examples: |
+    - Why is sanitation critical for controlling plantain weevils?
+    - Why sanitation important to control weevil?
+
+- intent: ask_plantain_562
+  examples: |
+    - Which pest feeds on young plantain leaves at night?
+    - Which pest dey chop young plantain leaf for night?
+
+- intent: ask_plantain_563
+  examples: |
+    - How does early pest scouting reduce plantain losses?
+    - How early pest check dey reduce loss?
+
+- intent: ask_plantain_564
+  examples: |
+    - Why does leaf wetness duration influence plantain disease severity?
+    - Why leaf wetness dey affect plantain disease?
+
+- intent: ask_plantain_565
+  examples: |
+    - How does infected planting material spread plantain diseases?
+    - How infected sucker dey spread disease?
+
+- intent: ask_plantain_566
+  examples: |
+    - Why should weed control be consistent throughout plantain growth?
+    - Why weed control suppose steady for plantain?
+
+- intent: ask_plantain_567
+  examples: |
+    - How does late weeding reduce plantain yield potential?
+    - How late weeding dey reduce plantain yield?
+
+- intent: ask_plantain_568
+  examples: |
+    - Why is desuckering important after bunch emergence?
+    - Why desuckering important after bunch come out?
+
+- intent: ask_plantain_569
+  examples: |
+    - How does poor field hygiene increase plantain reinfestation?
+    - How dirty field dey increase pest return?
+
+- intent: ask_plantain_570
+  examples: |
+    - Why should harvest tools be disinfected in plantain farms?
+    - Why clean harvest tool for plantain?
+
+- intent: ask_plantain_571
+  examples: |
+    - How does rough handling during harvest affect plantain quality?
+    - How rough harvest dey affect plantain?
+
+- intent: ask_plantain_572
+  examples: |
+    - Why should harvested plantain be shaded immediately?
+    - Why put harvested plantain for shade?
+
+- intent: ask_plantain_573
+  examples: |
+    - How does delayed transport affect plantain shelf life?
+    - How delayed transport dey affect plantain?
+
+- intent: ask_plantain_574
+  examples: |
+    - Why should plantain be processed soon after harvest?
+    - Why process plantain quick after harvest?
+
+- intent: ask_plantain_575
+  examples: |
+    - How does slice thickness affect plantain drying quality?
+    - How slice thickness dey affect drying?
+
+- intent: ask_plantain_576
+  examples: |
+    - Why is plantain recommended for physically active people?
+    - Why plantain good for active people?
+
+- intent: ask_plantain_577
+  examples: |
+    - How does plantain fiber support gut health?
+    - How plantain fiber dey help gut?
+
+- intent: ask_plantain_578
+  examples: |
+    - Why is skilled labor important during plantain bunch harvesting?
+    - Why skilled labor important for plantain harvest?
+
+- intent: ask_plantain_579
+  examples: |
+    - How does labor shortage affect plantain farm timing?
+    - How labor shortage dey affect plantain timing?
+
+- intent: ask_plantain_580
+  examples: |
+    - Why is residue composting encouraged in plantain farms?
+    - Why compost residue for plantain?
+
+- intent: ask_plantain_581
+  examples: |
+    - How does sustainable management improve long-term plantain yield?
+    - How sustainable management dey improve yield?
+
+- intent: ask_plantain_582
+  examples: |
+    - Why do plantain farmers benefit from demonstration plots?
+    - Why demo plot dey help plantain farmer?
+
+- intent: ask_plantain_583
+  examples: |
+    - How does farmer-to-farmer learning improve plantain adoption?
+    - How farmer-to-farmer learning dey help?
+
+- intent: ask_plantain_584
+  examples: |
+    - Why is joint pest monitoring useful in plantain communities?
+    - Why joint pest monitoring good?
+
+- intent: ask_plantain_585
+  examples: |
+    - How does community sanitation reduce plantain disease outbreaks?
+    - How community sanitation dey reduce disease?
+
+- intent: ask_plantain_586
+  examples: |
+    - Why is plantain value addition suitable for youth groups?
+    - Why plantain value addition good for youth?
+
+- intent: ask_plantain_587
+  examples: |
+    - How can digital tools support youth in plantain farming?
+    - How digital tools fit help youth plantain farming?
+
+- intent: ask_plantain_588
+  examples: |
+    - Why do women dominate plantain retail processing activities?
+    - Why women dey dominate plantain processing?
+
+- intent: ask_plantain_589
+  examples: |
+    - How does access to training empower women plantain processors?
+    - How training dey empower women processors?
+
+- intent: ask_plantain_590
+  examples: |
+    - Why should plantain processors document processing steps?
+    - Why record processing steps for plantain?
+
+- intent: ask_plantain_591
+  examples: |
+    - How does data analysis improve plantain farm efficiency?
+    - How data analysis dey improve efficiency?
+
+- intent: ask_plantain_592
+  examples: |
+    - Why should plantain waste be disposed responsibly?
+    - Why dispose plantain waste well?
+
+- intent: ask_plantain_593
+  examples: |
+    - How does ethical farming improve community trust?
+    - How ethical farming dey improve trust?
+
+- intent: ask_plantain_594
+  examples: |
+    - Why is uniform maturity important for plantain bunches?
+    - Why uniform maturity important?
+
+- intent: ask_plantain_595
+  examples: |
+    - How does plant stress during growth affect plantain texture?
+    - How stress dey affect plantain texture?
+
+- intent: ask_plantain_596
+  examples: |
+    - Why is plantain important for future food systems?
+    - Why plantain important for future food?
+
+- intent: ask_plantain_597
+  examples: |
+    - How can improved agronomy increase plantain resilience?
+    - How better agronomy dey help plantain?
+
+- intent: ask_plantain_598
+  examples: |
+    - Why is simple mechanization useful in plantain processing?
+    - Why simple machine good for plantain processing?
+
+- intent: ask_plantain_599
+  examples: |
+    - How can packaging innovation reduce plantain spoilage?
+    - How packaging innovation dey reduce spoilage?
+
+- intent: ask_plantain_600
+  examples: |
+    - Why does integrated management lead to successful plantain farming?
+    - Why integrated management dey help plantain farming?
+
+- intent: ask_beans_601
+  examples: |
+    - Why is early land preparation important for beans cultivation in Nigeria?
+    - Why early land preparation important for beans farming?
+
+- intent: ask_beans_602
+  examples: |
+    - How does deep ploughing affect root development in beans?
+    - How deep ploughing dey affect beans root?
+
+- intent: ask_beans_603
+  examples: |
+    - Why do farmers choose early-maturing bean varieties?
+    - Why farmer dey choose fast-maturing beans?
+
+- intent: ask_beans_604
+  examples: |
+    - How does varietal resistance reduce pest damage in beans?
+    - How resistant variety dey reduce pest damage for beans?
+
+- intent: ask_beans_605
+  examples: |
+    - Why is correct planting depth important for beans germination?
+    - Why correct planting depth important for beans?
+
+- intent: ask_beans_606
+  examples: |
+    - How does overcrowding affect beans yield?
+    - How overcrowding dey affect beans yield?
+
+- intent: ask_beans_607
+  examples: |
+    - Why do beans require phosphorus during early growth?
+    - Why beans need phosphorus early?
+
+- intent: ask_beans_608
+  examples: |
+    - How does nitrogen fixation benefit beans and soil fertility?
+    - How nitrogen fixation dey help beans and soil?
+
+- intent: ask_beans_609
+  examples: |
+    - Why is excessive rainfall harmful to beans production?
+    - Why too much rain bad for beans?
+
+- intent: ask_beans_610
+  examples: |
+    - How does moisture stress during flowering affect beans yield?
+    - How water stress for flowering dey affect beans?
+
+- intent: ask_beans_611
+  examples: |
+    - Why is early weed control critical in beans farms?
+    - Why early weed control important for beans?
+
+- intent: ask_beans_612
+  examples: |
+    - How does delayed weeding affect beans nodulation?
+    - How late weeding dey affect beans nodules?
+
+- intent: ask_beans_613
+  examples: |
+    - Which insect pest commonly attacks beans seedlings?
+    - Which insect dey attack young beans?
+
+- intent: ask_beans_614
+  examples: |
+    - How do aphids reduce beans growth?
+    - How aphids dey reduce beans growth?
+
+- intent: ask_beans_615
+  examples: |
+    - Why does excessive nitrogen fertilizer increase aphid infestation in beans?
+    - Why too much nitrogen dey increase aphids?
+
+- intent: ask_beans_616
+  examples: |
+    - Which pest damages beans pods in the field?
+    - Which pest dey damage beans pod?
+
+- intent: ask_beans_617
+  examples: |
+    - How does timely harvesting reduce pod borer damage in beans?
+    - How timely harvest dey reduce pod borer damage?
+
+- intent: ask_beans_618
+  examples: |
+    - Why does high humidity encourage fungal diseases in beans?
+    - Why high humidity dey cause fungal disease for beans?
+
+- intent: ask_beans_619
+  examples: |
+    - How does crop rotation reduce disease buildup in beans farms?
+    - How crop rotation dey reduce beans disease?
+
+- intent: ask_beans_620
+  examples: |
+    - Why is thinning sometimes necessary in beans farms?
+    - Why thinning important for beans?
+
+- intent: ask_beans_621
+  examples: |
+    - How does plant population influence beans pod size?
+    - How plant number dey affect beans pod size?
+
+- intent: ask_beans_622
+  examples: |
+    - Why should beans be harvested when pods turn yellow?
+    - Why harvest beans when pod yellow?
+
+- intent: ask_beans_623
+  examples: |
+    - How does delayed harvesting increase storage losses in beans?
+    - How delayed harvest dey increase storage loss?
+
+- intent: ask_beans_624
+  examples: |
+    - Why should beans be properly dried before storage?
+    - Why dry beans well before storage?
+
+- intent: ask_beans_625
+  examples: |
+    - How does moisture content affect beans storage lifespan?
+    - How moisture content dey affect beans storage?
+
+- intent: ask_beans_626
+  examples: |
+    - Why are airtight containers recommended for storing beans?
+    - Why airtight container good for beans storage?
+
+- intent: ask_beans_627
+  examples: |
+    - How does temperature affect beans seed viability in storage?
+    - How temperature dey affect beans seed?
+
+- intent: ask_beans_628
+  examples: |
+    - Why are beans considered a protein-rich food?
+    - Why beans dey called protein food?
+
+- intent: ask_beans_629
+  examples: |
+    - How does regular beans consumption support household nutrition?
+    - How beans consumption dey help nutrition?
+
+- intent: ask_beans_630
+  examples: |
+    - Why are damaged beans removed before processing?
+    - Why remove damaged beans before processing?
+
+- intent: ask_beans_631
+  examples: |
+    - How does soaking reduce cooking time of beans?
+    - How soaking dey reduce beans cooking time?
+
+- intent: ask_beans_632
+  examples: |
+    - Why are beans suitable for sustainable farming systems?
+    - Why beans good for sustainable farming?
+
+- intent: ask_beans_633
+  examples: |
+    - How does integrating beans into crop rotation reduce fertilizer needs?
+    - How beans for rotation dey reduce fertilizer need?
+
+- intent: ask_beans_634
+  examples: |
+    - Why is timely labor important during beans harvesting?
+    - Why timely labor important for beans harvest?
+
+- intent: ask_beans_635
+  examples: |
+    - How does labor shortage affect beans farm operations?
+    - How labor shortage dey affect beans farming?
+
+- intent: ask_beans_636
+  examples: |
+    - Why should beans farmers keep production records?
+    - Why beans farmer suppose keep record?
+
+- intent: ask_beans_637
+  examples: |
+    - How does record analysis improve decision-making in beans farming?
+    - How record analysis dey help decision?
+
+- intent: ask_beans_638
+  examples: |
+    - Why do beans farmers benefit from extension services?
+    - Why beans farmer dey benefit from extension?
+
+- intent: ask_beans_639
+  examples: |
+    - How does farmer training reduce beans production risks?
+    - How training dey reduce beans risk?
+
+- intent: ask_beans_640
+  examples: |
+    - Why is group farming useful for small-scale beans farmers?
+    - Why group farming good for beans farmers?
+
+- intent: ask_beans_641
+  examples: |
+    - How does collective action improve beans pest management?
+    - How collective action dey improve pest control?
+
+- intent: ask_beans_642
+  examples: |
+    - Why is beans farming attractive to young farmers?
+    - Why beans farming dey attract youth?
+
+- intent: ask_beans_643
+  examples: |
+    - How can youth use technology to improve beans productivity?
+    - How youth fit use tech improve beans?
+
+- intent: ask_beans_644
+  examples: |
+    - Why do women play a key role in beans processing?
+    - Why women dey important for beans processing?
+
+- intent: ask_beans_645
+  examples: |
+    - How does access to credit empower women beans processors?
+    - How credit dey empower women beans processors?
+
+- intent: ask_beans_646
+  examples: |
+    - Why should chemical use be carefully managed in beans farming?
+    - Why manage chemical well for beans?
+
+- intent: ask_beans_647
+  examples: |
+    - How does responsible farming protect beans consumers?
+    - How responsible farming dey protect consumers?
+
+- intent: ask_beans_648
+  examples: |
+    - Why is seed purity important for beans planting?
+    - Why seed purity important for beans?
+
+- intent: ask_beans_649
+  examples: |
+    - How does poor seed quality affect beans yield stability?
+    - How poor seed quality dey affect yield?
+
+- intent: ask_beans_650
+  examples: |
+    - Why does integrated crop management improve beans productivity?
+    - Why integrated management dey improve beans yield?
+
+- intent: ask_beans_651
+  examples: |
+    - Why do beans grow poorly on compacted soils?
+    - Why beans no dey grow well for hard soil?
+
+- intent: ask_beans_652
+  examples: |
+    - How does soil pH influence nutrient availability for beans?
+    - How soil pH dey affect beans nutrient?
+
+- intent: ask_beans_653
+  examples: |
+    - Why is planting beans at the onset of rains recommended?
+    - Why dem dey advise plant beans when rain just start?
+
+- intent: ask_beans_654
+  examples: |
+    - How does late planting increase pest pressure in beans farms?
+    - How late planting dey increase pest for beans?
+
+- intent: ask_beans_655
+  examples: |
+    - Why do beans show yellowing when phosphorus is low?
+    - Why beans leaf dey yellow when phosphorus low?
+
+- intent: ask_beans_656
+  examples: |
+    - How does potassium deficiency affect beans drought tolerance?
+    - How potassium lack dey affect beans for dry period?
+
+- intent: ask_beans_657
+  examples: |
+    - Why do beans wilt quickly during dry spells?
+    - Why beans dey wilt fast during dry time?
+
+- intent: ask_beans_658
+  examples: |
+    - How does water stress at pod filling stage reduce beans yield?
+    - How water stress for pod filling dey reduce yield?
+
+- intent: ask_beans_659
+  examples: |
+    - Why do broadleaf weeds compete strongly with beans?
+    - Why broadleaf weed dey compete strong with beans?
+
+- intent: ask_beans_660
+  examples: |
+    - How does weed pressure affect beans flowering time?
+    - How weed plenty dey affect beans flowering?
+
+- intent: ask_beans_661
+  examples: |
+    - Which pest commonly feeds on beans leaves during vegetative stage?
+    - Which pest dey chop beans leaf?
+
+- intent: ask_beans_662
+  examples: |
+    - How does leaf feeding by beetles affect beans yield?
+    - How leaf beetle damage dey affect yield?
+
+- intent: ask_beans_663
+  examples: |
+    - Why is early pest scouting important in beans farms?
+    - Why early pest check important for beans?
+
+- intent: ask_beans_664
+  examples: |
+    - Which pest attacks stored beans grains?
+    - Which pest dey attack beans for storage?
+
+- intent: ask_beans_665
+  examples: |
+    - How does poor drying encourage bruchid infestation in stored beans?
+    - How poor drying dey encourage bruchid?
+
+- intent: ask_beans_666
+  examples: |
+    - Why do beans leaves develop spots during wet seasons?
+    - Why beans leaf dey get spot during rainy season?
+
+- intent: ask_beans_667
+  examples: |
+    - How does seed-borne disease affect beans field establishment?
+    - How seed disease dey affect beans field?
+
+- intent: ask_beans_668
+  examples: |
+    - Why is crop rotation advised for beans production?
+    - Why crop rotation good for beans?
+
+- intent: ask_beans_669
+  examples: |
+    - How does continuous beans cropping affect soil health?
+    - How planting beans every year dey affect soil?
+
+- intent: ask_beans_670
+  examples: |
+    - Why should beans be harvested during dry weather?
+    - Why harvest beans for dry weather?
+
+- intent: ask_beans_671
+  examples: |
+    - How does mechanical damage during harvest affect beans quality?
+    - How harvest damage dey affect beans quality?
+
+- intent: ask_beans_672
+  examples: |
+    - Why is cleaning beans grains necessary after threshing?
+    - Why clean beans after threshing?
+
+- intent: ask_beans_673
+  examples: |
+    - How does sun drying duration affect beans seed quality?
+    - How long sun drying dey affect beans seed?
+
+- intent: ask_beans_674
+  examples: |
+    - Why is regular inspection important during beans storage?
+    - Why check beans storage regularly?
+
+- intent: ask_beans_675
+  examples: |
+    - How does storage hygiene influence beans shelf life?
+    - How clean store dey affect beans shelf life?
+
+- intent: ask_beans_676
+  examples: |
+    - Why are beans recommended for balanced diets in Nigeria?
+    - Why beans good for balanced diet?
+
+- intent: ask_beans_677
+  examples: |
+    - How does beans consumption support blood sugar control?
+    - How beans dey help control sugar?
+
+- intent: ask_beans_678
+  examples: |
+    - Why are beans often sorted by size before processing?
+    - Why dem dey sort beans by size?
+
+- intent: ask_beans_679
+  examples: |
+    - How does improper processing reduce beans nutritional value?
+    - How bad processing dey reduce nutrition?
+
+- intent: ask_beans_680
+  examples: |
+    - Why are beans suitable for climate-smart agriculture?
+    - Why beans good for climate-smart farming?
+
+- intent: ask_beans_681
+  examples: |
+    - How does intercropping beans improve farm resilience?
+    - How intercropping beans dey help farm?
+
+- intent: ask_beans_682
+  examples: |
+    - Why is labor demand high during beans harvesting period?
+    - Why beans harvest need plenty labor?
+
+- intent: ask_beans_683
+  examples: |
+    - How does mechanization reduce labor stress in beans farming?
+    - How machine dey reduce labor stress for beans?
+
+- intent: ask_beans_684
+  examples: |
+    - Why should beans farmers record pest outbreaks?
+    - Why record pest outbreak for beans?
+
+- intent: ask_beans_685
+  examples: |
+    - How does long-term record keeping improve beans productivity?
+    - How long record keeping dey improve beans yield?
+
+- intent: ask_beans_686
+  examples: |
+    - Why are demonstration farms useful for beans farmers?
+    - Why demo farm dey help beans farmers?
+
+- intent: ask_beans_687
+  examples: |
+    - How does extension advice reduce beans crop failure?
+    - How extension advice dey reduce beans failure?
+
+- intent: ask_beans_688
+  examples: |
+    - Why is shared storage beneficial for beans farmers?
+    - Why shared storage good for beans farmers?
+
+- intent: ask_beans_689
+  examples: |
+    - How does collective marketing improve beans production planning?
+    - How collective marketing dey improve planning?
+
+- intent: ask_beans_690
+  examples: |
+    - Why is beans farming suitable for school demonstration plots?
+    - Why beans good for school demo plot?
+
+- intent: ask_beans_691
+  examples: |
+    - How can agribusiness training attract youth into beans value chains?
+    - How training fit attract youth to beans business?
+
+- intent: ask_beans_692
+  examples: |
+    - Why are women important in beans seed selection?
+    - Why women important for beans seed selection?
+
+- intent: ask_beans_693
+  examples: |
+    - How does women participation improve beans quality control?
+    - How women participation dey improve quality?
+
+- intent: ask_beans_694
+  examples: |
+    - Why should expired chemicals not be used on beans farms?
+    - Why no suppose use expired chemical for beans?
+
+- intent: ask_beans_695
+  examples: |
+    - How does ethical pesticide use protect beans ecosystems?
+    - How correct pesticide use dey protect ecosystem?
+
+- intent: ask_beans_696
+  examples: |
+    - Why is uniform grain color important for beans quality assessment?
+    - Why uniform color important for beans?
+
+- intent: ask_beans_697
+  examples: |
+    - How does field stress affect beans grain hardness?
+    - How field stress dey affect beans hardness?
+
+- intent: ask_beans_698
+  examples: |
+    - Why are beans important for future protein supply in Nigeria?
+    - Why beans important for future protein?
+
+- intent: ask_beans_699
+  examples: |
+    - How can improved beans varieties support food security?
+    - How improved beans variety dey help food security?
+
+- intent: ask_beans_700
+  examples: |
+    - Why does good farm management ensure successful beans production?
+    - Why good management dey ensure beans success?
+
+- intent: ask_rice_701
+  examples: |
+    - Why does rice grow well in clayey soils?
+    - Why rice dey grow well for clay soil?
+
+- intent: ask_rice_702
+  examples: |
+    - How does soil structure influence rice root development?
+    - How soil structure dey affect rice root?
+
+- intent: ask_rice_703
+  examples: |
+    - Why are rice seedlings raised in nurseries before transplanting?
+    - Why dem dey raise rice for nursery first?
+
+- intent: ask_rice_704
+  examples: |
+    - How does seedling age affect rice establishment after transplanting?
+    - How seedling age dey affect rice after transplant?
+
+- intent: ask_rice_705
+  examples: |
+    - Why is transplanting rice done at shallow depth?
+    - Why dem dey transplant rice shallow?
+
+- intent: ask_rice_706
+  examples: |
+    - How does planting density affect rice tiller formation?
+    - How planting spacing dey affect tiller?
+
+- intent: ask_rice_707
+  examples: |
+    - Why is standing water maintained in rice fields?
+    - Why water dey stand for rice farm?
+
+- intent: ask_rice_708
+  examples: |
+    - How does alternate wetting and drying affect rice yield?
+    - How wet and dry method dey affect rice yield?
+
+- intent: ask_rice_709
+  examples: |
+    - Why does rice require high nitrogen supply?
+    - Why rice need plenty nitrogen?
+
+- intent: ask_rice_710
+  examples: |
+    - How does split fertilizer application improve rice nutrient use?
+    - How fertilizer split dey help rice?
+
+- intent: ask_rice_711
+  examples: |
+    - Why are weeds a major problem in rice fields?
+    - Why weed dey be big problem for rice?
+
+- intent: ask_rice_712
+  examples: |
+    - How does early weed control affect rice yield potential?
+    - How early weed control dey affect rice yield?
+
+- intent: ask_rice_713
+  examples: |
+    - Which insect pest commonly feeds on rice stems?
+    - Which insect dey attack rice stem?
+
+- intent: ask_rice_714
+  examples: |
+    - How does stem borer infestation reduce rice grain filling?
+    - How stem borer dey reduce grain filling?
+
+- intent: ask_rice_715
+  examples: |
+    - Why do birds pose a threat to rice at maturity stage?
+    - Why birds dey disturb rice when e mature?
+
+- intent: ask_rice_716
+  examples: |
+    - How does synchronized planting reduce bird damage in rice fields?
+    - How synchronized planting dey reduce bird damage?
+
+- intent: ask_rice_717
+  examples: |
+    - Why do rice leaves develop brown spots during humid weather?
+    - Why rice leaf dey get brown spot for humid time?
+
+- intent: ask_rice_718
+  examples: |
+    - How does poor field drainage increase rice disease incidence?
+    - How poor drainage dey increase rice disease?
+
+- intent: ask_rice_719
+  examples: |
+    - Why is leveling important in rice fields?
+    - Why leveling important for rice farm?
+
+- intent: ask_rice_720
+  examples: |
+    - How does uneven land affect rice nutrient efficiency?
+    - How uneven land dey affect nutrient?
+
+- intent: ask_rice_721
+  examples: |
+    - Why should rice be harvested at full maturity?
+    - Why harvest rice when e fully mature?
+
+- intent: ask_rice_722
+  examples: |
+    - How does delayed harvesting increase grain loss in rice?
+    - How delayed harvest dey cause grain loss?
+
+- intent: ask_rice_723
+  examples: |
+    - Why is threshing done soon after rice harvest?
+    - Why thresh rice quick after harvest?
+
+- intent: ask_rice_724
+  examples: |
+    - How does improper drying affect rice milling quality?
+    - How bad drying dey affect milling?
+
+- intent: ask_rice_725
+  examples: |
+    - Why should rice be stored at low moisture content?
+    - Why rice suppose dry well before storage?
+
+- intent: ask_rice_726
+  examples: |
+    - How does poor storage encourage insect infestation in rice?
+    - How bad storage dey cause insect problem?
+
+- intent: ask_rice_727
+  examples: |
+    - Why is parboiling commonly practiced in rice processing?
+    - Why dem dey parboil rice?
+
+- intent: ask_rice_728
+  examples: |
+    - How does parboiling reduce grain breakage during milling?
+    - How parboiling dey reduce grain break?
+
+- intent: ask_rice_729
+  examples: |
+    - Why is rice a major energy source in Nigerian diets?
+    - Why rice dey give energy?
+
+- intent: ask_rice_730
+  examples: |
+    - How does milling degree affect rice nutritional content?
+    - How milling level dey affect nutrition?
+
+- intent: ask_rice_731
+  examples: |
+    - Why is rice sensitive to drought stress?
+    - Why rice no like dry condition?
+
+- intent: ask_rice_732
+  examples: |
+    - How does temperature rise affect rice flowering?
+    - How hot temperature dey affect flowering?
+
+- intent: ask_rice_733
+  examples: |
+    - Why is rice suitable for lowland farming systems?
+    - Why rice fit lowland farming?
+
+- intent: ask_rice_734
+  examples: |
+    - How does residue management improve rice soil fertility?
+    - How residue management dey improve soil?
+
+- intent: ask_rice_735
+  examples: |
+    - Why do extension services promote improved rice practices?
+    - Why extension dey promote better rice practice?
+
+- intent: ask_rice_736
+  examples: |
+    - How does farmer training improve rice productivity?
+    - How training dey improve rice yield?
+
+- intent: ask_rice_737
+  examples: |
+    - Why do rice farmers benefit from shared irrigation systems?
+    - Why shared irrigation dey help rice farmers?
+
+- intent: ask_rice_738
+  examples: |
+    - How does collective action reduce production risks in rice farming?
+    - How collective action dey reduce risk?
+
+- intent: ask_rice_739
+  examples: |
+    - Why is rice farming attractive to young farmers?
+    - Why rice farming attract youth?
+
+- intent: ask_rice_740
+  examples: |
+    - How does mechanization encourage youth participation in rice farming?
+    - How machine dey encourage youth?
+
+- intent: ask_rice_741
+  examples: |
+    - Why are women important in rice processing activities?
+    - Why women important for rice processing?
+
+- intent: ask_rice_742
+  examples: |
+    - How does women inclusion improve rice value chain efficiency?
+    - How women inclusion dey improve value chain?
+
+- intent: ask_rice_743
+  examples: |
+    - Why should rice farmers keep farm records?
+    - Why keep rice farm record?
+
+- intent: ask_rice_744
+  examples: |
+    - How does record keeping improve rice farm planning?
+    - How record keeping dey improve planning?
+
+- intent: ask_rice_745
+  examples: |
+    - Why should protective gear be used during rice spraying?
+    - Why wear protective cloth when spraying rice?
+
+- intent: ask_rice_746
+  examples: |
+    - How does safe pesticide use protect rice ecosystems?
+    - How safe pesticide use dey protect ecosystem?
+
+- intent: ask_rice_747
+  examples: |
+    - Why is uniform grain size important in rice quality?
+    - Why uniform grain size important?
+
+- intent: ask_rice_748
+  examples: |
+    - How does field stress influence rice grain chalkiness?
+    - How field stress dey affect chalky grain?
+
+- intent: ask_rice_749
+  examples: |
+    - Why is rice important for Nigeria’s food security?
+    - Why rice important for food security?
+
+- intent: ask_rice_750
+  examples: |
+    - How can improved rice varieties reduce import dependence?
+    - How improved rice variety fit reduce import?
+
+- intent: ask_rice_751
+  examples: |
+    - Why does rice perform poorly on sandy soils without water control?
+    - Why rice no dey do well for sandy soil without water control?
+
+- intent: ask_rice_752
+  examples: |
+    - How does soil organic matter improve rice productivity?
+    - How organic matter for soil dey help rice?
+
+- intent: ask_rice_753
+  examples: |
+    - Why should nursery beds be raised in high rainfall areas?
+    - Why nursery bed suppose raise for heavy rain area?
+
+- intent: ask_rice_754
+  examples: |
+    - How does seed rate in the nursery affect rice transplant success?
+    - How seed rate for nursery dey affect transplant?
+
+- intent: ask_rice_755
+  examples: |
+    - Why is straight-row transplanting recommended for rice?
+    - Why straight-row transplant good for rice?
+
+- intent: ask_rice_756
+  examples: |
+    - How does transplant shock affect early rice growth?
+    - How transplant shock dey affect early rice growth?
+
+- intent: ask_rice_757
+  examples: |
+    - Why should water depth be reduced at rice tillering stage?
+    - Why reduce water depth when rice dey tiller?
+
+- intent: ask_rice_758
+  examples: |
+    - How does uncontrolled flooding reduce rice yield?
+    - How uncontrolled flood dey reduce rice yield?
+
+- intent: ask_rice_759
+  examples: |
+    - Why does rice show pale green leaves under nitrogen deficiency?
+    - Why rice leaf dey pale green when nitrogen low?
+
+- intent: ask_rice_760
+  examples: |
+    - How does excess nitrogen increase lodging in rice?
+    - How too much nitrogen dey cause rice fall?
+
+- intent: ask_rice_761
+  examples: |
+    - Why are grasses difficult to control in rice fields?
+    - Why grass weed hard to control for rice?
+
+- intent: ask_rice_762
+  examples: |
+    - How does delayed weeding affect rice nutrient uptake?
+    - How late weeding dey affect nutrient uptake?
+
+- intent: ask_rice_763
+  examples: |
+    - Why do rice fields attract armyworms?
+    - Why armyworm dey enter rice farm?
+
+- intent: ask_rice_764
+  examples: |
+    - How does early armyworm attack affect rice establishment?
+    - How early armyworm attack dey affect rice?
+
+- intent: ask_rice_765
+  examples: |
+    - Why are rodents common pests in rice farms?
+    - Why rat dey common for rice farm?
+
+- intent: ask_rice_766
+  examples: |
+    - How does field sanitation reduce rodent damage in rice?
+    - How field sanitation dey reduce rat damage?
+
+- intent: ask_rice_767
+  examples: |
+    - Why does rice blast disease spread rapidly in dense fields?
+    - Why rice blast dey spread fast for dense field?
+
+- intent: ask_rice_768
+  examples: |
+    - How does resistant rice variety reduce disease pressure?
+    - How resistant variety dey reduce disease?
+
+- intent: ask_rice_769
+  examples: |
+    - Why is bund maintenance important in rice farming?
+    - Why bund maintenance important for rice?
+
+- intent: ask_rice_770
+  examples: |
+    - How does poor bunding increase water loss in rice fields?
+    - How bad bunding dey cause water loss?
+
+- intent: ask_rice_771
+  examples: |
+    - Why is harvesting rice too early discouraged?
+    - Why early harvest bad for rice?
+
+- intent: ask_rice_772
+  examples: |
+    - How does moisture level affect rice threshing efficiency?
+    - How moisture dey affect threshing?
+
+- intent: ask_rice_773
+  examples: |
+    - Why should rice be dried immediately after threshing?
+    - Why dry rice immediately after threshing?
+
+- intent: ask_rice_774
+  examples: |
+    - How does uneven drying affect rice storage quality?
+    - How uneven drying dey affect storage?
+
+- intent: ask_rice_775
+  examples: |
+    - Why is aeration important in rice storage facilities?
+    - Why aeration important for rice storage?
+
+- intent: ask_rice_776
+  examples: |
+    - How does long storage duration affect rice aroma?
+    - How long storage dey affect rice aroma?
+
+- intent: ask_rice_777
+  examples: |
+    - Why is soaking important before rice parboiling?
+    - Why soaking important before parboiling?
+
+- intent: ask_rice_778
+  examples: |
+    - How does overheating during parboiling affect rice color?
+    - How overheating dey affect rice color?
+
+- intent: ask_rice_779
+  examples: |
+    - Why is brown rice considered more nutritious than white rice?
+    - Why brown rice dey more nutritious?
+
+- intent: ask_rice_780
+  examples: |
+    - How does polishing reduce rice micronutrient content?
+    - How polishing dey reduce micronutrient?
+
+- intent: ask_rice_781
+  examples: |
+    - Why is rice sensitive to cold temperatures?
+    - Why rice no like cold?
+
+- intent: ask_rice_782
+  examples: |
+    - How does climate variability affect rice planting decisions?
+    - How climate change dey affect rice planting?
+
+- intent: ask_rice_783
+  examples: |
+    - Why is rice straw management important after harvest?
+    - Why rice straw management important?
+
+- intent: ask_rice_784
+  examples: |
+    - How does incorporating rice straw improve soil health?
+    - How mixing straw for soil dey help?
+
+- intent: ask_rice_785
+  examples: |
+    - Why do rice farmers benefit from farmer field schools?
+    - Why farmer field school dey help rice farmers?
+
+- intent: ask_rice_786
+  examples: |
+    - How does peer learning improve rice technology adoption?
+    - How peer learning dey improve adoption?
+
+- intent: ask_rice_787
+  examples: |
+    - Why do irrigation associations support rice production?
+    - Why irrigation group dey help rice?
+
+- intent: ask_rice_788
+  examples: |
+    - How does community coordination reduce rice crop losses?
+    - How community coordination dey reduce losses?
+
+- intent: ask_rice_789
+  examples: |
+    - Why does rice processing attract youth enterprises?
+    - Why rice processing dey attract youth?
+
+- intent: ask_rice_790
+  examples: |
+    - How can digital tools support youth in rice farming?
+    - How digital tools fit help youth for rice farming?
+
+- intent: ask_rice_791
+  examples: |
+    - Why are women central to rice postharvest activities?
+    - Why women important for rice postharvest?
+
+- intent: ask_rice_792
+  examples: |
+    - How does empowering women improve rice household income stability?
+    - How women empowerment dey help income stability?
+
+- intent: ask_rice_793
+  examples: |
+    - Why is yield recording important in rice farming?
+    - Why record yield important for rice?
+
+- intent: ask_rice_794
+  examples: |
+    - How do seasonal records support rice input planning?
+    - How seasonal record dey help planning?
+
+- intent: ask_rice_795
+  examples: |
+    - Why should chemicals not be applied near rice waterways?
+    - Why no spray chemical near water?
+
+- intent: ask_rice_796
+  examples: |
+    - How does responsible chemical use protect rice consumers?
+    - How responsible chemical use dey protect consumers?
+
+- intent: ask_rice_797
+  examples: |
+    - Why is head rice percentage important in quality assessment?
+    - Why head rice percentage important?
+
+- intent: ask_rice_798
+  examples: |
+    - How does field stress affect rice milling recovery?
+    - How field stress dey affect milling recovery?
+
+- intent: ask_rice_799
+  examples: |
+    - Why is mechanized rice farming important for Nigeria’s future?
+    - Why mechanized rice farming important for future?
+
+- intent: ask_rice_800
+  examples: |
+    - How can improved irrigation infrastructure transform rice production?
+    - How better irrigation fit change rice production?
+
+- intent: ask_waterleaf_801
+  examples: |
+    - What is waterleaf and why is it commonly grown in southern Nigeria?
+    - Wetin be waterleaf and why dem dey plant am for south Nigeria?
+
+- intent: ask_waterleaf_802
+  examples: |
+    - Which waterleaf variety grows fastest in Nigeria?
+    - Which waterleaf type dey grow fast for Nigeria?
+
+- intent: ask_waterleaf_803
+  examples: |
+    - What climate conditions favor waterleaf cultivation?
+    - Which weather waterleaf dey like?
+
+- intent: ask_waterleaf_804
+  examples: |
+    - What soil type is best for growing waterleaf?
+    - Which soil good for waterleaf?
+
+- intent: ask_waterleaf_805
+  examples: |
+    - Why does compacted soil reduce waterleaf yield?
+    - Why hard soil dey reduce waterleaf yield?
+
+- intent: ask_waterleaf_806
+  examples: |
+    - How is waterleaf commonly propagated in Nigeria?
+    - How dem dey plant waterleaf?
+
+- intent: ask_waterleaf_807
+  examples: |
+    - Why should waterleaf cuttings be planted immediately after cutting?
+    - Why dem suppose plant waterleaf stem sharp sharp?
+
+- intent: ask_waterleaf_808
+  examples: |
+    - Why is proper spacing important in waterleaf farming?
+    - Why spacing important for waterleaf?
+
+- intent: ask_waterleaf_809
+  examples: |
+    - How often should waterleaf be watered?
+    - How often waterleaf need water?
+
+- intent: ask_waterleaf_810
+  examples: |
+    - Why does excessive watering harm waterleaf plants?
+    - Why too much water dey spoil waterleaf?
+
+- intent: ask_waterleaf_811
+  examples: |
+    - Which pests commonly attack waterleaf farms?
+    - Which pest dey disturb waterleaf?
+
+- intent: ask_waterleaf_812
+  examples: |
+    - How do snails damage waterleaf plants?
+    - How snail dey spoil waterleaf?
+
+- intent: ask_waterleaf_813
+  examples: |
+    - Why is early morning pest inspection effective for waterleaf farms?
+    - Why checking farm early morning good?
+
+- intent: ask_waterleaf_814
+  examples: |
+    - What disease symptom shows poor drainage in waterleaf farms?
+    - Which sign show say drainage no good?
+
+- intent: ask_waterleaf_815
+  examples: |
+    - Why should weeds be controlled early in waterleaf farming?
+    - Why dem suppose remove weed early?
+
+- intent: ask_waterleaf_816
+  examples: |
+    - How does mulching reduce weed growth in waterleaf plots?
+    - How mulching dey stop weed?
+
+- intent: ask_waterleaf_817
+  examples: |
+    - When is waterleaf ready for first harvest?
+    - When waterleaf ready to harvest?
+
+- intent: ask_waterleaf_818
+  examples: |
+    - Why should waterleaf be harvested carefully?
+    - Why dem suppose harvest waterleaf gently?
+
+- intent: ask_waterleaf_819
+  examples: |
+    - Why does waterleaf spoil quickly after harvest?
+    - Why waterleaf dey spoil fast after harvest?
+
+- intent: ask_waterleaf_820
+  examples: |
+    - What nutrients are abundant in waterleaf?
+    - Which food nutrients waterleaf get?
+
+- intent: ask_waterleaf_821
+  examples: |
+    - Why is waterleaf recommended for improving blood health?
+    - Why dem dey recommend waterleaf for blood health?
+
+- intent: ask_waterleaf_822
+  examples: |
+    - How does regular consumption of waterleaf support digestion?
+    - How waterleaf dey help digestion?
+
+- intent: ask_waterleaf_823
+  examples: |
+    - Why does waterleaf respond quickly to fertile soil?
+    - Why waterleaf dey grow fast for good soil?
+
+- intent: ask_waterleaf_824
+  examples: |
+    - How does continuous harvesting affect soil nutrients in waterleaf farms?
+    - How constant harvest dey affect soil food?
+
+- intent: ask_waterleaf_825
+  examples: |
+    - What type of fertilizer is commonly used for waterleaf farming?
+    - Which fertilizer dem dey use for waterleaf?
+
+- intent: ask_waterleaf_826
+  examples: |
+    - Why should fertilizer be applied in small amounts to waterleaf?
+    - Why dem no suppose put fertilizer plenty?
+
+- intent: ask_waterleaf_827
+  examples: |
+    - How do caterpillars affect waterleaf yield?
+    - How caterpillar dey affect waterleaf harvest?
+
+- intent: ask_waterleaf_828
+  examples: |
+    - Why is handpicking effective for pest control in waterleaf farms?
+    - Why handpicking dey work for pest control?
+
+- intent: ask_waterleaf_829
+  examples: |
+    - How does excessive pesticide use affect waterleaf safety?
+    - How too much chemical dey affect waterleaf safety?
+
+- intent: ask_waterleaf_830
+  examples: |
+    - What causes leaf yellowing in waterleaf plants?
+    - Wetin dey cause leaf yellow for waterleaf?
+
+- intent: ask_waterleaf_831
+  examples: |
+    - Why does high humidity encourage disease spread in waterleaf?
+    - Why high moisture dey spread disease?
+
+- intent: ask_waterleaf_832
+  examples: |
+    - How does frequent harvesting help suppress weeds in waterleaf plots?
+    - How frequent harvest dey reduce weed?
+
+- intent: ask_waterleaf_833
+  examples: |
+    - Why should mechanical weeding be shallow in waterleaf farms?
+    - Why dem no suppose weed deep?
+
+- intent: ask_waterleaf_834
+  examples: |
+    - How many times can waterleaf be harvested from one planting?
+    - How many times waterleaf fit harvest?
+
+- intent: ask_waterleaf_835
+  examples: |
+    - Why should harvesting be done early in the morning?
+    - Why better harvest early morning?
+
+- intent: ask_waterleaf_836
+  examples: |
+    - How can waterleaf freshness be maintained after harvest?
+    - How dem fit keep waterleaf fresh after harvest?
+
+- intent: ask_waterleaf_837
+  examples: |
+    - Why should waterleaf not be stored in airtight containers?
+    - Why no good store waterleaf for airtight container?
+
+- intent: ask_waterleaf_838
+  examples: |
+    - Why is waterleaf usually washed thoroughly before cooking?
+    - Why dem dey wash waterleaf well before cook?
+
+- intent: ask_waterleaf_839
+  examples: |
+    - How does excessive squeezing affect waterleaf nutrient value?
+    - How too much squeezing dey affect nutrients?
+
+- intent: ask_waterleaf_840
+  examples: |
+    - Why should waterleaf be grown away from polluted water sources?
+    - Why waterleaf no suppose grow near dirty water?
+
+- intent: ask_waterleaf_841
+  examples: |
+    - How does wastewater irrigation affect waterleaf safety?
+    - How dirty water irrigation dey affect safety?
+
+- intent: ask_waterleaf_842
+  examples: |
+    - How does dry season affect waterleaf production?
+    - How dry season dey affect waterleaf?
+
+- intent: ask_waterleaf_843
+  examples: |
+    - Why does extreme heat reduce waterleaf leaf size?
+    - Why too much heat dey reduce leaf size?
+
+- intent: ask_waterleaf_844
+  examples: |
+    - How can extension workers help waterleaf farmers?
+    - How extension worker fit help waterleaf farmers?
+
+- intent: ask_waterleaf_845
+  examples: |
+    - Why is record keeping important for waterleaf production?
+    - Why record keeping important?
+
+- intent: ask_waterleaf_846
+  examples: |
+    - Why is waterleaf considered a sustainable vegetable crop?
+    - Why waterleaf dey considered sustainable?
+
+- intent: ask_waterleaf_847
+  examples: |
+    - How does backyard waterleaf farming support household nutrition?
+    - How backyard waterleaf farming dey help nutrition?
+
+- intent: ask_waterleaf_848
+  examples: |
+    - Why is waterleaf suitable for teaching basic farming skills?
+    - Why waterleaf good for teaching farming?
+
+- intent: ask_waterleaf_849
+  examples: |
+    - How can school gardens use waterleaf to teach sustainability?
+    - How school garden fit use waterleaf teach sustainability?
+
+- intent: ask_waterleaf_850
+  examples: |
+    - Why is waterleaf important in Nigerian local dishes?
+    - Why waterleaf important for Nigerian soup?
+
+- intent: ask_pineapple_851
+  examples: |
+    - What type of crop is pineapple?
+    - Which kind crop be pineapple?
+
+- intent: ask_pineapple_852
+  examples: |
+    - What climate is suitable for pineapple production in Nigeria?
+    - Which weather pineapple dey like for Nigeria?
+
+- intent: ask_pineapple_853
+  examples: |
+    - What soil type is best for pineapple farming?
+    - Which soil pineapple dey like?
+
+- intent: ask_pineapple_854
+  examples: |
+    - Why does pineapple not tolerate waterlogged soil?
+    - Why pineapple no dey like too much water?
+
+- intent: ask_pineapple_855
+  examples: |
+    - Which pineapple variety is commonly grown in Nigeria?
+    - Which pineapple type common for Nigeria?
+
+- intent: ask_pineapple_856
+  examples: |
+    - How is pineapple commonly propagated?
+    - How dem dey plant pineapple?
+
+- intent: ask_pineapple_857
+  examples: |
+    - Why are suckers preferred for pineapple planting?
+    - Why farmers dey prefer sucker?
+
+- intent: ask_pineapple_858
+  examples: |
+    - Why is proper spacing important in pineapple farms?
+    - Why spacing important for pineapple?
+
+- intent: ask_pineapple_859
+  examples: |
+    - How often should pineapple be watered?
+    - How often pineapple need water?
+
+- intent: ask_pineapple_860
+  examples: |
+    - Why does excessive irrigation reduce pineapple yield?
+    - Why too much water dey reduce yield?
+
+- intent: ask_pineapple_861
+  examples: |
+    - What nutrients are important for pineapple growth?
+    - Which nutrients pineapple need?
+
+- intent: ask_pineapple_862
+  examples: |
+    - Why should fertilizer be applied in split doses for pineapple?
+    - Why dem dey apply fertilizer small small?
+
+- intent: ask_pineapple_863
+  examples: |
+    - Which pests commonly attack pineapple farms?
+    - Which pest dey disturb pineapple?
+
+- intent: ask_pineapple_864
+  examples: |
+    - How do mealybugs affect pineapple plants?
+    - How mealybug dey affect pineapple?
+
+- intent: ask_pineapple_865
+  examples: |
+    - Why is ant control important in managing mealybugs?
+    - Why control ant important?
+
+- intent: ask_pineapple_866
+  examples: |
+    - What disease causes heart rot in pineapple?
+    - Which disease dey cause heart rot?
+
+- intent: ask_pineapple_867
+  examples: |
+    - How does poor drainage increase disease incidence in pineapple?
+    - How bad drainage dey cause disease?
+
+- intent: ask_pineapple_868
+  examples: |
+    - Why should weeds be controlled in pineapple farms?
+    - Why weed control important?
+
+- intent: ask_pineapple_869
+  examples: |
+    - How does mulching help control weeds in pineapple production?
+    - How mulching dey help?
+
+- intent: ask_pineapple_870
+  examples: |
+    - When is pineapple ready for harvest?
+    - When pineapple ready to harvest?
+
+- intent: ask_pineapple_871
+  examples: |
+    - Why should pineapple be harvested carefully?
+    - Why careful harvest important?
+
+- intent: ask_pineapple_872
+  examples: |
+    - Why does pineapple spoil after harvest?
+    - Why pineapple dey spoil after harvest?
+
+- intent: ask_pineapple_873
+  examples: |
+    - How can pineapple shelf life be extended?
+    - How dem fit extend pineapple life?
+
+- intent: ask_pineapple_874
+  examples: |
+    - What nutrients are found in pineapple?
+    - Which nutrients pineapple get?
+
+- intent: ask_pineapple_875
+  examples: |
+    - Why is pineapple beneficial for digestion?
+    - Why pineapple good for digestion?
+
+- intent: ask_pineapple_876
+  examples: |
+    - How can extension services support pineapple farmers?
+    - How extension worker fit help pineapple farmers?
+
+- intent: ask_pineapple_877
+  examples: |
+    - Why is pineapple suitable for smallholder farmers?
+    - Why pineapple good for small farmers?
+
+- intent: ask_cassava_878
+  examples: |
+    - What is the ideal soil type for growing cassava in Nigeria?
+    - Wetin be the best soil wey cassava dey like for Nigeria?
+
+- intent: ask_cassava_879
+  examples: |
+    - How much sunlight does cassava need to grow well?
+    - How many sun cassava need to take grow well?
+
+- intent: ask_cassava_880
+  examples: |
+    - When is the best time to plant cassava in southern Nigeria?
+    - Wetin be the best time to plant cassava for southern Nigeria?
+
+- intent: ask_cassava_881
+  examples: |
+    - How long does cassava take to reach maturity for harvest?
+    - How long cassava dey take before person fit harvest am?
+
+- intent: ask_cassava_882
+  examples: |
+    - Why is proper land preparation important in cassava farming?
+    - Why land preparation important for cassava farming?
+
+- intent: ask_cassava_883
+  examples: |
+    - What land preparation method is recommended for cassava?
+    - Wetin be the best land preparation for cassava?
+
+- intent: ask_cassava_884
+  examples: |
+    - Which cassava varieties are commonly grown in Nigeria?
+    - Which cassava varieties people dey plant for Nigeria?
+
+- intent: ask_cassava_885
+  examples: |
+    - Why is TME 419 a popular cassava variety?
+    - Why TME 419 popular for Nigeria?
+
+- intent: ask_cassava_886
+  examples: |
+    - How deep should cassava stems be planted?
+    - How deep person suppose bury cassava stem?
+
+- intent: ask_cassava_887
+  examples: |
+    - How long should cassava stem cuttings be?
+    - How long cassava stem cutting suppose be?
+
+- intent: ask_cassava_888
+  examples: |
+    - Should cassava stems be planted horizontally, vertically, or slanted?
+    - How person suppose put cassava stick? Slant, straight, or flat?
+
+- intent: ask_cassava_889
+  examples: |
+    - How can farmers prevent cassava stem rot before planting?
+    - How farmer fit stop cassava stem from rotting before planting?
+
+- intent: ask_cassava_890
+  examples: |
+    - Why is weed control important in cassava farming?
+    - Why e important to control weed for cassava farm?
+
+- intent: ask_cassava_891
+  examples: |
+    - How often should cassava be weeded?
+    - How many times person suppose weed cassava farm?
+
+- intent: ask_cassava_892
+  examples: |
+    - Can cassava be intercropped with maize?
+    - Cassava fit mix with maize for farm?
+
+- intent: ask_cassava_893
+  examples: |
+    - What is the recommended spacing for planting cassava?
+    - Wetin be the spacing for cassava planting?
+
+- intent: ask_cassava_894
+  examples: |
+    - What happens if cassava is planted too close?
+    - Wetin fit happen if cassava dey planted too close?
+
+- intent: ask_cassava_895
+  examples: |
+    - How does soil fertility affect cassava yield?
+    - How soil fertility dey affect cassava yield?
+
+- intent: ask_cassava_896
+  examples: |
+    - Can cassava grow in poor soils?
+    - Cassava fit grow for poor soil?
+
+- intent: ask_cassava_897
+  examples: |
+    - How does mulching benefit cassava farming?
+    - How mulching take help cassava farm?
+
+- intent: ask_cassava_898
+  examples: |
+    - What are the most common pests affecting cassava in Nigeria?
+    - Which pests dey worry cassava pass for Nigeria?
+
+- intent: ask_cassava_899
+  examples: |
+    - How do cassava mealybugs damage cassava plants?
+    - How cassava mealybug dey damage cassava?
+
+- intent: ask_cassava_900
+  examples: |
+    - What early signs show cassava mealybug infestation?
+    - Wetin be early sign of mealybug attack?
+
+- intent: ask_pineapple_901
+  examples: |
+    - How does excessive rainfall affect pineapple fruit development?
+    - How too much rain dey affect pineapple fruit?
+
+- intent: ask_pineapple_902
+  examples: |
+    - Why does prolonged cloudy weather delay pineapple maturity?
+    - Why long cloudy weather dey delay pineapple maturity?
+
+- intent: ask_pineapple_903
+  examples: |
+    - Why does pineapple require fertile soil for good yield?
+    - Why pineapple need fertile soil?
+
+- intent: ask_pineapple_904
+  examples: |
+    - How does soil acidity influence pineapple nutrient uptake?
+    - How soil acidity dey affect pineapple?
+
+- intent: ask_pineapple_905
+  examples: |
+    - Why should only healthy planting materials be used for pineapple?
+    - Why dem suppose use healthy planting material?
+
+- intent: ask_pineapple_906
+  examples: |
+    - How does planting material size affect pineapple fruit yield?
+    - How planting material size dey affect yield?
+
+- intent: ask_pineapple_907
+  examples: |
+    - How does close spacing affect pineapple disease incidence?
+    - How close spacing dey affect disease?
+
+- intent: ask_pineapple_908
+  examples: |
+    - Why is double-row planting sometimes used in pineapple farms?
+    - Why some farmers dey use double-row planting?
+
+- intent: ask_pineapple_909
+  examples: |
+    - How does water stress affect pineapple leaf growth?
+    - How water stress dey affect leaf growth?
+
+- intent: ask_pineapple_910
+  examples: |
+    - Why is drip irrigation suitable for pineapple production?
+    - Why drip irrigation good for pineapple?
+
+- intent: ask_pineapple_911
+  examples: |
+    - How do rodents damage pineapple farms?
+    - How rat dey spoil pineapple farm?
+
+- intent: ask_pineapple_912
+  examples: |
+    - Why does poor field sanitation increase pineapple pest problems?
+    - Why dirty farm dey increase pest?
+
+- intent: ask_pineapple_913
+  examples: |
+    - How does integrated pest management benefit pineapple farmers?
+    - How IPM dey help pineapple farmers?
+
+- intent: ask_pineapple_914
+  examples: |
+    - How does planting infected suckers affect pineapple yield?
+    - How infected sucker dey affect yield?
+
+- intent: ask_pineapple_915
+  examples: |
+    - Why does crop rotation reduce disease pressure in pineapple farms?
+    - Why rotation dey reduce disease?
+
+- intent: ask_pineapple_916
+  examples: |
+    - How do weeds affect pineapple nutrient availability?
+    - How weed dey affect nutrients?
+
+- intent: ask_pineapple_917
+  examples: |
+    - Why should herbicide use be carefully managed in pineapple farms?
+    - Why herbicide use need care?
+
+- intent: ask_pineapple_918
+  examples: |
+    - Why is uniform flowering important in pineapple production?
+    - Why uniform flowering important?
+
+- intent: ask_pineapple_919
+  examples: |
+    - How does stress induce flowering in pineapple plants?
+    - How stress dey cause flowering?
+
+- intent: ask_pineapple_920
+  examples: |
+    - How does harvesting too early affect pineapple quality?
+    - How early harvest dey affect quality?
+
+- intent: ask_pineapple_921
+  examples: |
+    - Why should pineapple fruits be harvested with part of the stalk?
+    - Why dem dey harvest with small stalk?
+
+- intent: ask_pineapple_922
+  examples: |
+    - How does bruising affect pineapple market quality?
+    - How bruise dey affect pineapple?
+
+- intent: ask_pineapple_923
+  examples: |
+    - Why is ventilation important during pineapple transportation?
+    - Why ventilation important during transport?
+
+- intent: ask_pineapple_924
+  examples: |
+    - What pineapple products can be processed locally in Nigeria?
+    - Which pineapple product dem fit process locally?
+
+- intent: ask_pineapple_925
+  examples: |
+    - How does processing reduce postharvest losses in pineapple?
+    - How processing dey reduce postharvest loss?
+
+- intent: ask_pineapple_926
+  examples: |
+    - How does pineapple consumption support immune health?
+    - How pineapple dey help immune system?
+
+- intent: ask_pineapple_927
+  examples: |
+    - Why should pineapple be eaten in moderation?
+    - Why dem suppose eat pineapple with care?
+
+- intent: ask_pineapple_928
+  examples: |
+    - How does pineapple farming contribute to food diversity?
+    - How pineapple farming dey help food diversity?
+
+- intent: ask_pineapple_929
+  examples: |
+    - Why is residue management important after pineapple harvest?
+    - Why residue management important after harvest?
+
+- intent: ask_pineapple_930
+  examples: |
+    - How can farmer cooperatives improve pineapple production?
+    - How cooperative dey help pineapple farmers?
+
+- intent: ask_pineapple_931
+  examples: |
+    - Why is training important for pineapple value chain development?
+    - Why training important for value chain?
+
+- intent: ask_good_agricultural_methods_932
+  examples: |
+    - Why is soil testing important before planting crops?
+    - Why soil testing important before planting?
+
+- intent: ask_good_agricultural_methods_933
+  examples: |
+    - How does soil pH affect crop growth?
+    - How soil pH dey affect crop?
+
+- intent: ask_good_agricultural_methods_934
+  examples: |
+    - Why is organic matter important in agricultural soils?
+    - Why organic matter important for soil?
+
+- intent: ask_good_agricultural_methods_935
+  examples: |
+    - Why should farmland be properly prepared before planting?
+    - Why land preparation important?
+
+- intent: ask_good_agricultural_methods_936
+  examples: |
+    - How does minimum tillage benefit the soil?
+    - How minimum tillage dey help soil?
+
+- intent: ask_good_agricultural_methods_937
+  examples: |
+    - Why should farmers use improved or certified seeds?
+    - Why farmer suppose use improved seed?
+
+- intent: ask_good_agricultural_methods_938
+  examples: |
+    - How does seed treatment help crop establishment?
+    - How seed treatment dey help?
+
+- intent: ask_good_agricultural_methods_939
+  examples: |
+    - Why is correct planting depth important for crops?
+    - Why correct planting depth important?
+
+- intent: ask_good_agricultural_methods_940
+  examples: |
+    - How does proper spacing improve crop performance?
+    - How spacing dey help crop?
+
+- intent: ask_good_agricultural_methods_941
+  examples: |
+    - Why is proper irrigation important in crop production?
+    - Why irrigation important?
+
+- intent: ask_good_agricultural_methods_942
+  examples: |
+    - How does overwatering affect crops?
+    - How too much water dey affect crop?
+
+- intent: ask_good_agricultural_methods_943
+  examples: |
+    - Why should fertilizers be applied based on crop needs?
+    - Why fertilizer suppose follow crop need?
+
+- intent: ask_good_agricultural_methods_944
+  examples: |
+    - How does excessive fertilizer use affect soil health?
+    - How too much fertilizer dey affect soil?
+
+- intent: ask_good_agricultural_methods_945
+  examples: |
+    - Why should weeds be controlled early in crop growth?
+    - Why early weed control important?
+
+- intent: ask_good_agricultural_methods_946
+  examples: |
+    - How does mulching help manage weeds?
+    - How mulching dey stop weed?
+
+- intent: ask_good_agricultural_methods_947
+  examples: |
+    - Why is regular field scouting important for pest control?
+    - Why farmer suppose dey check farm often?
+
+- intent: ask_good_agricultural_methods_948
+  examples: |
+    - How does crop rotation reduce pest pressure?
+    - How crop rotation dey reduce pest?
+
+- intent: ask_good_agricultural_methods_949
+  examples: |
+    - Why is integrated pest management recommended for farmers?
+    - Why IPM good for farmer?
+
+- intent: ask_good_agricultural_methods_950
+  examples: |
+    - Why is timely harvesting important for crops?
+    - Why timely harvest important?
+
+- intent: ask_good_agricultural_methods_951
+  examples: |
+    - How does improper harvesting affect farm produce?
+    - How bad harvesting dey affect produce?
+
+- intent: ask_good_agricultural_methods_952
+  examples: |
+    - Why should harvested crops be handled carefully?
+    - Why careful handling important?
+
+- intent: ask_good_agricultural_methods_953
+  examples: |
+    - Why should farmers wear protective gear during chemical application?
+    - Why protective wear important?
+
+- intent: ask_good_agricultural_methods_954
+  examples: |
+    - Why is farm record keeping important?
+    - Why farm record important?
+
+- intent: ask_good_agricultural_methods_955
+  examples: |
+    - Why is continuous training important for farmers?
+    - Why training important for farmer?
+
+- intent: ask_good_agricultural_methods_956
+  examples: |
+    - How do good agricultural methods support sustainable farming?
+    - How good agricultural methods dey help sustainability?
+
+- intent: ask_good_agricultural_methods_982
+  examples: |
+    - Why should farmers avoid farming on very steep slopes?
+    - Why farming for steep slope no good?
+
+- intent: ask_good_agricultural_methods_983
+  examples: |
+    - How does terracing help farming on hilly land?
+    - How terracing dey help hilly land?
+
+- intent: ask_good_agricultural_methods_984
+  examples: |
+    - Why should land preparation follow the natural contour of the land?
+    - Why land preparation suppose follow land shape?
+
+- intent: ask_good_agricultural_methods_985
+  examples: |
+    - How does proper drainage improve farm productivity?
+    - How drainage dey help farm?
+
+- intent: ask_good_agricultural_methods_986
+  examples: |
+    - Why should seeds be stored in a cool and dry place?
+    - Why seed suppose stay for cool dry place?
+
+- intent: ask_good_agricultural_methods_987
+  examples: |
+    - How does seed selection affect crop uniformity?
+    - How seed selection dey affect uniform crop?
+
+- intent: ask_good_agricultural_methods_988
+  examples: |
+    - Why should farmers avoid overcrowding crops?
+    - Why crop no suppose too many for one place?
+
+- intent: ask_good_agricultural_methods_989
+  examples: |
+    - How does correct row alignment improve farm management?
+    - How straight row dey help farm work?
+
+- intent: ask_good_agricultural_methods_990
+  examples: |
+    - Why should irrigation be reduced during heavy rainfall periods?
+    - Why irrigation suppose reduce during heavy rain?
+
+- intent: ask_good_agricultural_methods_991
+  examples: |
+    - How does water stress affect crop flowering?
+    - How water stress dey affect flowering?
+
+- intent: ask_good_agricultural_methods_992
+  examples: |
+    - Why should fertilizers be incorporated into the soil?
+    - Why fertilizer suppose enter soil?
+
+- intent: ask_good_agricultural_methods_993
+  examples: |
+    - How does balanced fertilization improve crop health?
+    - How balanced fertilizer dey help crop?
+
+- intent: ask_good_agricultural_methods_994
+  examples: |
+    - Why should weed control be continuous throughout the season?
+    - Why weed control no suppose stop?
+
+- intent: ask_good_agricultural_methods_995
+  examples: |
+    - How does shallow weeding protect crop roots?
+    - How shallow weeding dey protect root?
+
+- intent: ask_good_agricultural_methods_996
+  examples: |
+    - Why should pest control methods be rotated?
+    - Why change pest control method?
+
+- intent: ask_good_agricultural_methods_997
+  examples: |
+    - How does early planting reduce pest damage?
+    - How early planting dey reduce pest?
+
+- intent: ask_good_agricultural_methods_998
+  examples: |
+    - Why should crops be harvested at physiological maturity?
+    - Why harvest crop when e mature?
+
+- intent: ask_good_agricultural_methods_999
+  examples: |
+    - How does harvesting too early affect crop quality?
+    - How early harvest dey affect quality?
+
+- intent: ask_good_agricultural_methods_1000
+  examples: |
+    - Why should produce be shaded immediately after harvest?
+    - Why produce suppose enter shade after harvest?
+
+- intent: ask_good_agricultural_methods_1001
+  examples: |
+    - How does proper packaging reduce postharvest damage?
+    - How packaging dey protect produce?
+
+- intent: ask_good_agricultural_methods_1002
+  examples: |
+    - Why should spraying equipment be cleaned after use?
+    - Why clean spraying machine?
+
+- intent: ask_good_agricultural_methods_1003
+  examples: |
+    - Why should empty pesticide containers not be reused?
+    - Why no reuse empty pesticide container?
+
+- intent: ask_good_agricultural_methods_1004
+  examples: |
+    - How do records help monitor pest outbreaks?
+    - How record dey help pest monitoring?
+
+- intent: ask_good_agricultural_methods_1005
+  examples: |
+    - Why should weather observations be recorded on farms?
+    - Why record weather?
+
+- intent: ask_good_agricultural_methods_1006
+  examples: |
+    - Why should farmers learn from demonstration farms?
+    - Why demo farm important?
+
+- intent: ask_good_agricultural_methods_1007
+  examples: |
+    - How does farmer-to-farmer learning improve adoption?
+    - How farmer-to-farmer learning dey help?
+
+- intent: ask_good_agricultural_methods_1008
+  examples: |
+    - Why should crop residues be returned to the soil?
+    - Why return crop waste to soil?
+
+- intent: ask_good_agricultural_methods_1009
+  examples: |
+    - How does agroforestry support sustainable agriculture?
+    - How agroforestry dey help farming?
+
+- intent: ask_good_agricultural_methods_1010
+  examples: |
+    - Why is biodiversity important on farms?
+    - Why biodiversity important for farm?
+
+- intent: ask_good_agricultural_methods_1011
+  examples: |
+    - How does climate-resilient farming reduce production risk?
+    - How climate-resilient farming dey reduce risk?
+
+- intent: ask_good_agricultural_methods_1012
+  examples: |
+    - Why should farmers diversify crops?
+    - Why crop diversification important?
+
+- intent: ask_good_agricultural_methods_1013
+  examples: |
+    - How does good agricultural practice improve food safety?
+    - How good practice dey improve food safety?
+
+- intent: ask_good_agricultural_methods_1014
+  examples: |
+    - Why is responsible resource use important in farming?
+    - Why manage resource well important?
+
+- intent: ask_good_agricultural_methods_1015
+  examples: |
+    - How does soil conservation support long-term farming?
+    - How soil conservation dey help long term?
+
+- intent: ask_good_agricultural_methods_1016
+  examples: |
+    - Why should farmers adapt practices to local conditions?
+    - Why adapt practice to local area?
+
+- intent: ask_good_agricultural_methods_1017
+  examples: |
+    - How does responsible chemical use protect beneficial insects?
+    - How correct chemical use dey protect good insects?
+
+- intent: ask_good_agricultural_methods_1018
+  examples: |
+    - Why is long-term planning important for farm sustainability?
+    - Why long-term planning important?
+
+- intent: ask_good_agricultural_methods_1019
+  examples: |
+    - How does good agricultural practice support national food security?
+    - How good practice dey support food security?
+
+- intent: ask_good_agricultural_methods_1020
+  examples: |
+    - Why should farmers continuously improve their practices?
+    - Why farmer suppose dey improve method?
+
+- intent: ask_good_agricultural_methods_1021
+  examples: |
+    - How does good agricultural practice reduce environmental pollution?
+    - How good practice dey reduce pollution?
+
+- intent: ask_good_agricultural_methods_1022
+  examples: |
+    - Why is soil protection important for future farming generations?
+    - Why protect soil for future?
+
+- intent: ask_good_agricultural_methods_1023
+  examples: |
+    - How does farmer awareness improve sustainable agriculture?
+    - How awareness dey help farming?
+
+- intent: ask_good_agricultural_methods_1024
+  examples: |
+    - Why is environmental protection important in agriculture?
+    - Why environment protection important?
+
+- intent: ask_good_agricultural_methods_1025
+  examples: |
+    - How does responsible farming contribute to rural development?
+    - How responsible farming dey help rural area?
+
+- intent: ask_good_agricultural_methods_1026
+  examples: |
+    - Why should farming practices evolve over time?
+    - Why farming method suppose change?
+
+- intent: ask_good_agricultural_methods_1027
+  examples: |
+    - How does good agricultural practice improve farmer resilience?
+    - How good practice dey make farmer strong?
+
+- intent: ask_good_agricultural_methods_1028
+  examples: |
+    - Why should farms aim for long-term productivity rather than short-term gains?
+    - Why long-term farming better?
+
+- intent: ask_good_agricultural_methods_1029
+  examples: |
+    - How does responsible farming support community health?
+    - How responsible farming dey support health?
+
+- intent: ask_good_agricultural_methods_1030
+  examples: |
+    - Why is sustainable agriculture important for national development?
+    - Why sustainable agriculture important?
+
+- intent: ask_good_agricultural_methods_1031
+  examples: |
+    - How does good agricultural practice support future farmers?
+    - How good practice dey help future farmers?
+
+- intent: ask_yam_1051
+  examples: |
+    - How do termites affect yam farms?
+    - How termite dey affect yam?
+
+- intent: ask_yam_1052
+  examples: |
+    - What farming practice helps reduce termite attack on yam?
+    - Which farming method dey reduce termite for yam?
+
+- intent: ask_yam_1053
+  examples: |
+    - How do rodents damage yam fields?
+    - How rat dey damage yam?
+
+- intent: ask_yam_1054
+  examples: |
+    - How can farmers reduce rodent damage in yam farms?
+    - How farmer fit reduce rat for yam farm?
+
+- intent: ask_yam_1055
+  examples: |
+    - Why do nematodes pose a problem in yam production?
+    - Why nematode dey worry yam?
+
+- intent: ask_yam_1056
+  examples: |
+    - How can nematode infestation in yam be minimized?
+    - How dem fit reduce nematode for yam?
+
+- intent: ask_yam_1057
+  examples: |
+    - What causes yam anthracnose disease?
+    - Wetín dey cause yam anthracnose?
+
+- intent: ask_yam_1058
+  examples: |
+    - How does anthracnose affect yam yield?
+    - How anthracnose dey affect yam yield?
+
+- intent: ask_yam_1059
+  examples: |
+    - What farm practice helps control yam anthracnose?
+    - Which practice dey control anthracnose?
+
+- intent: ask_yam_1060
+  examples: |
+    - How does poor drainage increase yam diseases?
+    - How bad drainage dey cause disease?
+
+- intent: ask_yam_1061
+  examples: |
+    - Why is sunlight important for yam vine growth?
+    - Why sunlight important for yam?
+
+- intent: ask_yam_1062
+  examples: |
+    - How does shading affect yam yield?
+    - How shade dey affect yam?
+
+- intent: ask_yam_1063
+  examples: |
+    - When is yam ready for harvest?
+    - When yam ready for harvest?
+
+- intent: ask_yam_1064
+  examples: |
+    - Why should yam be harvested carefully?
+    - Why harvest yam carefully?
+
+- intent: ask_yam_1065
+  examples: |
+    - What tools are commonly used for harvesting yam?
+    - Which tool dem dey use harvest yam?
+
+- intent: ask_yam_1066
+  examples: |
+    - Why should harvested yam be cured before storage?
+    - Why cure yam before store?
+
+- intent: ask_yam_1067
+  examples: |
+    - How should yam be stored to reduce spoilage?
+    - How dem suppose store yam?
+
+- intent: ask_yam_1068
+  examples: |
+    - Why should damaged yams not be stored with healthy ones?
+    - Why no mix bad yam with good one?
+
+- intent: ask_yam_1069
+  examples: |
+    - How does ventilation affect yam storage life?
+    - How air dey help yam storage?
+
+- intent: ask_yam_1070
+  examples: |
+    - Why should yam stores be inspected regularly?
+    - Why check yam store often?
+
+- intent: ask_yam_1071
+  examples: |
+    - Why should some yams be reserved as seed yams?
+    - Why keep some yam as seed?
+
+- intent: ask_yam_1072
+  examples: |
+    - How can farmers select good seed yams from harvest?
+    - How farmer fit choose good seed yam?
+
+- intent: ask_yam_1073
+  examples: |
+    - Why is crop rotation important in yam farming?
+    - Why crop rotation important for yam?
+
+- intent: ask_yam_1074
+  examples: |
+    - Which crops are suitable to rotate with yam?
+    - Which crop fit rotate with yam?
+
+- intent: ask_yam_1075
+  examples: |
+    - How does organic matter improve yam yield?
+    - How organic matter dey help yam?
+
+- intent: ask_yam_1076
+  examples: |
+    - Why should excessive fertilizer be avoided in yam farming?
+    - Why no suppose too much fertilizer?
+
+- intent: ask_yam_1077
+  examples: |
+    - How does drought affect yam production?
+    - How dry season dey affect yam?
+
+- intent: ask_yam_1078
+  examples: |
+    - How can farmers reduce drought stress in yam fields?
+    - How farmer fit reduce drought stress?
+
+- intent: ask_yam_1079
+  examples: |
+    - Why should yam farmers seek extension advice?
+    - Why yam farmer suppose ask extension officer?
+
+- intent: ask_yam_1080
+  examples: |
+    - How does farmer training improve yam productivity?
+    - How training dey help yam farmer?
+
+- intent: ask_cassava_1081
+  examples: |
+    - How can farmers control cassava mealybug organically?
+    - How farmer fit control cassava mealybug without chemical?
+
+- intent: ask_cassava_1082
+  examples: |
+    - What damage does cassava green mite cause?
+    - Wetin cassava green mite dey cause?
+
+- intent: ask_cassava_1083
+  examples: |
+    - How do farmers identify cassava green mite?
+    - How person fit know say green mite don enter cassava?
+
+- intent: ask_cassava_1084
+  examples: |
+    - What is the recommended method to control cassava green mite?
+    - How dem dey control green mite?
+
+- intent: ask_cassava_1085
+  examples: |
+    - What pest causes severe defoliation in cassava?
+    - Which pest dey chop cassava leaf pass?
+
+- intent: ask_cassava_1086
+  examples: |
+    - How can farmers reduce grasshopper damage?
+    - How farmer fit reduce grasshopper attack?
+
+- intent: ask_cassava_1087
+  examples: |
+    - What role do whiteflies play in cassava disease spread?
+    - Whitefly dey cause wetin for cassava?
+
+- intent: ask_cassava_1088
+  examples: |
+    - How can farmers reduce whitefly populations?
+    - How farmer fit reduce whitefly?
+
+- intent: ask_cassava_1089
+  examples: |
+    - Can intercropping reduce cassava pest pressure?
+    - Intercropping fit help reduce cassava pest?
+
+- intent: ask_cassava_1090
+  examples: |
+    - Why do overcrowded cassava fields attract more pests?
+    - Why overcrowded cassava farm dey attract pest?
+
+- intent: ask_cassava_1091
+  examples: |
+    - How does crop rotation control pests in cassava?
+    - How crop rotation dey help control cassava pest?
+
+- intent: ask_cassava_1092
+  examples: |
+    - How do ants help in controlling cassava pests?
+    - How ant dey help control cassava pest?
+
+- intent: ask_cassava_1093
+  examples: |
+    - Does burning crop residues help control cassava pests?
+    - Burning cassava leftover fit stop pest?
+
+- intent: ask_cassava_1094
+  examples: |
+    - Can early planting reduce pest infestations?
+    - Early planting fit reduce pest?
+
+- intent: ask_cassava_1095
+  examples: |
+    - How can farmers monitor pest levels effectively?
+    - How farmer fit monitor pest well?
+
+- intent: ask_cassava_1096
+  examples: |
+    - Why is it important to remove infested cassava plants?
+    - Why e important to remove cassava wey pest don catch?
+
+- intent: ask_cassava_1097
+  examples: |
+    - Can pesticides be used to control cassava pests?
+    - Person fit use pesticide for cassava pest?
+
+- intent: ask_cassava_1098
+  examples: |
+    - How do nutrient-deficient soils affect cassava leaves?
+    - How nutrient-poor soil dey affect cassava leaf?
+
+- intent: ask_cassava_1099
+  examples: |
+    - Should farmers use fertilizer on cassava?
+    - Farmer suppose apply fertiliser for cassava?
+
+- intent: ask_cassava_1100
+  examples: |
+    - What type of fertilizer is best for cassava?
+    - Which fertilizer fit cassava pass?
+
+- intent: ask_cassava_1101
+  examples: |
+    - When should cassava be fertilized?
+    - When person suppose put fertiliser for cassava?
+
+- intent: ask_cassava_1102
+  examples: |
+    - Can cassava tolerate drought?
+    - Cassava fit survive dry season?
+
+- intent: ask_cassava_1103
+  examples: |
+    - How does excessive rainfall affect cassava?
+    - Too much rain dey affect cassava?
+
+- intent: ask_cassava_1104
+  examples: |
+    - Can cassava grow in northern Nigeria?
+    - Cassava fit grow for northern Nigeria?
+
+- intent: ask_cassava_1105
+  examples: |
+    - What is the purpose of topping cassava plants?
+    - Why dem dey cut cassava top?
+
+- intent: ask_cassava_1106
+  examples: |
+    - Can cassava be planted on flat land?
+    - Person fit plant cassava for flat ground?
+
+- intent: ask_cassava_1107
+  examples: |
+    - What spacing gives larger cassava tubers?
+    - Which spacing dey give big cassava root?
+
+- intent: ask_cassava_1108
+  examples: |
+    - How does shade affect cassava growth?
+    - Shade dey affect cassava?
+
+- intent: ask_cassava_1109
+  examples: |
+    - Why is cassava considered a resilient crop?
+    - Why people dey call cassava strong crop?
+
+- intent: ask_cassava_1110
+  examples: |
+    - What is the importance of using clean planting materials?
+    - Why e important to use clean cassava stem?
+
+- intent: ask_cassava_1111
+  examples: |
+    - Should recently harvested cassava stems be planted immediately?
+    - Fresh cassava stick fit plant immediately?
+
+- intent: ask_cassava_1112
+  examples: |
+    - How can waterlogging be avoided in cassava fields?
+    - How person fit avoid waterlogging for cassava farm?
+
+- intent: ask_cassava_1113
+  examples: |
+    - What harvesting tool is best for cassava?
+    - Which tool better for cassava harvest?
+
+- intent: ask_cassava_1114
+  examples: |
+    - How can farmers reduce cassava tuber rot?
+    - How to stop cassava root from rotting?
+
+- intent: ask_cassava_1115
+  examples: |
+    - What is the best way to store cassava stems?
+    - How to keep cassava stem well?
+
+- intent: ask_cassava_1116
+  examples: |
+    - Can cassava be used as animal feed?
+    - Cassava fit serve as animal food?
+
+- intent: ask_cassava_1117
+  examples: |
+    - How does soil pH affect cassava?
+    - How soil pH dey affect cassava?
+
+- intent: ask_cassava_1118
+  examples: |
+    - Can cassava be grown organically?
+    - Person fit grow cassava organically?
+
+- intent: ask_cassava_1119
+  examples: |
+    - Does cassava need irrigation?
+    - Cassava need irrigation?
+
+- intent: ask_cassava_1120
+  examples: |
+    - How many cuttings are needed per hectare?
+    - How many cassava stick person need for one hectare?
+
+- intent: ask_cassava_1121
+  examples: |
+    - Why do cassava roots become woody?
+    - Why cassava root dey strong and woody?
+
+- intent: ask_cassava_1122
+  examples: |
+    - Can cassava tolerate acidic soils?
+    - Cassava fit handle acidic soil?
+
+- intent: ask_cassava_1123
+  examples: |
+    - How do farmers avoid stem dehydration?
+    - How to stop cassava stick from drying?
+
+- intent: ask_cassava_1124
+  examples: |
+    - What is the best plant population for high cassava yield?
+    - How many cassava plant dey give high yield?
+
+- intent: ask_cassava_1125
+  examples: |
+    - Can cassava stems be reused for multiple seasons?
+    - Person fit reuse cassava stick?
+
+- intent: ask_cassava_1126
+  examples: |
+    - Why do cassava leaves turn reddish?
+    - Why cassava leaf go turn red?
+
+- intent: ask_cassava_1127
+  examples: |
+    - How does cassava respond to poor drainage?
+    - How cassava dey react to bad drainage?
+
+- intent: ask_cassava_1128
+  examples: |
+    - Should cassava leaves be removed to increase tuber yield?
+    - Person suppose cut cassava leaf to get big root?
+
+- intent: ask_cassava_1129
+  examples: |
+    - How can cassava fields be protected from erosion?
+    - How person fit stop erosion for cassava farm?
+
+- intent: ask_cassava_1130
+  examples: |
+    - What is the effect of overcrowding on cassava?
+    - Wetyn overcrowding dey cause for cassava?
+
+- intent: ask_cassava_1131
+  examples: |
+    - How does cassava compete with weeds in early growth?
+    - Cassava dey strong for weed competition early?
+
+- intent: ask_cassava_1132
+  examples: |
+    - When does cassava canopy fully develop?
+    - When cassava canopy dey full?
+
+- intent: ask_cassava_1133
+  examples: |
+    - How many varieties should farmers plant to reduce risk?
+    - How many cassava varieties farmer fit plant to reduce risk?
+
+- intent: ask_cassava_1134
+  examples: |
+    - Why is cassava important in food security?
+    - Why cassava important for food security?
+
+- intent: ask_cassava_1135
+  examples: |
+    - Can cassava be grown without chemicals?
+    - Cassava fit grow without chemical?
+
+- intent: ask_cassava_1136
+  examples: |
+    - What is the best time of day to plant cassava?
+    - Which time better to plant cassava?
+
+- intent: ask_cassava_1137
+  examples: |
+    - Does cassava grow well on slopes?
+    - Cassava dey grow well for slope?
+
+- intent: ask_cassava_1138
+  examples: |
+    - Why do farmers prune cassava branches?
+    - Why farmer dey prune cassava branch?
+
+- intent: ask_cassava_1139
+  examples: |
+    - Can cassava recover from storm damage?
+    - Cassava fit recover if storm break am?
+
+- intent: ask_cassava_1140
+  examples: |
+    - What is the benefit of deep rooting in cassava?
+    - Wetin deep root dey do for cassava?
+
+- intent: ask_cassava_1141
+  examples: |
+    - Should cassava be replanted if sprouting is poor?
+    - If cassava no sprout well, dem suppose replant?
+
+- intent: ask_cassava_1142
+  examples: |
+    - What causes cassava stems to rot after planting?
+    - Why cassava stick dey rot after planting?
+
+- intent: ask_cassava_1143
+  examples: |
+    - Can cassava be intercropped with vegetables?
+    - Cassava fit mix with vegetable?
+
+- intent: ask_cassava_1144
+  examples: |
+    - What is the benefit of using improved cassava varieties?
+    - Wetin improved cassava variety dey do?
+
+- intent: ask_cassava_1145
+  examples: |
+    - Why is cassava sometimes planted on ridges?
+    - Why dem dey plant cassava for ridge?
+
+- intent: ask_cassava_1146
+  examples: |
+    - How does soil temperature affect cassava sprouting?
+    - Warm soil dey help cassava sprout?
+
+- intent: ask_cassava_1147
+  examples: |
+    - Can cassava be grown in clay soils?
+    - Cassava fit grow for clay soil?
+
+- intent: ask_cassava_1148
+  examples: |
+    - How long do cassava stems remain viable for planting?
+    - How long cassava stick fit stay good for planting?
+
+- intent: ask_cassava_1149
+  examples: |
+    - Should cassava cuttings be planted with buds facing up?
+    - Cassava stick bud suppose face up?
+
+- intent: ask_cassava_1150
+  examples: |
+    - What happens if cassava is harvested too early?
+    - Wetin happen if cassava harvest early?
+
+- intent: ask_cassava_1151
+  examples: |
+    - What happens if cassava is harvested too late?
+    - Wetin happen if cassava harvest late?
+
+- intent: ask_cassava_1152
+  examples: |
+    - Does cassava require pruning?
+    - Cassava need pruning?
+
+- intent: ask_cassava_1153
+  examples: |
+    - Can cassava be grown for leaf production?
+    - Cassava fit plant for leaf use?
+
+- intent: ask_cassava_1154
+  examples: |
+    - What is the role of potassium in cassava growth?
+    - Potassium dey do wetin for cassava?
+
+- intent: ask_cassava_1155
+  examples: |
+    - Can cassava tolerate salinity?
+    - Cassava fit survive salty soil?
+
+- intent: ask_cassava_1156
+  examples: |
+    - Does cassava need shade nets?
+    - Cassava need shade net?
+
+- intent: ask_cassava_1157
+  examples: |
+    - Why do farmers avoid planting cassava in waterlogged areas?
+    - Why farmer no dey plant cassava for waterlogged place?
+
+- intent: ask_cassava_1158
+  examples: |
+    - What are the common pests that attack cassava in Nigeria?
+    - Which pests dey attack cassava for Nigeria?
+
+- intent: ask_cassava_1159
+  examples: |
+    - How does cassava mealybug damage cassava plants?
+    - How cassava mealybug dey damage cassava?
+
+- intent: ask_cassava_1160
+  examples: |
+    - How can farmers identify cassava green mite?
+    - How farmer fit know cassava green mite?
+
+- intent: ask_cassava_1161
+  examples: |
+    - What is the best control method for cassava mealybug?
+    - Wetin be best way to control cassava mealybug?
+
+- intent: ask_cassava_1162
+  examples: |
+    - Can neem extract control cassava pests?
+    - Neem extract fit control cassava pest?
+
+- intent: ask_cassava_1163
+  examples: |
+    - What part of cassava do whiteflies damage?
+    - Which part whitefly dey attack for cassava?
+
+- intent: ask_cassava_1164
+  examples: |
+    - What time of the year are cassava pests most active?
+    - Which season cassava pests dey plenty?
+
+- intent: ask_cassava_1165
+  examples: |
+    - Can intercropping help reduce cassava pests?
+    - Intercropping fit help reduce cassava pest?
+
+- intent: ask_cassava_1166
+  examples: |
+    - How does early planting reduce pest pressure on cassava?
+    - How early planting dey reduce cassava pest?
+
+- intent: ask_cassava_1167
+  examples: |
+    - Why are cassava fields with heavy weed growth more prone to pests?
+    - Why farm wey get plenty weed dey attract cassava pest?
+
+- intent: ask_cassava_1168
+  examples: |
+    - How often should cassava be weeded after the first weed control?
+    - How many times person suppose weed cassava after first weeding?
+
+- intent: ask_cassava_1169
+  examples: |
+    - Does cassava require fertilizer to grow well?
+    - Cassava need fertilizer to grow well?
+
+- intent: ask_cassava_1170
+  examples: |
+    - Which NPK ratio is good for cassava farming?
+    - Which NPK fertilizer dey good for cassava?
+
+- intent: ask_cassava_1171
+  examples: |
+    - Why is soil testing important before planting cassava?
+    - Why soil test important before person plant cassava?
+
+- intent: ask_cassava_1172
+  examples: |
+    - Can cassava tolerate drought?
+    - Cassava fit survive dry season?
+
+- intent: ask_cassava_1173
+  examples: |
+    - Does mulching benefit cassava production?
+    - Mulching dey help cassava farming?
+
+- intent: ask_cassava_1174
+  examples: |
+    - What planting material is used for cassava?
+    - Wetin person dey use plant cassava?
+
+- intent: ask_cassava_1175
+  examples: |
+    - Can cassava be grown in waterlogged areas?
+    - Cassava fit grow for waterlogged land?
+
+- intent: ask_cassava_1176
+  examples: |
+    - Why should cassava stems be cut with a sharp knife?
+    - Why dem suppose use sharp knife cut cassava stem?
+
+- intent: ask_cassava_1177
+  examples: |
+    - What is the advantage of planting improved cassava varieties?
+    - Wetin be the advantage of improved cassava variety?
+
+- intent: ask_cassava_1178
+  examples: |
+    - Which cassava variety matures the fastest?
+    - Which cassava variety dey mature quick?
+
+- intent: ask_cassava_1179
+  examples: |
+    - How can farmers reduce erosion in cassava farms?
+    - How farmer fit stop erosion for cassava farm?
+
+- intent: ask_cassava_1180
+  examples: |
+    - Does cassava perform well under shade?
+    - Cassava dey grow well for shade?
+
+- intent: ask_cassava_1181
+  examples: |
+    - How long can cassava stems be stored before planting?
+    - How long cassava stem fit stay before planting?
+
+- intent: ask_cassava_1182
+  examples: |
+    - Why is crop rotation important in cassava farming?
+    - Why crop rotation important for cassava farming?
+
+- intent: ask_cassava_1183
+  examples: |
+    - Can cassava be intercropped with yam?
+    - Cassava fit mix with yam for same farm?
+
+- intent: ask_cassava_1184
+  examples: |
+    - Does cassava require pruning?
+    - Cassava dey need pruning?
+
+- intent: ask_cassava_1185
+  examples: |
+    - Why should farmers avoid planting cassava too deep?
+    - Why person no suppose plant cassava too deep?
+
+- intent: ask_cassava_1186
+  examples: |
+    - How does rainfall affect cassava yield?
+    - How rain dey affect cassava yield?
+
+- intent: ask_cassava_1187
+  examples: |
+    - Is cassava suitable for northern Nigeria?
+    - Cassava fit grow for northern Nigeria?
+
+- intent: ask_cassava_1188
+  examples: |
+    - How can farmers improve cassava root size?
+    - How farmer fit make cassava root big?
+
+- intent: ask_cassava_1189
+  examples: |
+    - Why should diseased cassava plants be removed?
+    - Why person suppose remove sick cassava plant?
+
+- intent: ask_cassava_1190
+  examples: |
+    - Should cassava stems be treated before planting?
+    - Dem suppose treat cassava stem before planting?
+
+- intent: ask_cassava_1191
+  examples: |
+    - How long does it take cassava leaves to fully develop?
+    - How long cassava leaf take to develop finish?
+
+- intent: ask_cassava_1192
+  examples: |
+    - Can cassava produce roots in poor soil?
+    - Cassava fit produce root for poor soil?
+
+- intent: ask_cassava_1193
+  examples: |
+    - Why is early weed control critical in cassava farming?
+    - Why early weeding important for cassava?
+
+- intent: ask_cassava_1194
+  examples: |
+    - Does cassava require heavy rainfall?
+    - Cassava need heavy rain?
+
+- intent: ask_cassava_1195
+  examples: |
+    - Can cassava be grown as an organic crop?
+    - Cassava fit grow as organic crop?
+
+- intent: ask_cassava_1196
+  examples: |
+    - Does cassava do well in swampy areas?
+    - Cassava dey do well for swampy place?
+
+- intent: ask_cassava_1197
+  examples: |
+    - What is the best way to harvest cassava?
+    - Wetin be best way to harvest cassava?
+
+- intent: ask_cassava_1198
+  examples: |
+    - Does cassava require staking?
+    - Cassava need stake?
+
+- intent: ask_cassava_1199
+  examples: |
+    - Can cassava grow in alkaline soil?
+    - Cassava fit grow for alkaline soil?
+
+- intent: ask_cassava_1200
+  examples: |
+    - Why is ridging recommended for cassava?
+    - Why dem dey ridge cassava?
+
+- intent: ask_cassava_1201
+  examples: |
+    - What happens if cassava is left too long in the soil?
+    - Wetin go happen if cassava too stay for soil?
+
+- intent: ask_cassava_1202
+  examples: |
+    - Can cassava be used for animal feed?
+    - Cassava fit use for animal food?
+
+- intent: ask_cassava_1203
+  examples: |
+    - Does cassava grow faster in sandy soil?
+    - Cassava dey grow fast for sandy soil?
+
+- intent: ask_cassava_1204
+  examples: |
+    - Why should cassava be harvested on time?
+    - Why cassava suppose harvest on time?
+
+- intent: ask_cassava_1205
+  examples: |
+    - Can cassava be grown on flat land?
+    - Person fit plant cassava for flat land?
+
+- intent: ask_cassava_1206
+  examples: |
+    - How can cassava farmers conserve soil moisture?
+    - How cassava farmer fit keep soil moisture?
+
+- intent: ask_cassava_1207
+  examples: |
+    - Does cassava survive in windy areas?
+    - Cassava fit survive for windy place?
+
+- intent: ask_cassava_1208
+  examples: |
+    - What causes cassava stems to rot after planting?
+    - Wetin dey make cassava stem rot after planting?
+
+- intent: ask_cassava_1209
+  examples: |
+    - How long should cassava stems be cut before planting?
+    - How long cassava stem fit stay after cutting before planting?
+
+- intent: ask_cassava_1210
+  examples: |
+    - Can cassava be grown with vegetables?
+    - Cassava fit mix with vegetable for farm?
+
+- intent: ask_cassava_1211
+  examples: |
+    - Do cassava roots increase in size after 15 months?
+    - Cassava root still dey big after 15 months?
+
+- intent: ask_cassava_1212
+  examples: |
+    - Does cassava need constant irrigation?
+    - Cassava need plenty irrigation?
+
+- intent: ask_cassava_1213
+  examples: |
+    - Why is cassava a good food security crop in Nigeria?
+    - Why cassava dey good for food security for Nigeria?
+
+- intent: ask_cassava_1214
+  examples: |
+    - Can cassava survive flooding?
+    - Cassava fit survive flood?
+
+- intent: ask_cassava_1215
+  examples: |
+    - Why is cassava considered a hardy crop?
+    - Why cassava dey considered strong crop?
+
+- intent: ask_cassava_1216
+  examples: |
+    - How can farmers boost cassava starch content?
+    - How farmer fit increase cassava starch?
+
+- intent: ask_cassava_1217
+  examples: |
+    - What causes cassava leaves to turn pale?
+    - Wetin dey make cassava leaf pale?
+
+- intent: ask_cassava_1218
+  examples: |
+    - Does cassava require manure?
+    - Cassava need manure?
+
+- intent: ask_cassava_1219
+  examples: |
+    - Should cassava cuttings have many nodes?
+    - Cassava cutting suppose get many node?
+
+- intent: ask_cassava_1220
+  examples: |
+    - Can cassava be grown for commercial starch?
+    - Cassava fit grow for starch business?
+
+- intent: ask_cassava_1221
+  examples: |
+    - Does cassava require pesticide application?
+    - Cassava need pesticide?
+
+- intent: ask_cassava_1222
+  examples: |
+    - Why should cassava farmers plant early in the rainy season?
+    - Why cassava suppose plant early when rain start?
+
+- intent: ask_cassava_1223
+  examples: |
+    - Can cassava stems be planted horizontally?
+    - Cassava stem fit plant flat?
+
+- intent: ask_cassava_1224
+  examples: |
+    - Should cassava be fertilized after planting?
+    - Dem suppose put fertilizer after cassava planting?
+
+- intent: ask_cassava_1225
+  examples: |
+    - Why do cassava leaves drop during drought?
+    - Why cassava leaf dey fall when e dry?
+
+- intent: ask_cassava_1226
+  examples: |
+    - How deep should ridges be for cassava?
+    - How high ridge suppose be for cassava?
+
+- intent: ask_cassava_1227
+  examples: |
+    - Does cassava need full sunlight to produce large roots?
+    - Cassava need full sun to get big root?
+
+- intent: ask_cassava_1228
+  examples: |
+    - How does soil fertility affect cassava leaf formation?
+    - How soil nutrient dey affect cassava leaf?
+
+- intent: ask_cassava_1229
+  examples: |
+    - Why should cassava stems not be taken from diseased plants?
+    - Why dem no suppose cut stem from sick cassava plant?
+
+- intent: ask_cassava_1230
+  examples: |
+    - Can cassava be grown under irrigation?
+    - Cassava fit grow under irrigation?
+
+- intent: ask_cassava_1231
+  examples: |
+    - Does cassava need frequent pruning?
+    - Cassava need regular pruning?
+
+- intent: ask_cassava_1232
+  examples: |
+    - Can cassava grow in clay soil?
+    - Cassava fit grow for clay soil?
+
+- intent: ask_cassava_1233
+  examples: |
+    - Why is cassava spacing important?
+    - Why spacing important for cassava?
+
+- intent: ask_cassava_1234
+  examples: |
+    - Should cassava be sprayed during flowering?
+    - Person suppose spray cassava when e dey flower?
+
+- intent: ask_cassava_1235
+  examples: |
+    - How can farmers reduce cassava stem breakage?
+    - How farmer fit stop cassava stem from breaking?
+
+- intent: ask_cassava_1236
+  examples: |
+    - Does cassava benefit from compost?
+    - Cassava dey benefit from compost?
+
+- intent: ask_cassava_1237
+  examples: |
+    - Which season gives the best cassava yield?
+    - Which season dey give the best cassava yield?
+
+- intent: ask_cassava_1238
+  examples: |
+    - Why should farmers avoid planting cassava in waterlogged fields?
+    - Why farmer suppose avoid planting cassava for waterlogged land?
+
+- intent: ask_cassava_1239
+  examples: |
+    - How can farmers improve cassava soil fertility naturally?
+    - How farmer fit improve cassava soil fertility naturally?
+
+- intent: ask_cassava_1240
+  examples: |
+    - What is the importance of using disease-free cassava planting materials?
+    - Why e important to use cassava stem wey no get disease?
+
+- intent: ask_cassava_1241
+  examples: |
+    - How often should a new cassava farm be weeded?
+    - How many times dem suppose weed new cassava farm?
+
+- intent: ask_cassava_1242
+  examples: |
+    - Can cassava grow well in acidic soils?
+    - Cassava dey grow well for acidic soil?
+
+- intent: ask_cassava_1243
+  examples: |
+    - How does shade affect cassava growth?
+    - Shade dey affect cassava growth?
+
+- intent: ask_cassava_1244
+  examples: |
+    - What is the ideal age of cassava cuttings for planting?
+    - Wetin be the best age of cassava stem to cut for planting?
+
+- intent: ask_cassava_1245
+  examples: |
+    - Why should cassava stems not be stored under direct sunlight before planting?
+    - Why cassava stem no suppose stay for direct sun before planting?
+
+- intent: ask_cassava_1246
+  examples: |
+    - How does mulching benefit cassava farms?
+    - How mulching dey help cassava farm?
+
+- intent: ask_cassava_1247
+  examples: |
+    - Can cassava be grown in northern Nigeria?
+    - Cassava fit grow for northern Nigeria?
+
+- intent: ask_cassava_1248
+  examples: |
+    - Why is cassava sometimes intercropped with vegetables?
+    - Why dem dey mix cassava with vegetable for farm?
+
+- intent: ask_cassava_1249
+  examples: |
+    - What happens when cassava is planted too deep?
+    - Wetin go happen if person plant cassava too deep?
+
+- intent: ask_cassava_1250
+  examples: |
+    - Does cassava require fertilizer in fertile soils?
+    - Cassava need fertilizer if soil dey rich already?
+
+- intent: ask_cassava_1251
+  examples: |
+    - Can cassava grow in sandy soil?
+    - Cassava fit grow for sandy soil?
+
+- intent: ask_cassava_1252
+  examples: |
+    - How can erosion be controlled in cassava farms?
+    - How person fit control erosion for cassava farm?
+
+- intent: ask_cassava_1253
+  examples: |
+    - Can cassava be grown from seeds?
+    - Person fit grow cassava from seed?
+
+- intent: ask_cassava_1254
+  examples: |
+    - Why is stem handling important in cassava farming?
+    - Why e important to handle cassava stem with care?
+
+- intent: ask_cassava_1255
+  examples: |
+    - How can farmers reduce labor costs during cassava weeding?
+    - How farmer fit reduce work for weeding cassava?
+
+- intent: ask_cassava_1256
+  examples: |
+    - What is the role of potassium in cassava growth?
+    - Wetin potassium dey do for cassava?
+
+- intent: ask_cassava_1257
+  examples: |
+    - Why does cassava sometimes produce very small roots?
+    - Why cassava dey get small root sometimes?
+
+- intent: ask_cassava_1258
+  examples: |
+    - How can farmers improve moisture retention in cassava fields?
+    - How farmer fit keep water for cassava farm soil?
+
+- intent: ask_cassava_1259
+  examples: |
+    - Why do cassava leaves turn yellow during nutrient deficiency?
+    - Why cassava leaf dey turn yellow when nutrient no dey enough?
+
+- intent: ask_cassava_1260
+  examples: |
+    - Can cassava survive short dry spells?
+    - Cassava fit survive short dry season?
+
+- intent: ask_cassava_1261
+  examples: |
+    - Does spacing affect cassava yield?
+    - Spacing fit affect cassava yield?
+
+- intent: ask_cassava_1262
+  examples: |
+    - Why are ridges preferred for planting cassava?
+    - Why ridge dey better for planting cassava?
+
+- intent: ask_cassava_1263
+  examples: |
+    - Can cassava be intercropped with cassava?
+    - Person fit intercrop cassava with cassava?
+
+- intent: ask_cassava_1264
+  examples: |
+    - What is the advantage of using improved cassava varieties?
+    - Wetin improved cassava varieties dey help with?
+
+- intent: ask_cassava_1265
+  examples: |
+    - Why should cassava farms be monitored for viral diseases?
+    - Why farmer suppose dey check cassava farm for virus disease?
+
+- intent: ask_cassava_1266
+  examples: |
+    - How does improper harvesting damage cassava roots?
+    - How wrong harvest fit spoil cassava root?
+
+- intent: ask_cassava_1267
+  examples: |
+    - When should cassava stems be collected for replanting?
+    - When person suppose cut cassava stem for replanting?
+
+- intent: ask_cassava_1268
+  examples: |
+    - Why should cassava not be left too long after maturity?
+    - Why cassava no suppose stay too long after e mature?
+
+- intent: ask_cassava_1269
+  examples: |
+    - How can farmers reduce erosion on sloped cassava land?
+    - How farmer fit reduce erosion for cassava farm wey slope?
+
+- intent: ask_cassava_1270
+  examples: |
+    - Does cassava need frequent watering?
+    - Cassava need water all the time?
+
+- intent: ask_cassava_1271
+  examples: |
+    - What is the benefit of rotating cassava with legumes?
+    - Wetin cassava go gain if dem rotate am with legume?
+
+- intent: ask_cassava_1272
+  examples: |
+    - How can farmers tell if cassava is maturing well?
+    - How farmer fit know say cassava dey mature well?
+
+- intent: ask_cassava_1273
+  examples: |
+    - Why is it important to remove diseased cassava plants?
+    - Why e good to uproot cassava wey get disease?
+
+- intent: ask_cassava_1274
+  examples: |
+    - Can farmers use animal manure for cassava?
+    - Animal dung fit help cassava farm?
+
+- intent: ask_cassava_1275
+  examples: |
+    - Does cassava require staking like yam?
+    - Cassava need stick like yam?
+
+- intent: ask_cassava_1276
+  examples: |
+    - What is the major cause of cassava root bitterness?
+    - Wetin dey make cassava root bitter?
+
+- intent: ask_cassava_1277
+  examples: |
+    - How does soil texture affect cassava tuber size?
+    - Soil texture dey affect cassava root size?
+
+- intent: ask_cassava_1278
+  examples: |
+    - How does late weeding affect cassava yield?
+    - How late weeding dey affect cassava yield?
+
+- intent: ask_cassava_1279
+  examples: |
+    - Why should cassava not be harvested during heavy rainfall?
+    - Why person no suppose harvest cassava when rain dey heavy?
+
+- intent: ask_cassava_1280
+  examples: |
+    - Can cassava be affected by too much fertilizer?
+    - Too much fertilizer fit affect cassava?
+
+- intent: ask_cassava_1281
+  examples: |
+    - Why do some cassava varieties mature earlier than others?
+    - Why some cassava variety dey mature quick pass others?
+
+- intent: ask_cassava_1282
+  examples: |
+    - How can farmers improve cassava sprouting rate?
+    - How farmer fit make cassava sprout well?
+
+- intent: ask_cassava_1283
+  examples: |
+    - Can cassava be used for livestock feed?
+    - Cassava fit serve as animal feed?
+
+- intent: ask_cassava_1284
+  examples: |
+    - Why should farmers avoid planting cassava on the same land continuously?
+    - Why farmer no suppose plant cassava for same land every time?
+
+- intent: ask_cassava_1285
+  examples: |
+    - How does humidity affect cassava diseases?
+    - How humidity dey affect cassava disease?
+
+- intent: ask_cassava_1286
+  examples: |
+    - Can cassava be grown on flat land?
+    - Cassava fit grow for flat land?
+
+- intent: ask_cassava_1287
+  examples: |
+    - Why is early land preparation important for cassava?
+    - Why early land preparation dey important for cassava?
+
+- intent: ask_cassava_1288
+  examples: |
+    - How do cassava roots respond to poor soil aeration?
+    - How cassava root dey behave if soil no get enough air?
+
+- intent: ask_cassava_1289
+  examples: |
+    - Can cassava survive flooding?
+    - Cassava fit survive flood?
+
+- intent: ask_cassava_1290
+  examples: |
+    - What causes cassava stems to rot before planting?
+    - Wetin dey cause cassava stem to rot before planting?
+
+- intent: ask_cassava_1291
+  examples: |
+    - Why should diseased cassava stems not be used for planting?
+    - Why person no suppose use diseased stem plant?
+
+- intent: ask_cassava_1292
+  examples: |
+    - Does cassava require much labor compared to other crops?
+    - Cassava need plenty labor compared to other crops?
+
+- intent: ask_cassava_1293
+  examples: |
+    - How do farmers store cassava stems during dry season?
+    - How farmer dey store cassava stem for dry season?
+
+- intent: ask_cassava_1294
+  examples: |
+    - Can cassava be fertilized with NPK?
+    - NPK fertilizer fit help cassava?
+
+- intent: ask_cassava_1295
+  examples: |
+    - Why do some cassava plants fall over during heavy wind?
+    - Why some cassava dey fall when wind strong?
+
+- intent: ask_cassava_1296
+  examples: |
+    - How can farmers promote uniform cassava growth?
+    - How farmer fit make cassava grow equal?
+
+- intent: ask_cassava_1297
+  examples: |
+    - Why do cassava leaves drop during dry season?
+    - Why cassava leaf dey fall during dry season?
+
